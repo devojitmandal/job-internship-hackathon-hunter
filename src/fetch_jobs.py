@@ -1,7 +1,12 @@
 # fetch_jobs.py
-# Fetches active internship and entry-level opportunities tailored to ECE, Embedded, RTL, and Frontend.
-# Sources: Internshala, Unstop API, Jobicy API, Arbeitnow API, and Google Custom Search API (CX1 and CX2).
-# Output: Returns a list of standardized job dictionaries, and records health stats.
+# Aggregates active internship and entry-level opportunities across:
+# - Qualcomm Career Portal (Direct API)
+# - Internshala (Core ECE, VLSI, Embedded Systems, IoT, Robotics)
+# - Unstop Internships (Student Engineering & Tech)
+# - RemoteOK (Engineering & Developer API)
+# - Jobicy (Remote Tech API)
+# - Arbeitnow (Engineering API)
+# - Google Custom Search API (Fallback if billing enabled)
 
 import os
 import sys
@@ -60,6 +65,51 @@ def make_id(title: str, company: str, url: str) -> str:
     """Generates a stable unique hash ID for a job."""
     raw = f"{title.lower()}_{company.lower()}_{url.lower()}"
     return hashlib.md5(raw.encode("utf-8")).hexdigest()[:12]
+
+
+def fetch_qualcomm_internships() -> List[Dict[str, Any]]:
+    """
+    Fetches live internship and early-career postings directly from Qualcomm's career portal API.
+    """
+    jobs = []
+    queries = ["intern", "intern india", "hardware intern"]
+    seen_ids = set()
+
+    for q in queries:
+        url = f"https://careers.qualcomm.com/api/pcsx/search?domain=qualcomm.com&query={requests.utils.quote(q)}"
+        try:
+            res = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=10)
+            if res.status_code != 200:
+                continue
+
+            positions = res.json().get("data", {}).get("positions", [])
+            for pos in positions:
+                job_id = pos.get("displayJobId") or str(pos.get("id"))
+                if not job_id or job_id in seen_ids:
+                    continue
+                seen_ids.add(job_id)
+
+                title = pos.get("name", "Engineering Intern")
+                loc = pos.get("location") or "Bengaluru / Hyderabad, India"
+                desc = pos.get("description", "") or "Qualcomm student/interim engineering internship opportunity."
+                apply_url = f"https://careers.qualcomm.com/careers/job/{job_id}"
+
+                jobs.append({
+                    "id": f"qualcomm_{job_id}",
+                    "title": title,
+                    "company": "Qualcomm",
+                    "location": loc,
+                    "description": desc[:200],
+                    "skills_hint": ["Hardware", "RTL", "Embedded", "Qualcomm"],
+                    "deadline": "Open / Apply on Qualcomm Careers",
+                    "url": apply_url,
+                    "source": "Qualcomm Careers Direct",
+                    "fetched_at": datetime.now(timezone.utc).isoformat()
+                })
+        except Exception as e:
+            logger.error("Error fetching Qualcomm career API: %s", e)
+
+    return jobs
 
 
 def fetch_internshala_internships(categories: Optional[List[str]] = None) -> List[Dict[str, Any]]:
@@ -171,6 +221,47 @@ def fetch_unstop_internships(terms: Optional[List[str]] = None) -> List[Dict[str
     return jobs
 
 
+def fetch_remoteok_jobs() -> List[Dict[str, Any]]:
+    """Fetches developer and hardware opportunities from RemoteOK public JSON API."""
+    jobs = []
+    url = "https://remoteok.com/api"
+    try:
+        res = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=10)
+        if res.status_code != 200:
+            return jobs
+
+        data = res.json()
+        for item in data[1:30]:  # Skip index 0 (metadata legal notice)
+            title = item.get("position", "")
+            tags = [t.lower() for t in item.get("tags", [])]
+            combined = f"{title.lower()} {' '.join(tags)}"
+
+            is_match = any(k in combined for k in ["intern", "junior", "c++", "python", "embedded", "hardware", "react", "frontend"])
+            if not is_match:
+                continue
+
+            company = item.get("company", "Tech Co")
+            link = item.get("url", "https://remoteok.com")
+            job_id = f"remoteok_{item.get('id', make_id(title, company, link))}"
+
+            jobs.append({
+                "id": job_id,
+                "title": title,
+                "company": company,
+                "location": item.get("location", "Remote"),
+                "description": ", ".join(tags),
+                "skills_hint": tags,
+                "deadline": "Active",
+                "url": link,
+                "source": "RemoteOK",
+                "fetched_at": datetime.now(timezone.utc).isoformat()
+            })
+    except Exception as e:
+        logger.error("Error fetching RemoteOK API: %s", e)
+
+    return jobs
+
+
 def fetch_jobicy_internships() -> List[Dict[str, Any]]:
     """Fetches relevant engineering & developer opportunities from Jobicy."""
     jobs = []
@@ -251,21 +342,15 @@ def fetch_arbeitnow_jobs() -> List[Dict[str, Any]]:
 
 
 def fetch_google_search_jobs(cx_id: Optional[str] = None, queries: Optional[List[str]] = None) -> Tuple[List[Dict[str, Any]], str]:
-    """
-    Executes search queries against Google Custom Search API.
-    Returns (results, status_message).
-    """
+    """Optional Google Custom Search API integration if billing is linked."""
     engine_id = cx_id or GOOGLE_SEARCH_ENGINE_ID_JOBS or GOOGLE_SEARCH_ENGINE_ID
-    if not GOOGLE_SEARCH_API_KEY:
-        return [], "GOOGLE_SEARCH_API_KEY not configured"
-    if not engine_id:
-        return [], "Google Search Engine ID (CX) not configured"
+    if not GOOGLE_SEARCH_API_KEY or not engine_id:
+        return [], "Google Search not configured"
 
     jobs = []
     default_queries = [
         '("RTL Design" OR "Embedded" OR "Firmware") ("intern" OR "trainee") Bengaluru',
-        '("embedded" OR "hardware" OR "electronics") internship India',
-        '("frontend" OR "react") ("intern" OR "fresher")'
+        '("embedded" OR "hardware" OR "electronics") internship India'
     ]
     target_queries = queries or default_queries
     api_status = "OK"
@@ -281,12 +366,9 @@ def fetch_google_search_jobs(cx_id: Optional[str] = None, queries: Optional[List
         try:
             res = requests.get(endpoint, params=params, timeout=10)
             if res.status_code == 403:
-                api_status = "Google API 403: Custom Search API must be enabled in Google Cloud Console"
-                logger.warning(api_status)
+                api_status = "Google API 403 (Requires Billing Account on Google Cloud)"
                 break
             elif res.status_code != 200:
-                api_status = f"Google API HTTP {res.status_code}"
-                logger.warning("Google search returned %s: %s", res.status_code, res.text[:150])
                 continue
 
             items = res.json().get("items", [])
@@ -307,8 +389,7 @@ def fetch_google_search_jobs(cx_id: Optional[str] = None, queries: Optional[List
                     "fetched_at": datetime.now(timezone.utc).isoformat()
                 })
         except Exception as e:
-            api_status = f"Google Search Exception: {e}"
-            logger.error(api_status)
+            api_status = f"Google Exception: {e}"
 
     return jobs, api_status
 
@@ -318,28 +399,28 @@ def fetch_all_jobs() -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
     Aggregates active internship and job listings from all available sources.
     Returns (unique_jobs, health_stats).
     """
-    logger.info("Fetching active jobs & internships from Internshala, Unstop, Jobicy, Arbeitnow, and Google Search...")
+    logger.info("Fetching active jobs & internships across all channels...")
+    qualcomm_jobs = fetch_qualcomm_internships()
     internshala_jobs = fetch_internshala_internships()
     unstop_jobs = fetch_unstop_internships()
+    remoteok_jobs = fetch_remoteok_jobs()
     jobicy_jobs = fetch_jobicy_internships()
     arbeitnow_jobs = fetch_arbeitnow_jobs()
-    
-    # Query Google Search using CX_JOBS and CX_INTERNSHIPS
-    google_jobs_1, g_status_1 = fetch_google_search_jobs(cx_id=GOOGLE_SEARCH_ENGINE_ID_JOBS)
-    google_jobs_2, g_status_2 = fetch_google_search_jobs(cx_id=GOOGLE_SEARCH_ENGINE_ID)
-    google_jobs = google_jobs_1 + google_jobs_2
+    google_jobs, g_status = fetch_google_search_jobs()
 
     health_stats = {
+        "qualcomm_careers": len(qualcomm_jobs),
         "internshala_ece_jobs": len(internshala_jobs),
         "unstop_internships": len(unstop_jobs),
+        "remoteok_jobs": len(remoteok_jobs),
         "jobicy_jobs": len(jobicy_jobs),
         "arbeitnow_jobs": len(arbeitnow_jobs),
         "google_search_jobs": len(google_jobs),
-        "google_search_status": g_status_1 if g_status_1 != "OK" else g_status_2
+        "google_search_status": g_status
     }
 
-    all_raw = internshala_jobs + unstop_jobs + jobicy_jobs + arbeitnow_jobs + google_jobs
-    logger.info("Fetched %d raw jobs. Health: %s", len(all_raw), health_stats)
+    all_raw = qualcomm_jobs + internshala_jobs + unstop_jobs + remoteok_jobs + jobicy_jobs + arbeitnow_jobs + google_jobs
+    logger.info("Fetched %d raw jobs across 7 channels. Health: %s", len(all_raw), health_stats)
 
     seen = set()
     unique_jobs = []
