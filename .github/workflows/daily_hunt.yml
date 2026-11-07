@@ -35,9 +35,6 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-3.8-flash' }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GOOGLE_SEARCH_API_KEY: ${{ secrets.GOOGLE_SEARCH_API_KEY }}
-          GOOGLE_SEARCH_ENGINE_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID || '40b9a5bdac4314792' }}
-          GOOGLE_SEARCH_ENGINE_ID_JOBS: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID_JOBS || '441d50735a8ee4581' }}
         run: |
           python src/main.py
 

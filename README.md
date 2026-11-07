@@ -1,16 +1,16 @@
 # 🚀 Automated Job, Internship & Hackathon Hunter
 
-An intelligent, automated opportunity discovery engine tailored to your technical profile. Scrapes live hackathons (**Devfolio**, **Unstop**, **Devpost**) and engineering internships (**Internshala Core ECE**, **Unstop**, **Jobicy**, **Arbeitnow**, and **Google Custom Search**), scores them against your background (RTL Design, FPGA, Embedded Systems, IoT, Web Dev), and delivers real-time notifications to your Telegram chat every day at **8:00 PM IST**.
+An intelligent, automated opportunity discovery engine tailored to your technical profile. Scrapes live hackathons (**Devfolio**, **Unstop**, **Devpost**) and engineering internships (**Qualcomm Careers Direct**, **Internshala Core ECE**, **Unstop**, **RemoteOK**, **Jobicy**, and **Arbeitnow**), scores them against your background (RTL Design, FPGA, Embedded Systems, IoT, Web Dev), and delivers real-time notifications to your Telegram chat every day at **8:00 PM IST**.
 
 ---
 
 ## 🌟 Key Features
 
-* **Multi-Platform Scrapers**:
+* **Multi-Platform Scrapers (100% Free & Direct)**:
+  * **Direct Semiconductor Careers**: Official career portal API for **Qualcomm** hardware/engineering internships.
   * **Core ECE Internships**: Live scrapers for **Internshala** (Embedded Systems, VLSI, Electronics, IoT, Robotics).
   * **Student Tech Challenges**: Scrapers for **Devfolio**, **Unstop**, and **Devpost** (including local Bengaluru campus events).
-  * **Developer Roles**: Integration with **Jobicy** and **Arbeitnow**.
-  * **Google Custom Search**: Targeted queries across 50+ career domains using dual search engines (CX1 & CX2).
+  * **Developer & Remote Roles**: Integration with **RemoteOK**, **Jobicy**, and **Arbeitnow**.
 * **Dual-LLM Engine with Groq Fallback**:
   * Primary: Google Gemini (`gemini-3.8-flash`).
   * Fallback: Groq Cloud (`llama-3.3-70b-versatile`) when rate limits or quotas are reached.
@@ -79,9 +79,6 @@ TELEGRAM_CHAT_ID=your_numeric_chat_id
 GEMINI_API_KEY=your_gemini_api_key
 GEMINI_MODEL=gemini-3.8-flash
 GROQ_API_KEY=your_groq_api_key_optional
-GOOGLE_SEARCH_API_KEY=your_google_cloud_api_key
-GOOGLE_SEARCH_ENGINE_ID=40b9a5bdac4314792
-GOOGLE_SEARCH_ENGINE_ID_JOBS=441d50735a8ee4581
 ```
 
 ### 3. Usage Commands
@@ -113,4 +110,3 @@ Set the following secrets in **Settings > Secrets and variables > Actions**:
 * `TELEGRAM_CHAT_ID`
 * `GEMINI_API_KEY`
 * `GROQ_API_KEY` (optional)
-* `GOOGLE_SEARCH_API_KEY` (optional)

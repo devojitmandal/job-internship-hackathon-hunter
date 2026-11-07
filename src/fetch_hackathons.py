@@ -1,5 +1,5 @@
 # fetch_hackathons.py
-# Fetches active and upcoming hackathons from public platforms (Devfolio, Unstop, Devpost, Google Search CX).
+# Fetches active and upcoming hackathons from public platforms (Devfolio, Unstop, Devpost).
 # Output: Returns a list of standardized hackathon dictionaries, and records health stats.
 
 import os
@@ -9,9 +9,8 @@ import logging
 import re
 import hashlib
 from datetime import datetime, timezone
-from typing import List, Dict, Any, Optional, Tuple
+from typing import List, Dict, Any, Tuple
 import requests
-from dotenv import load_dotenv
 
 if sys.platform == "win32":
     try:
@@ -20,16 +19,11 @@ if sys.platform == "win32":
     except Exception:
         pass
 
-load_dotenv()
-
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
 
 DATA_FILE = "data/hackathons.json"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-
-GOOGLE_SEARCH_API_KEY = os.environ.get("GOOGLE_SEARCH_API_KEY")
-GOOGLE_SEARCH_ENGINE_ID = os.environ.get("GOOGLE_SEARCH_ENGINE_ID")
 
 
 def make_id(name: str, platform: str, url: str) -> str:
@@ -164,80 +158,24 @@ def fetch_devpost_hackathons() -> List[Dict[str, Any]]:
     return hackathons
 
 
-def fetch_google_search_hackathons() -> Tuple[List[Dict[str, Any]], str]:
-    """Fetches hackathons from Google Custom Search using CX1."""
-    if not GOOGLE_SEARCH_API_KEY or not GOOGLE_SEARCH_ENGINE_ID:
-        return [], "Google Search API not fully configured"
-
-    hackathons = []
-    api_status = "OK"
-    queries = [
-        'hackathon ("IoT" OR "Hardware" OR "AI") registration open 2026',
-        'hackathon Bengaluru college 2026'
-    ]
-
-    for query in queries:
-        endpoint = "https://www.googleapis.com/customsearch/v1"
-        params = {
-            "key": GOOGLE_SEARCH_API_KEY,
-            "cx": GOOGLE_SEARCH_ENGINE_ID,
-            "q": query,
-            "num": 5
-        }
-        try:
-            res = requests.get(endpoint, params=params, timeout=10)
-            if res.status_code == 403:
-                api_status = "Google API 403: Custom Search API must be enabled in Google Cloud Console"
-                break
-            elif res.status_code != 200:
-                continue
-
-            items = res.json().get("items", [])
-            for item in items:
-                title = item.get("title", "")
-                link = item.get("link", "")
-                snippet = item.get("snippet", "")
-                hackathons.append({
-                    "id": f"gsearch_h_{make_id(title, 'Google Search', link)}",
-                    "name": title,
-                    "platform": "Google Search Discovery",
-                    "tagline": snippet[:100],
-                    "description": snippet,
-                    "dates": "Upcoming",
-                    "location": "Online / Bengaluru",
-                    "is_online": True,
-                    "prizes": "Prizes listed on registration page",
-                    "url": link,
-                    "source": "Google Custom Search",
-                    "fetched_at": datetime.now(timezone.utc).isoformat()
-                })
-        except Exception as e:
-            api_status = f"Google Exception: {e}"
-
-    return hackathons, api_status
-
-
 def fetch_all_hackathons() -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
     """
-    Combines hackathon feeds from Devfolio, Unstop, Devpost, and Google Search.
+    Combines hackathon feeds from Devfolio, Unstop, and Devpost.
     Returns (unique_hackathons, health_stats).
     """
-    logger.info("Fetching hackathons from Devfolio, Unstop, Devpost, and Google Search...")
+    logger.info("Fetching hackathons from Devfolio, Unstop, and Devpost...")
     devfolio_list = fetch_devfolio_hackathons(limit=15)
     unstop_list = fetch_unstop_hackathons(limit=15)
     devpost_list = fetch_devpost_hackathons()
-    google_list, g_status = fetch_google_search_hackathons()
 
     health_stats = {
         "devfolio_hackathons": len(devfolio_list),
         "unstop_hackathons": len(unstop_list),
-        "devpost_hackathons": len(devpost_list),
-        "google_search_hackathons": len(google_list),
-        "google_search_status": g_status
+        "devpost_hackathons": len(devpost_list)
     }
 
-    all_raw = devfolio_list + unstop_list + devpost_list + google_list
-    logger.info("Fetched %d raw hackathons. Health: %s", len(all_raw), health_stats)
+    all_raw = devfolio_list + unstop_list + devpost_list
+    logger.info("Fetched %d raw hackathons across 3 platforms. Health: %s", len(all_raw), health_stats)
 
     seen = set()
     unique_hackathons = []
@@ -257,6 +195,6 @@ def fetch_all_hackathons() -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
 
 if __name__ == "__main__":
     hackathons, health = fetch_all_hackathons()
-    print(f"\nFetched {len(hackathons)} hackathons. Health: {health}")
+    print(f"\nFetched {len(hackathons)} hackathons across 3 platforms. Health: {health}")
     for h in hackathons[:4]:
         print(f" - [{h['platform']}] {h['name']} -> {h['url']}")

@@ -6,7 +6,6 @@
 # - RemoteOK (Engineering & Developer API)
 # - Jobicy (Remote Tech API)
 # - Arbeitnow (Engineering API)
-# - Google Custom Search API (Fallback if billing enabled)
 
 import os
 import sys
@@ -17,7 +16,6 @@ from datetime import datetime, timezone
 from typing import List, Dict, Any, Optional, Tuple
 import requests
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv
 
 if sys.platform == "win32":
     try:
@@ -25,8 +23,6 @@ if sys.platform == "win32":
         sys.stderr.reconfigure(encoding="utf-8")
     except Exception:
         pass
-
-load_dotenv()
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
@@ -55,10 +51,6 @@ SEARCH_TERMS = [
     "frontend",
     "web"
 ]
-
-GOOGLE_SEARCH_API_KEY = os.environ.get("GOOGLE_SEARCH_API_KEY")
-GOOGLE_SEARCH_ENGINE_ID = os.environ.get("GOOGLE_SEARCH_ENGINE_ID")
-GOOGLE_SEARCH_ENGINE_ID_JOBS = os.environ.get("GOOGLE_SEARCH_ENGINE_ID_JOBS")
 
 
 def make_id(title: str, company: str, url: str) -> str:
@@ -231,7 +223,7 @@ def fetch_remoteok_jobs() -> List[Dict[str, Any]]:
             return jobs
 
         data = res.json()
-        for item in data[1:30]:  # Skip index 0 (metadata legal notice)
+        for item in data[1:30]:  # Skip index 0 (legal/metadata notice)
             title = item.get("position", "")
             tags = [t.lower() for t in item.get("tags", [])]
             combined = f"{title.lower()} {' '.join(tags)}"
@@ -341,62 +333,9 @@ def fetch_arbeitnow_jobs() -> List[Dict[str, Any]]:
     return jobs
 
 
-def fetch_google_search_jobs(cx_id: Optional[str] = None, queries: Optional[List[str]] = None) -> Tuple[List[Dict[str, Any]], str]:
-    """Optional Google Custom Search API integration if billing is linked."""
-    engine_id = cx_id or GOOGLE_SEARCH_ENGINE_ID_JOBS or GOOGLE_SEARCH_ENGINE_ID
-    if not GOOGLE_SEARCH_API_KEY or not engine_id:
-        return [], "Google Search not configured"
-
-    jobs = []
-    default_queries = [
-        '("RTL Design" OR "Embedded" OR "Firmware") ("intern" OR "trainee") Bengaluru',
-        '("embedded" OR "hardware" OR "electronics") internship India'
-    ]
-    target_queries = queries or default_queries
-    api_status = "OK"
-
-    for query in target_queries:
-        endpoint = "https://www.googleapis.com/customsearch/v1"
-        params = {
-            "key": GOOGLE_SEARCH_API_KEY,
-            "cx": engine_id,
-            "q": query,
-            "num": 5
-        }
-        try:
-            res = requests.get(endpoint, params=params, timeout=10)
-            if res.status_code == 403:
-                api_status = "Google API 403 (Requires Billing Account on Google Cloud)"
-                break
-            elif res.status_code != 200:
-                continue
-
-            items = res.json().get("items", [])
-            for item in items:
-                title = item.get("title", "")
-                link = item.get("link", "")
-                snippet = item.get("snippet", "")
-                jobs.append({
-                    "id": f"gsearch_{make_id(title, 'Google Search', link)}",
-                    "title": title,
-                    "company": "Live Portal (Google Search)",
-                    "location": "Bengaluru / India / Remote",
-                    "description": snippet,
-                    "skills_hint": [],
-                    "deadline": "Recent Posting",
-                    "url": link,
-                    "source": "Google Custom Search",
-                    "fetched_at": datetime.now(timezone.utc).isoformat()
-                })
-        except Exception as e:
-            api_status = f"Google Exception: {e}"
-
-    return jobs, api_status
-
-
 def fetch_all_jobs() -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
     """
-    Aggregates active internship and job listings from all available sources.
+    Aggregates active internship and job listings across all 6 direct channels.
     Returns (unique_jobs, health_stats).
     """
     logger.info("Fetching active jobs & internships across all channels...")
@@ -406,7 +345,6 @@ def fetch_all_jobs() -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
     remoteok_jobs = fetch_remoteok_jobs()
     jobicy_jobs = fetch_jobicy_internships()
     arbeitnow_jobs = fetch_arbeitnow_jobs()
-    google_jobs, g_status = fetch_google_search_jobs()
 
     health_stats = {
         "qualcomm_careers": len(qualcomm_jobs),
@@ -414,13 +352,11 @@ def fetch_all_jobs() -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
         "unstop_internships": len(unstop_jobs),
         "remoteok_jobs": len(remoteok_jobs),
         "jobicy_jobs": len(jobicy_jobs),
-        "arbeitnow_jobs": len(arbeitnow_jobs),
-        "google_search_jobs": len(google_jobs),
-        "google_search_status": g_status
+        "arbeitnow_jobs": len(arbeitnow_jobs)
     }
 
-    all_raw = qualcomm_jobs + internshala_jobs + unstop_jobs + remoteok_jobs + jobicy_jobs + arbeitnow_jobs + google_jobs
-    logger.info("Fetched %d raw jobs across 7 channels. Health: %s", len(all_raw), health_stats)
+    all_raw = qualcomm_jobs + internshala_jobs + unstop_jobs + remoteok_jobs + jobicy_jobs + arbeitnow_jobs
+    logger.info("Fetched %d raw jobs across 6 channels. Health: %s", len(all_raw), health_stats)
 
     seen = set()
     unique_jobs = []
@@ -440,6 +376,6 @@ def fetch_all_jobs() -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
 
 if __name__ == "__main__":
     jobs, health = fetch_all_jobs()
-    print(f"\nFetched {len(jobs)} ACTIVE jobs/internships. Health: {health}")
+    print(f"\nFetched {len(jobs)} ACTIVE jobs/internships across 6 channels. Health: {health}")
     for j in jobs[:6]:
         print(f" - [{j['source']}] {j['title']} at {j['company']} ({j.get('location')}) -> {j['url']}")

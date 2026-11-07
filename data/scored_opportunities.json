@@ -2,6 +2,25 @@
   "candidate": "Devojit Mandal",
   "top_jobs": [
     {
+      "id": "unstop_1782546",
+      "title": "React & DB Developer Internship",
+      "company": "SmaranAI.in",
+      "location": "India (City)",
+      "description": "Internship at SmaranAI.in",
+      "skills_hint": [
+        "developer"
+      ],
+      "deadline": "2026-11-11 (3 days left)",
+      "url": "https://unstop.com/internships/react-db-developer-internship-smaranaiin-1782546",
+      "source": "Unstop Internships",
+      "fetched_at": "2026-11-07T22:30:19.629246+00:00",
+      "match_score": 85,
+      "matching_skills": [
+        "FRONTEND",
+        "React"
+      ]
+    },
+    {
       "id": "unstop_1791169",
       "title": "React Native Internship",
       "company": "Kiran Foundation",
@@ -13,7 +32,7 @@
       "deadline": "2026-11-16 (7 days left)",
       "url": "https://unstop.com/internships/react-native-internship-kiran-foundation-1791169",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-07T20:43:49.640796+00:00",
+      "fetched_at": "2026-11-07T22:30:20.873035+00:00",
       "match_score": 85,
       "matching_skills": [
         "FRONTEND",
@@ -32,26 +51,7 @@
       "deadline": "2026-11-17 (8 days left)",
       "url": "https://unstop.com/internships/react-native-internship-kiran-foundation-1745285",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-07T20:43:49.640826+00:00",
-      "match_score": 85,
-      "matching_skills": [
-        "FRONTEND",
-        "React"
-      ]
-    },
-    {
-      "id": "unstop_1782546",
-      "title": "React & DB Developer Internship",
-      "company": "SmaranAI.in",
-      "location": "India (City)",
-      "description": "Internship at SmaranAI.in",
-      "skills_hint": [
-        "react"
-      ],
-      "deadline": "2026-11-11 (3 days left)",
-      "url": "https://unstop.com/internships/react-db-developer-internship-smaranaiin-1782546",
-      "source": "Unstop Internships",
-      "fetched_at": "2026-11-07T20:43:49.640836+00:00",
+      "fetched_at": "2026-11-07T22:30:20.873054+00:00",
       "match_score": 85,
       "matching_skills": [
         "FRONTEND",
@@ -70,7 +70,7 @@
       "deadline": "2026-11-10 (1 days left)",
       "url": "https://unstop.com/internships/hardware-engineering-internship-qualcomm-1779586",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-07T20:43:46.665224+00:00",
+      "fetched_at": "2026-11-07T22:30:17.446365+00:00",
       "match_score": 70,
       "matching_skills": [
         "HARDWARE"
@@ -88,7 +88,7 @@
       "deadline": "2026-11-14 (6 days left)",
       "url": "https://unstop.com/internships/ai-robotics-trainer-internship-kartexa-1787210",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-07T20:43:47.653148+00:00",
+      "fetched_at": "2026-11-07T22:30:19.188240+00:00",
       "match_score": 70,
       "matching_skills": [
         "IOT"
@@ -106,25 +106,7 @@
       "deadline": "2026-11-16 (8 days left)",
       "url": "https://unstop.com/internships/frontend-developer-godstockss-1791739",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-07T20:43:48.401004+00:00",
-      "match_score": 70,
-      "matching_skills": [
-        "FRONTEND"
-      ]
-    },
-    {
-      "id": "unstop_1776403",
-      "title": "Full Stack Developer Internship",
-      "company": "Makers Need More (MnM)",
-      "location": "India (City)",
-      "description": "Internship at Makers Need More (MnM)",
-      "skills_hint": [
-        "developer"
-      ],
-      "deadline": "2026-11-08 (21 hours left)",
-      "url": "https://unstop.com/internships/full-stack-developer-internship-makers-need-more-mnm-1776403",
-      "source": "Unstop Internships",
-      "fetched_at": "2026-11-07T20:43:48.401051+00:00",
+      "fetched_at": "2026-11-07T22:30:19.629196+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -142,7 +124,25 @@
       "deadline": "2026-11-10 (1 days left)",
       "url": "https://unstop.com/internships/frontend-application-developer-internship-accesco-living-1781166",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-07T20:43:48.401064+00:00",
+      "fetched_at": "2026-11-07T22:30:19.629225+00:00",
+      "match_score": 70,
+      "matching_skills": [
+        "FRONTEND"
+      ]
+    },
+    {
+      "id": "unstop_1791016",
+      "title": "Full Stack Developer Internship",
+      "company": "Webboost Solutions",
+      "location": "India (City)",
+      "description": "Internship at Webboost Solutions",
+      "skills_hint": [
+        "developer"
+      ],
+      "deadline": "2026-11-09 (1 days left)",
+      "url": "https://unstop.com/internships/full-stack-developer-internship-webboost-solutions-1791016",
+      "source": "Unstop Internships",
+      "fetched_at": "2026-11-07T22:30:19.629232+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -160,7 +160,7 @@
       "deadline": "2026-11-15 (7 days left)",
       "url": "https://unstop.com/internships/full-stack-developer-internship-btow-pvt-ltd-1789292",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-07T20:43:48.401086+00:00",
+      "fetched_at": "2026-11-07T22:30:19.629253+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -180,7 +180,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://the-big-hack-2.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622044+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384248+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -201,7 +201,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://haxfinity.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622107+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384285+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -223,7 +223,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://innerve-11.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622159+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384315+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -245,7 +245,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://coderave-2.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.815036+00:00",
+      "fetched_at": "2026-11-07T22:30:10.537129+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -267,7 +267,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://eclipse.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.815044+00:00",
+      "fetched_at": "2026-11-07T22:30:10.537134+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -289,7 +289,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://devnexus2.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622122+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384291+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -310,7 +310,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hackodisha-6a.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622142+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384302+00:00",
       "match_score": 95,
       "matching_skills": [
         "WEB",
@@ -331,7 +331,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hacksprint-3.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.814975+00:00",
+      "fetched_at": "2026-11-07T22:30:10.537095+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -352,7 +352,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://genarrative-clash.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622091+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384273+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
@@ -372,7 +372,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://lean-in-hacks-8.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622132+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384296+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
@@ -392,7 +392,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hack-with-gdg-s4.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622167+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384319+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
@@ -412,7 +412,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hack-1736.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622175+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384325+00:00",
       "match_score": 85,
       "matching_skills": [
         "HACK",
@@ -432,7 +432,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://diversion2k27.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.815015+00:00",
+      "fetched_at": "2026-11-07T22:30:10.537118+00:00",
       "match_score": 85,
       "matching_skills": [
         "WEB",
@@ -452,7 +452,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://chiangmai.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.815026+00:00",
+      "fetched_at": "2026-11-07T22:30:10.537124+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
@@ -472,7 +472,7 @@
       "prizes": "Prizes Available",
       "url": "https://unstop.com/hackathons/goblet-of-codes-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1798470",
       "source": "Unstop API",
-      "fetched_at": "2026-11-07T20:43:43.214836+00:00",
+      "fetched_at": "2026-11-07T22:30:10.649510+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
@@ -492,7 +492,7 @@
       "prizes": "$67,500",
       "url": "https://paypalaihackathon.devpost.com/",
       "source": "Devpost API",
-      "fetched_at": "2026-11-07T20:43:44.392910+00:00",
+      "fetched_at": "2026-11-07T22:30:11.874012+00:00",
       "match_score": 80,
       "matching_skills": [
         "AI",
@@ -513,7 +513,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hack-nexus.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-07T20:43:42.622151+00:00",
+      "fetched_at": "2026-11-07T22:30:10.384307+00:00",
       "match_score": 75,
       "matching_skills": [
         "HACK",
@@ -532,7 +532,7 @@
       "prizes": "Prizes Available",
       "url": "https://unstop.com/hackathons/game-of-codes-national-institute-of-technology-nit-agartala-1797379",
       "source": "Unstop API",
-      "fetched_at": "2026-11-07T20:43:43.214767+00:00",
+      "fetched_at": "2026-11-07T22:30:10.649448+00:00",
       "match_score": 75,
       "matching_skills": [
         "HACK",
@@ -551,7 +551,7 @@
       "prizes": ", , ",
       "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395",
       "source": "Unstop API",
-      "fetched_at": "2026-11-07T20:43:43.214811+00:00",
+      "fetched_at": "2026-11-07T22:30:10.649482+00:00",
       "match_score": 75,
       "matching_skills": [
         "AI",
@@ -570,7 +570,7 @@
       "prizes": ", , ",
       "url": "https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479",
       "source": "Unstop API",
-      "fetched_at": "2026-11-07T20:43:43.214825+00:00",
+      "fetched_at": "2026-11-07T22:30:10.649492+00:00",
       "match_score": 75,
       "matching_skills": [
         "AI",
@@ -589,7 +589,7 @@
       "prizes": ", , , ",
       "url": "https://unstop.com/hackathons/overclock-agnel-charities-fr-c-rodrigues-institute-of-technology-vashi-navi-mumbai-1798677",
       "source": "Unstop API",
-      "fetched_at": "2026-11-07T20:43:43.214831+00:00",
+      "fetched_at": "2026-11-07T22:30:10.649497+00:00",
       "match_score": 75,
       "matching_skills": [
         "AI",
@@ -608,7 +608,7 @@
       "prizes": "Prizes Available",
       "url": "https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
       "source": "Unstop API",
-      "fetched_at": "2026-11-07T20:43:43.214841+00:00",
+      "fetched_at": "2026-11-07T22:30:10.649515+00:00",
       "match_score": 75,
       "matching_skills": [
         "AI",
@@ -616,6 +616,6 @@
       ]
     }
   ],
-  "all_scored_jobs_count": 66,
+  "all_scored_jobs_count": 138,
   "all_scored_hackathons_count": 39
 }
