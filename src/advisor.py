@@ -1,7 +1,7 @@
 # advisor.py
 # Generates personalized resume customization tips and hackathon action plans.
-# Supports Gemini API with seamless fallback to Groq API (llama-3.3-70b-versatile)
-# and offline deterministic rule-based advice.
+# Supports Gemini API with timeout protection, instant quota failover,
+# Groq API fallback (llama-3.3-70b-versatile), and instantaneous heuristic advice.
 
 import os
 import sys
@@ -19,17 +19,27 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 
+# Circuit breaker: If Gemini hits quota, disable for the remainder of this run
+_GEMINI_EXHAUSTED = False
+
 
 def call_llm_json(prompt: str) -> Optional[Dict[str, Any]]:
     """
-    Calls Gemini API with automatic fallback to Groq API.
-    Returns parsed JSON dict, or None if both fail.
+    Calls Gemini API with strict timeout and failover to Groq API.
+    Guarantees no hanging or exponential backoff delay.
     """
-    # 1. Try Gemini
-    if GEMINI_API_KEY:
+    global _GEMINI_EXHAUSTED
+
+    # 1. Try Gemini (only if not already marked as exhausted in this run)
+    if not _GEMINI_EXHAUSTED and GEMINI_API_KEY:
         try:
             from google import genai
-            client = genai.Client(api_key=GEMINI_API_KEY)
+            from google.genai import types
+
+            client = genai.Client(
+                api_key=GEMINI_API_KEY,
+                http_options=types.HttpOptions(timeout=3000)  # 3-second hard timeout
+            )
             response = client.models.generate_content(
                 model=GEMINI_MODEL,
                 contents=prompt,
@@ -37,13 +47,14 @@ def call_llm_json(prompt: str) -> Optional[Dict[str, Any]]:
             )
             return json.loads(response.text.strip())
         except Exception as e:
-            logger.warning("Gemini API call failed (%s), attempting Groq fallback...", e)
+            logger.warning("Gemini call failed (%s). Disabling Gemini for this run.", type(e).__name__)
+            _GEMINI_EXHAUSTED = True
 
     # 2. Try Groq Fallback
     if GROQ_API_KEY:
         try:
             import groq
-            groq_client = groq.Groq(api_key=GROQ_API_KEY)
+            groq_client = groq.Groq(api_key=GROQ_API_KEY, timeout=4.0)
             completion = groq_client.chat.completions.create(
                 model="llama-3.3-70b-versatile",
                 messages=[
@@ -56,7 +67,7 @@ def call_llm_json(prompt: str) -> Optional[Dict[str, Any]]:
             raw = completion.choices[0].message.content
             return json.loads(raw.strip())
         except Exception as e:
-            logger.warning("Groq API fallback failed: %s", e)
+            logger.warning("Groq fallback failed: %s", type(e).__name__)
 
     return None
 
@@ -64,15 +75,16 @@ def call_llm_json(prompt: str) -> Optional[Dict[str, Any]]:
 def generate_resume_tips(job: Dict[str, Any], profile: Dict[str, Any]) -> Dict[str, Any]:
     """
     Generates actionable minor tweaks for the candidate's resume based on the job requirements.
-    Uses AI if available, with robust heuristic rule-based fallback.
+    Uses AI if available, with instantaneous heuristic rule-based fallback.
     """
     title = job.get("title", "")
     company = job.get("company", "")
     desc = (job.get("description", "") + " " + " ".join(job.get("skills_hint", []))).lower()
     combined = f"{title.lower()} {desc}"
 
-    # Check for AI generation first
-    prompt = f"""Given this engineering candidate and job listing, generate 3 specific, minor resume modifications to maximize interview chances.
+    # Only attempt LLM if quota is not exhausted
+    if not _GEMINI_EXHAUSTED or GROQ_API_KEY:
+        prompt = f"""Given this engineering candidate and job listing, generate 3 specific, minor resume modifications to maximize interview chances.
 
 Candidate:
 - Degree: B.E. in Electronics & Communication (ECE)
@@ -91,11 +103,11 @@ Return JSON:
   "highlight_tip": "One key academic or competition detail to highlight for this specific company"
 }}
 """
-    ai_result = call_llm_json(prompt)
-    if ai_result and "project_tip" in ai_result:
-        return ai_result
+        ai_result = call_llm_json(prompt)
+        if ai_result and "project_tip" in ai_result:
+            return ai_result
 
-    # Deterministic Rule-Based Fallback
+    # Instantaneous Deterministic Rule-Based Fallback (< 0.001s)
     project_tip = ""
     skill_tip = ""
     highlight_tip = ""
@@ -113,7 +125,7 @@ Return JSON:
     elif any(k in combined for k in ["hardware", "electronics", "robotics", "circuit", "pcb", "ece"]):
         project_tip = "Feature both the Biometric Watch (hardware interfacing) and Digital Logic ALU projects."
         skill_tip = "Promote Basic Circuit Design, ESP32, and Xilinx Vivado alongside C and Python."
-        highlight_tip = "Highlight your ECE degree USN 1AY25EC045 and strong fundamentals in circuit analysis."
+        highlight_tip = "Highlight your ECE degree and strong fundamentals in circuit analysis and hardware debugging."
 
     elif any(k in combined for k in ["frontend", "front-end", "react", "ui", "web", "javascript"]):
         project_tip = "Lead with the 'Space-Themed Interactive Portfolio' and 'Resilience Hub' React prototype."
