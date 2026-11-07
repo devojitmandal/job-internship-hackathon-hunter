@@ -1,0 +1,11 @@
+# Core & Resume Parsing
+google-genai>=0.1.1
+pymupdf>=1.24.0
+python-dotenv>=1.0.0
+
+# HTTP & Web Scraping (Jobs & Hackathons)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# LLM Providers (from .env.example)
+groq>=0.9.0

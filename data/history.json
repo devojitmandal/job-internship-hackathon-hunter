@@ -1,0 +1,54 @@
+{
+  "notified_ids": [
+    "unstop_1779586",
+    "unstop_1791169",
+    "unstop_1782546",
+    "devfolio_cf5fb5645ec44de88ee455be936825da",
+    "devfolio_c3799771d6044d5dab5b1166ed242bc7",
+    "devfolio_c163f2c5e7bb4c7bb7acbdb3c572bfa3",
+    "devfolio_c84b90d65eff4ae083366fc1cc549e81",
+    "devfolio_8b69c2039a8d4b4085c3869b9b25d9c9",
+    "devpost_31302",
+    "devfolio_409173af22ac40d5aecb47ea06886ab3",
+    "unstop_1797379",
+    "unstop_1798677",
+    "unstop_1798470",
+    "devfolio_1c56ad13b8b0467ca2c3772566a0fdd2",
+    "unstop_1794479",
+    "unstop_1776403",
+    "unstop_1745285",
+    "unstop_1791016",
+    "unstop_1799092",
+    "unstop_1787210",
+    "devfolio_8cf5de84ec814a8daf7f6c4caf538045",
+    "devfolio_50e23a48e3964f43878279a3bf81339d",
+    "unstop_1789292",
+    "unstop_1791739",
+    "unstop_1800395",
+    "devfolio_0dab52b6085941a6b366b2425310d8b8",
+    "devfolio_33da0fd4233c4ea1a4549375c145864c",
+    "devfolio_6ab81312cb504b4195e46290f44e7191",
+    "devfolio_feaf6d51a5ba4774acf1ccaaa1d4b789",
+    "unstop_1781166",
+    "devfolio_d957bc2099f945e99edfae0c2972bed9",
+    "devfolio_40f5203a0b9842038b51dd3f73236690"
+  ],
+  "last_run": "2026-11-07T20:43:57.836677+00:00",
+  "health_last_run": {
+    "total_scanned": 105,
+    "job_health": {
+      "unstop_internships": 36,
+      "jobicy_jobs": 18,
+      "arbeitnow_jobs": 12,
+      "google_search_jobs": 0,
+      "google_search_status": "Google API 403: Custom Search API must be enabled in Google Cloud Console"
+    },
+    "hackathon_health": {
+      "devfolio_hackathons": 15,
+      "unstop_hackathons": 15,
+      "devpost_hackathons": 9,
+      "google_search_hackathons": 0,
+      "google_search_status": "Google API 403: Custom Search API must be enabled in Google Cloud Console"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "name": "Devojit Mandal",
+  "location": "Bengaluru, Karnataka, India",
+  "education": {
+    "degree": "Bachelor of Engineering (B.E.)",
+    "branch": "Electronics & Communication (ECE)",
+    "college": "Visvesvaraya Technological University (VTU) | Acharya Institute Of Technology, Bengaluru",
+    "graduation_year": "2029",
+    "details": "3rd Semester (In Progress)"
+  },
+  "skills": [
+    "C",
+    "Verilog HDL",
+    "Python",
+    "React",
+    "HTML/CSS",
+    "ESP32",
+    "ESP32-C3",
+    "Xilinx Vivado / ISE",
+    "Arduino IDE",
+    "Wokwi Simulation",
+    "Basic Circuit Design",
+    "RTL Design",
+    "Combinational & Sequential Logic",
+    "Digital Logic",
+    "FPGA Design",
+    "Embedded Firmware",
+    "VS Code",
+    "Cursor",
+    "Git",
+    "GitHub"
+  ],
+  "projects": [
+    {
+      "name": "Digital Logic & RTL Design Lab Projects",
+      "description": "Designed and verified structural and behavioral RTL models for a 4-bit Arithmetic Logic Unit (ALU), Adders/Subtractors, and code converters (Gray-to-Binary, Binary-to-Excess-3) using Xilinx Vivado. Implemented multiplexers (8:1), encoders, and priority encoders using behavioral/dataflow descriptions; validated Boolean expressions with Verilog.",
+      "technologies": [
+        "Verilog HDL",
+        "Xilinx Vivado",
+        "RTL Design",
+        "FPGA",
+        "Digital Logic"
+      ]
+    },
+    {
+      "name": "Advanced Biometric Watch v3.0",
+      "description": "Engineered embedded firmware for an ESP32-C3 wearable physiological monitor, bridging low-level hardware protocols with real-time data acquisition. Formulated and validated mathematical biological models to analyze simulated sensor inputs, optimizing the extraction of real-time health metrics.",
+      "technologies": [
+        "ESP32-C3",
+        "Embedded Systems",
+        "Firmware",
+        "Sensors",
+        "I2C/SPI"
+      ]
+    },
+    {
+      "name": "Student Management System",
+      "description": "Developed a modular, C-based database architecture to efficiently manage and structure academic records using foundational data handling principles. Programmed custom data analytics algorithms to parse terminal inputs and compute statistical performance metrics.",
+      "technologies": [
+        "C",
+        "Data Structures",
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Resilience Hub",
+      "description": "Architected a mental wellness web prototype focused on user resilience, exploring principles of Human-Computer Interaction (HCI) and digital resource accessibility. Investigated AI-assisted rapid development workflows, utilizing prompt engineering to deploy front-end UI and backend logic in 24 hours.",
+      "technologies": [
+        "React",
+        "HCI",
+        "Prompt Engineering",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Interactive Personal Portfolio",
+      "description": "Designed and developed a dynamic, space-themed personal portfolio website with a terminal-style user interface to showcase engineering projects, bridging bare-metal microcontroller concepts with modern web technologies.",
+      "technologies": [
+        "React",
+        "UI/UX",
+        "Web Development"
+      ]
+    }
+  ],
+  "target_roles": [
+    "RTL Design Intern",
+    "Digital Design / FPGA Intern",
+    "Embedded Systems Intern",
+    "Firmware Engineering Intern",
+    "Hardware / IoT Intern",
+    "Frontend Developer Intern"
+  ],
+  "experience_level": "fresher",
+  "languages": [
+    "C",
+    "Verilog HDL",
+    "Python"
+  ],
+  "hackathon_achievements": [
+    {
+      "name": "Prompt to Code Hackathon",
+      "rank": "Top 50",
+      "total_participants": "N/A",
+      "platform": "Hack2Skill"
+    },
+    {
+      "name": "Introduction to Generative AI Badge",
+      "rank": "Badge Earned",
+      "total_participants": "N/A",
+      "platform": "Google Cloud Skills Boost"
+    }
+  ],
+  "last_parsed": "2026-11-07T18:12:00.000000+00:00"
+}
