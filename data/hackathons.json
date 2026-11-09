@@ -11,35 +11,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://the-big-hack-2.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371574+00:00"
-  },
-  {
-    "id": "devfolio_40f5203a0b9842038b51dd3f73236690",
-    "name": "GeNarrative Clash",
-    "platform": "Devfolio",
-    "tagline": "Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge",
-    "description": "# GeNarrative Clash 2026\n*Where Generative AI Meets Human Creativity*\n\nAre you ready to redefine how stories are told, music is composed, and digital art is created? **GeNarrative Clash** is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University.\n\n---\n\n### 🚀 Hands-On AI & API Masterclass (Included!)\nDon't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive **1-Hour Hands-On Masterclass on AI Development & API Integration**. Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence.\n\n---\n\n### 🎁 Perks, Bounties & Swag\n* **Cash Bounties & Prize Pool:** Generous rewards or prizes for top-performing teams and winners.\n* **Exclusive Swags:** Official sponsor goodies for top 12 finalists.\n* **Certificates for All:** Official certificates of participation and achievement for all attending hackers.\n\n---\n\n### 🎨 The Challenge: Empowering the Creative Artist (Open Track)\nGenerative AI shouldn't replace human creators, it should supercharge them! **GeNarrative Clash** features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. \n\nYou are free to solve any real-world problem in the artistic or creative domain.\n\n**Inspiration & Potential Project Directions:**\n* **Storytelling & Narrative Assistants:** GenAI co-writers that help authors outline complex multiverses, generate dynamic dialogue, or build interactive narratives.\n* **AI Music & Sound Studios:** Production-ready suites that assist musicians with harmonies, stem generation, or intelligent sound design.\n* **Autonomous Creator Agents:** GenAI agents and social media co-pilots that help digital creators manage, format, and schedule content tailored to their target audience.\n* **Digital Art & Visual Co-Pilots:** Tools that aid animators, illustrators, and designers in concept generation and workflow automation.\n\n---\n\n### ⚙️ Hackathon Rules & Technical Freedom\n* **No Tech Stack Restrictions:** You are completely free to use any programming language, framework, API, or LLM (OpenAI, Gemini, Anthropic, or open-source models).\n* **The 50/50 Pre-Building Rule:** To ensure high-quality, production-ready submissions, teams are permitted to pre-build up to **50% of their project before event day** (wireframes, boilerplate code, trained prompts, or baseline UI). The remaining **50% of the project must be built live** during the 6-hour hacking sprint.\n\n---\n\n### 📍 Venue & Event Date\n* **Date:** November 21, 2026  \n* **Venue:** Techno India University, EM Block, Sector V, Salt Lake, Kolkata, West Bengal 700091",
-    "dates": "2026-11-21 to 2026-11-21",
-    "location": "Techno India University, EM Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091, India",
-    "is_online": false,
-    "prizes": "Prize pool & perks listed on site",
-    "url": "https://genarrative-clash.devfolio.co",
-    "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371619+00:00"
-  },
-  {
-    "id": "devfolio_50e23a48e3964f43878279a3bf81339d",
-    "name": "haxfinity",
-    "platform": "Devfolio",
-    "tagline": "",
-    "description": "HAXFINITY — Hack the Infinite\n\nThe 24-hour hackathon of XTHRON ’26\n\n12–13 December 2026  \n10:30 AM, 12 December – 10:30 AM, 13 December  \nAmal College of Advanced Studies (Autonomous), Nilambur, Kerala\n\nPrizes:Exciting prizes — details to be announced  \nTeam size:2–4 participants  \nParticipation: Free\n\nBuild real solutions, solve meaningful problems, and create something that works.\n\nHAXFINITY is a 24-hour hackathon conducted as part of XTHRON ’26, the annual IT fest of the Department of Computer Science, Amal College of Advanced Studies (Autonomous), Nilambur.\n\nStudents from different colleges and backgrounds will identify problems, build software prototypes, and present their work to judges.\n\nThe event includes the opening ceremony, a 21-hour project-building window, demonstrations, judging, and awards.\n\nThere is no compulsory theme. Teams may choose any problem and build a software solution using any suitable technology.\n\n Tracks\n\nOpen Innovation\n\nBuild a product, tool, or prototype that solves a real problem or explores an idea.\n\nAI / ML\n\nBuild an application using machine learning, generative AI, NLP, computer vision, data analysis, or another AI-related technology.\n\nSocial Good\n\nBuild technology that improves people’s lives — for example, in education, healthcare, accessibility, sustainability, financial inclusion, or community welfare.\n\nDetailed judging criteria will be published before the event.\n\n\nBuilding window:*11:00 AM, 12 December – 8:00 AM, 13 December (21 hours).\n\nWho Can Participate?\n\nStudents from all colleges, streams, and experience levels are welcome.\n\nYou can participate as a beginner, developer, designer, or creative problem-solver. Interests in AI, cybersecurity, web, mobile, cloud, or social-impact technology are all welcome.\n\nTeam Rules\n\n- Teams must have 2–4 participants.\n- Solo entries are not permitted.\n- Cross-college and interdisciplinary teams are allowed.\n- Each participant may join only one team.\n- Every member should actively contribute to the project.\n\nVenue\n\nAmal College of Advanced Studies (Autonomous)\nSanthigramam, Eranhimangad  \nNilambur, Malappuram, Kerala — 679329\n\nCheck-in and travel details will be shared with registered participants.\n\n What We Provide\n\n- Workspace, power, and internet access\n- Lunch, dinner, breakfast, and midnight snacks\n- Mentoring and technical support\n- Participation certificates\n- Opportunity to demo projects to judges\n Competition Rules\n\n- All project-specific development must happen during the official building window.\n- Teams may arrive with an idea, but pre-built projects cannot be submitted.\n- Open-source libraries, APIs, datasets, and templates are allowed, subject to their licences.\n- Teams must disclose pre-existing components and AI tools used.\n- Generative AI and AI-assisted development tools are allowed across all tracks.\n- Teams should submit early; late submissions may not be accepted.\n- No new features may be added after code freeze.\n- A working prototype or meaningful demonstration is expected.\n- Teams must be able to explain their technology, process, third-party components, and contributions.\n- Projects must not violate copyright, privacy, security, or applicable law.\n- All participants must follow the event Code of Conduct.\n- Organisers may disqualify entries for plagiarism, misconduct, unsafe content, or rule violations.\n\n## Code of Conduct\n\nAll participants are expected to maintain a respectful, inclusive, and welcoming environment. Participants can approach the organising team for assistance or to report a concern.\n\n\n\nHAXFINITY — Hack the Infinite\nXTHRON ’26\n12–13 December 2026\nAmal College of Advanced Studies (Autonomous), Nilambur, Kerala",
-    "dates": "2026-12-12 to 2026-12-13",
-    "location": "Amal College of Advanced Studies, Nilambur, Myladi, Eranhimangad, Kerala, India",
-    "is_online": false,
-    "prizes": "Prize pool & perks listed on site",
-    "url": "https://haxfinity.devfolio.co",
-    "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371624+00:00"
+    "fetched_at": "2026-11-09T23:31:53.903961+00:00"
   },
   {
     "id": "devfolio_d957bc2099f945e99edfae0c2972bed9",
@@ -53,7 +25,35 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://devnexus2.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371630+00:00"
+    "fetched_at": "2026-11-09T23:31:53.903984+00:00"
+  },
+  {
+    "id": "devfolio_40f5203a0b9842038b51dd3f73236690",
+    "name": "GeNarrative Clash",
+    "platform": "Devfolio",
+    "tagline": "Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge",
+    "description": "# GeNarrative Clash 2026\n*Where Generative AI Meets Human Creativity*\n\nAre you ready to redefine how stories are told, music is composed, and digital art is created? **GeNarrative Clash** is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University.\n\n---\n\n### 🚀 Hands-On AI & API Masterclass (Included!)\nDon't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive **1-Hour Hands-On Masterclass on AI Development & API Integration**. Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence.\n\n---\n\n### 🎁 Perks, Bounties & Swag\n* **Cash Bounties & Prize Pool:** Generous rewards or prizes for top-performing teams and winners.\n* **Exclusive Swags:** Official sponsor goodies for top 12 finalists.\n* **Certificates for All:** Official certificates of participation and achievement for all attending hackers.\n\n---\n\n### 🎨 The Challenge: Empowering the Creative Artist (Open Track)\nGenerative AI shouldn't replace human creators, it should supercharge them! **GeNarrative Clash** features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. \n\nYou are free to solve any real-world problem in the artistic or creative domain.\n\n**Inspiration & Potential Project Directions:**\n* **Storytelling & Narrative Assistants:** GenAI co-writers that help authors outline complex multiverses, generate dynamic dialogue, or build interactive narratives.\n* **AI Music & Sound Studios:** Production-ready suites that assist musicians with harmonies, stem generation, or intelligent sound design.\n* **Autonomous Creator Agents:** GenAI agents and social media co-pilots that help digital creators manage, format, and schedule content tailored to their target audience.\n* **Digital Art & Visual Co-Pilots:** Tools that aid animators, illustrators, and designers in concept generation and workflow automation.\n\n---\n\n### ⚙️ Hackathon Rules & Technical Freedom\n* **No Tech Stack Restrictions:** You are completely free to use any programming language, framework, API, or LLM (OpenAI, Gemini, Anthropic, or open-source models).\n* **The 50/50 Pre-Building Rule:** To ensure high-quality, production-ready submissions, teams are permitted to pre-build up to **50% of their project before event day** (wireframes, boilerplate code, trained prompts, or baseline UI). The remaining **50% of the project must be built live** during the 6-hour hacking sprint.\n\n---\n\n### 📍 Venue & Event Date\n* **Date:** November 21, 2026  \n* **Venue:** Techno India University, EM Block, Sector V, Salt Lake, Kolkata, West Bengal 700091",
+    "dates": "2026-11-21 to 2026-11-21",
+    "location": "Techno India University, EM Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091, India",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://genarrative-clash.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-09T23:31:53.903989+00:00"
+  },
+  {
+    "id": "devfolio_c5731def845a4782ac461b66ceddced0",
+    "name": "Code N Mod",
+    "platform": "Devfolio",
+    "tagline": "Learn the craft. Build the game. Play your creation.",
+    "description": "## About the Event\n\nOrganized by **32BIT — Game Development Club of Siddaganga Institute of Technology (SIT), Tumakuru**, this one-day, offline event brings together students interested in gaming, programming, game design, and interactive experiences.\n\nThe event will begin with an engaging morning session featuring guest speakers, discussions, Q&A, and a practical game-development workshop. Participants will get an opportunity to learn from experienced individuals and explore the process of creating games.\n\nIn the afternoon, participants will take part in an open-format game-development hackathon. There is no fixed theme, so participants can build any type of game using their preferred game engine, programming language, and tools.\n\nParticipants can compete individually or form teams of up to six members. Games will be evaluated by judges, with prizes awarded to the top three entries.\n\nWhether you are an experienced developer, an aspiring game designer, or someone curious about how games are made, this event is an opportunity to learn, experiment, collaborate, and turn ideas into playable experiences.\n\n### Event Highlights\n- Guest talks and interactive discussions\n- Practical game-development workshop\n- Open-theme game-development hackathon\n- Freedom to use your preferred tools and technologies\n- Solo participation or teams of up to six\n- Prizes for the top three teams or entries\n- Digital participation certificates\n\n### Event Format\n- **Mode:** Offline\n- **Duration:** One day\n- **Proposed timing:** 8:00 AM–7:00 PM\n- **Organized by:** 32BIT — Game Development Club, SIT\n- **Venue:** Birla Auditorium\n- **Registration fee:** Free, subject to registration details and capacity\n\n[https://32bit-sit.vercel.app/](url)",
+    "dates": "2026-11-18 to 2026-11-18",
+    "location": "Siddaganga Institute Of Technology, Chandana Complex, Tumakur, Karnataka, India",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://codenmod.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-09T23:31:53.903991+00:00"
   },
   {
     "id": "devfolio_8b69c2039a8d4b4085c3869b9b25d9c9",
@@ -67,7 +67,63 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://lean-in-hacks-8.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371633+00:00"
+    "fetched_at": "2026-11-09T23:31:53.903994+00:00"
+  },
+  {
+    "id": "devfolio_cdf2af90c090403a9db2f0162a99b687",
+    "name": "Founders' House Kolkata",
+    "platform": "Devfolio",
+    "tagline": "Build. Validate. Launch.",
+    "description": "Kolkata's most relentless 72 hour startup sprint. 10 elite squads live on site at AIC Techno (Offbeat CCU), crack raw mentor problems, build real products, and pitch live to venture syndicates.\n\nOrganized by Hult Prize at TIU and hosted at the state of the art incubation hub AIC Techno (Offbeat CCU), this is not a sleep deprived gimmick. It is an incubator grade gauntlet for founders who want to build companies that last.\n\nNOTE: This is the selection for the first round. Shortlisted teams will come offline and build at OFFBEAT CCU Kolkata for 3 days (18th-20th December). Free of cost.",
+    "dates": "2026-11-08 to 2026-11-24",
+    "location": "In-Person",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://founders-house-kolkata.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-09T23:31:53.903997+00:00"
+  },
+  {
+    "id": "devfolio_e800e7f7535945b59b3516a08424db39",
+    "name": "Health Hackathon 3.0",
+    "platform": "Devfolio",
+    "tagline": "Global Health Access Innovation Challenge",
+    "description": "VIT Bhopal University to Host Health Hackathon 3.0 in January 2027\n\nEvent invites new ideas to make healthcare better and cost less\n\nVIT Bhopal University will host Health Hackathon 3.0 on 28 and 29 January 2027. A pre-event workshop will take place on 27 January 2027.\n\nVIT Bhopal is collaborating with the Whiting School of Engineering at Johns Hopkins University for this event. Its full title is “Health Hackathon 3.0: Global Health Access Innovation Challenge – Next Generation.”\n\nNew Ideas for Better Healthcare\nThe event has a clear aim: it seeks innovative ideas that can improve healthcare accessibility for more people, reduce costs, and enhance overall efficiency. Participants are invited to propose actionable solutions to real-world healthcare challenges.\n\nKey focus areas for submissions include:\n•\tLow-cost tools and technologies for healthcare delivery.\n•\tNew ways and platforms to support mental health.\n•\tApplication of Artificial Intelligence (AI) in healthcare solutions.\n•\tTools leveraging health data analytics to identify and predict health risks.\n\nA Chance to Share and Build Ideas\nHealth Hackathon 3.0 invites innovators, students, and researchers to present their concepts and refine them further. The emphasis is on practical, high-impact solutions designed to reach underserved communities and individuals facing healthcare access barriers.\n\nEvent Overview & Key Dates\n• Pre-Event Workshop: 27 January 2027\n• Main Hackathon: 28 & 29 January 2027\n• Venue: VIT Bhopal University, Bhopal, Madhya Pradesh\n• Total Prize Pool: ₹2 Lakh\n\n\nRegistration & Submission\nRegistration is now open. Interested teams and individuals must submit their project proposals. To learn more, view participation guidelines, and complete registration, please visit the official Health Hackathon 3.0 event website: [https://vitbhopal.ac.in/health-hackathon-2026-d/ ](url)",
+    "dates": "2027-01-28 to 2027-01-29",
+    "location": "VIT Bhopal University, Indore - Bhopal Road, Kothri Kalan, Sehore, Madhya Pradesh, India",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://health-hackathon.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-09T23:31:53.904002+00:00"
+  },
+  {
+    "id": "devfolio_2689d878c21e4cf1a61a50f5104587f0",
+    "name": "Clash of Commits",
+    "platform": "Devfolio",
+    "tagline": "Every commit is a battle!",
+    "description": "# CLASH OF COMMITS\n### Build Your Clan. Prepare for War. Claim the Crown.\n\nThe kingdom is calling. The battlefield is open. Is your clan ready?\n\n**Clash of Commits** is not your usual hackathon. It's a clan-based coding battlefield where ideas become weapons, code becomes your arsenal, and only the strongest clans make it to the crown.\n\nGather your squad of **4-5 members**, bring your boldest ideas, and prepare to battle through three rounds of innovation. Build your base, survive the raid, and fight your way into the Arena Finals!\n\n\n**One battlefield. 120 clans. One crown.**\n\n---\n\n## ⚠️ BEFORE YOU ENTER THE BATTLEFIELD\n\n**This registration is ONLY for Round 1 – Build Your Base (Online).**\n\nRegistering here does not guarantee participation in the offline rounds.\n\n- Shortlisted clans must complete a separate registration through the institute portal to secure their participation in the offline rounds.\n- Clans that fail to complete the institute portal registration will not be eligible to compete offline, even if shortlisted.\n- **Joining the official [WhatsApp group](https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp) is MANDATORY.** All announcements, shortlists, deadlines, problem statements, and schedule updates will be shared there first.\n- Missing important announcements will not qualify clans for rescheduling or special exceptions.\n\n**Battlefield Communication Channels**\n- WhatsApp Group: [https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp](https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp)\n\n---\n\n## THE ROAD TO THE CROWN\n\nThree rounds. Two Clan Wars. One ultimate champion.\n\n### ROUND 1: BUILD YOUR BASE\n*Online | Idea Submission*\n\nEvery legendary kingdom starts with a strong foundation. This is where your clan makes its first move.\n\nSubmit a **10-slide idea deck** showcasing:\n- The problem you're setting out to solve.\n- Who you're building for.\n- Your proposed solution.\n- Your technology stack.\n- Your execution and build plan.\n\nEvery submission will be evaluated, and the **top 120 clans** will earn their place in the offline battlefield.\n\nBuild wisely. Your journey starts here.\n\n### ROUND 2: THE RAID\n*Offline | 24-Hour Hackathon*\n\n\nThe shortlisted clans enter campus for an intense **24-hour building showdown**. Turn your ideas into working solutions, tackle problem statements, collaborate with mentors, and make every second count.\n\nBut the battlefield has its own economy: **ELIXIR**.\n\nOnce the code freeze hits, it's time for **CLAN WAR I**.\n\nJudges evaluate every submission based on innovation, technical depth, impact, and execution. Only the **top 8 clans** survive the raid and advance to the Arena Finals.\n\n### ROUND 3: ARENA FINALS\n*Offline | The Ultimate Pitch Battle*\n\nEight clans enter. Only one walks away with the crown.\n\nWelcome to **CLAN WAR II**.\n\nThe top 8 clans face off in a knockout pitching bracket. Present your solution, demonstrate what you've built, and convince the judges why your clan deserves the throne.\n\nWith a live audience, high-stakes presentations, and an audience vote, every pitch matters.\n\nThe final showdown is the **CROWN MATCH** — where the last two contenders battle it out to determine the ultimate champion.\n\n---\n## CHOOSE YOUR BATTLEFIELD\n\nEight tracks. Countless possibilities. Your clan decides what to build.\n\n**AI & MACHINE LEARNING**\nBuild intelligent agents, develop generative AI applications, explore computer vision, or push the boundaries of predictive models and edge AI.\n\n**ROBOTICS & IoT**\nBring hardware to life with autonomous systems, drones, smart sensors, microcontrollers, embedded intelligence, and connected technologies.\n\n**WEB & APPLICATIONS**\nCreate powerful full-stack platforms, mobile applications, SaaS products, developer tools, and scalable digital experiences.\n\n**BLOCKCHAIN & WEB3**\nExplore decentralised applications, smart contracts, DeFi, DAOs, digital assets, and next-generation decentralised infrastructure.\n\n**AR, VR & EXTENDED REALITY**\nBuild immersive experiences through augmented reality, virtual reality, mixed reality, spatial computing, and interactive virtual environments.\n\n**CYBERSECURITY**\nChallenge vulnerabilities, strengthen digital security, develop threat detection systems, and explore ethical hacking, privacy, and digital forensics.\n\n**FINTECH & BUSINESS INNOVATION**\nReimagine financial services through digital payments, financial intelligence, automation, algorithmic trading, and innovative business solutions.\n\n**OPEN INNOVATION**\nNo boundaries. No restrictions. Explore HealthTech, ClimateTech, EdTech, Data Science, Smart Cities, or anything beyond the ordinary. Turn your boldest ideas into impactful real-world solutions.\n\n## READY TO CLAIM THE CROWN?\n\nYour clan has been formed. Your strategy is ready. Now it's time to enter the battlefield.\n\n**YOUR NEXT MOVES:**\n\n1. **Register Your Clan: Devfolio Registration\n2. **Join the WhatsApp Group:** [https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp](https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp)\n3. **Build Your Base:** Submit your 10-slide idea deck before deadline.\n4. **Prepare for the Raid:** If shortlisted, complete your institute portal registration to secure your offline participation.\n\n**BUILD YOUR BASE. SURVIVE THE RAID. CONQUER THE ARENA.**\n\n*The battlefield awaits. The crown belongs to the strongest.*",
+    "dates": "2026-12-04 to 2026-12-05",
+    "location": "VIT Chennai, Kelambakkam - Vandalur Road, Chennai, Tamil Nadu, India",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://clash-of-commits.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-09T23:31:53.904008+00:00"
+  },
+  {
+    "id": "devfolio_50e23a48e3964f43878279a3bf81339d",
+    "name": "haxfinity",
+    "platform": "Devfolio",
+    "tagline": "",
+    "description": "HAXFINITY — Hack the Infinite\n\nThe 24-hour hackathon of XTHRON ’27\n\n3–4 JANUARY 2027\n10:30 AM, 3 December – 10:30 AM, 4 December  \nAmal College of Advanced Studies (Autonomous), Nilambur, Kerala\n\nPrizes:Exciting prizes — details to be announced  \nTeam size:2–4 participants  \nParticipation: Free\n\nBuild real solutions, solve meaningful problems, and create something that works.\n\nHAXFINITY is a 24-hour hackathon conducted as part of XTHRON ’27, the annual IT fest of the Department of Computer Science, Amal College of Advanced Studies (Autonomous), Nilambur.\n\nStudents from different colleges and backgrounds will identify problems, build software prototypes, and present their work to judges.\n\nThe event includes the opening ceremony, a 21-hour project-building window, demonstrations, judging, and awards.\n\nThere is no compulsory theme. Teams may choose any problem and build a software solution using any suitable technology.\n\n Tracks\n\nOpen Innovation\n\nBuild a product, tool, or prototype that solves a real problem or explores an idea.\n\nAI / ML\n\nBuild an application using machine learning, generative AI, NLP, computer vision, data analysis, or another AI-related technology.\n\nSocial Good\n\nBuild technology that improves people’s lives — for example, in education, healthcare, accessibility, sustainability, financial inclusion, or community welfare.\n\nDetailed judging criteria will be published before the event.\n\n\nBuilding window:*11:00 AM, 3 – 8:00 AM, 4 JANUARY (21 hours).\n\nWho Can Participate?\n\nStudents from all colleges, streams, and experience levels are welcome.\n\nYou can participate as a beginner, developer, designer, or creative problem-solver. Interests in AI, cybersecurity, web, mobile, cloud, or social-impact technology are all welcome.\n\nTeam Rules\n\n- Teams must have 2–4 participants.\n- Solo entries are not permitted.\n- Cross-college and interdisciplinary teams are allowed.\n- Each participant may join only one team.\n- Every member should actively contribute to the project.\n\nVenue\n\nAmal College of Advanced Studies (Autonomous)\nSanthigramam, Eranhimangad  \nNilambur, Malappuram, Kerala — 679329\n\nCheck-in and travel details will be shared with registered participants.\n\n What We Provide\n\n- Workspace, power, and internet access\n- Lunch, dinner, breakfast, and midnight snacks\n- Mentoring and technical support\n- Participation certificates\n- Opportunity to demo projects to judges\n Competition Rules\n\n- All project-specific development must happen during the official building window.\n- Teams may arrive with an idea, but pre-built projects cannot be submitted.\n- Open-source libraries, APIs, datasets, and templates are allowed, subject to their licences.\n- Teams must disclose pre-existing components and AI tools used.\n- Generative AI and AI-assisted development tools are allowed across all tracks.\n- Teams should submit early; late submissions may not be accepted.\n- No new features may be added after code freeze.\n- A working prototype or meaningful demonstration is expected.\n- Teams must be able to explain their technology, process, third-party components, and contributions.\n- Projects must not violate copyright, privacy, security, or applicable law.\n- All participants must follow the event Code of Conduct.\n- Organisers may disqualify entries for plagiarism, misconduct, unsafe content, or rule violations.\n\n## Code of Conduct\n\nAll participants are expected to maintain a respectful, inclusive, and welcoming environment. Participants can approach the organising team for assistance or to report a concern.\n\n\n\nHAXFINITY — Hack the Infinite\nXTHRON ’27\n3–4 JANUARY 2027\nAmal College of Advanced Studies (Autonomous), Nilambur, Kerala",
+    "dates": "2027-01-03 to 2027-01-04",
+    "location": "Amal College of Advanced Studies, Nilambur, Myladi, Eranhimangad, Kerala, India",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://haxfinity.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-09T23:31:53.904011+00:00"
   },
   {
     "id": "devfolio_c84b90d65eff4ae083366fc1cc549e81",
@@ -81,7 +137,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hackodisha-6a.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371637+00:00"
+    "fetched_at": "2026-11-09T23:31:53.904014+00:00"
   },
   {
     "id": "devfolio_409173af22ac40d5aecb47ea06886ab3",
@@ -95,7 +151,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hack-nexus.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371641+00:00"
+    "fetched_at": "2026-11-09T23:31:53.904017+00:00"
   },
   {
     "id": "devfolio_6ab81312cb504b4195e46290f44e7191",
@@ -109,7 +165,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hacksprint-3.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371648+00:00"
+    "fetched_at": "2026-11-09T23:31:53.904021+00:00"
   },
   {
     "id": "devfolio_feaf6d51a5ba4774acf1ccaaa1d4b789",
@@ -123,7 +179,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://innerve-11.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371652+00:00"
+    "fetched_at": "2026-11-09T23:31:53.904024+00:00"
   },
   {
     "id": "devfolio_c163f2c5e7bb4c7bb7acbdb3c572bfa3",
@@ -137,21 +193,21 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hack-with-gdg-s4.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371655+00:00"
+    "fetched_at": "2026-11-09T23:31:53.904026+00:00"
   },
   {
-    "id": "devfolio_1c56ad13b8b0467ca2c3772566a0fdd2",
-    "name": "HACK 6.0",
+    "id": "devfolio_1c7af64a076f43d5a088b7b65ae793a3",
+    "name": "GOA BUILDATHON 27",
     "platform": "Devfolio",
-    "tagline": "Hack. Innovate. Elevate. 💡",
-    "description": "Hack 6.0 – Vaporwave Edition 🌆🕹️✨\nHack 6.0 is NIT Hamirpur’s flagship 36-hour on-site hackathon, organized by CSEC!  👾 Circuit boards glow, synthetic waves flow, and the brightest minds assemble to code, disrupt, and build the future of tech. 💻",
-    "dates": "2027-01-22 to 2027-01-24",
-    "location": "NIT Hamirpur, NIT, Hamirpur, Himachal Pradesh, India",
+    "tagline": "36 hours. Goa, India.",
+    "description": "# All That You Need to Know About GOA BUILDATHON ’27\n\nWelcome to **GOA BUILDATHON ’27!**\n\n> Where ambition meets execution.\n\nEvery great innovation starts with an idea. What makes it great is the courage to build it, the curiosity to experiment, and the determination to bring it to life.\n\n**GOA BUILDATHON ’27** is a **36-hour, student-run hackathon** where aspiring technologists, creative thinkers, and problem-solvers come together to turn bold ideas into tangible products.\n\nIt’s a space to push boundaries, collaborate with like-minded innovators, experiment with emerging technologies, and build something that goes beyond the ordinary.\n\nSet against the backdrop of **Goa, India**, expect an immersive build sprint filled with late-night coding, spontaneous collaborations, fresh ideas, and connections that last long after the final commit. And, of course, a little coastal magic along the way. 🌴\n\n## What Awaits You?\n\n- **₹10,00,000+ Prize Pool** — Compete, innovate, and get rewarded for what you build.\n- **Exciting Challenges** — Tackle real-world problems and explore new possibilities.\n- **36 Hours of Building** — Turn your ideas into working prototypes.\n- **A Community of Innovators** — Connect with developers, designers, and ambitious builders.\n- **A Platform to Showcase** — Put your creativity, technical skills, and ideas in the spotlight.\n\n> **Don't just imagine what’s possible. Build it.**\n\nWhether you're a first-time hacker or an experienced developer, GOA BUILDATHON ’27 is your opportunity to experiment, collaborate, and create something meaningful.\n\n**36 HOURS. ONE GOAL. BUILD SOMETHING THAT MATTERS.**\n\n*More details coming soon. Stay tuned!*",
+    "dates": "2027-01-16 to 2027-01-17",
+    "location": "Goa, India",
     "is_online": false,
     "prizes": "Prize pool & perks listed on site",
-    "url": "https://hack-1736.devfolio.co",
+    "url": "https://goa-buildathon.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:56.371657+00:00"
+    "fetched_at": "2026-11-09T23:31:53.904029+00:00"
   },
   {
     "id": "devfolio_8cf5de84ec814a8daf7f6c4caf538045",
@@ -165,7 +221,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://diversion2k27.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:57.487428+00:00"
+    "fetched_at": "2026-11-09T23:31:54.802705+00:00"
   },
   {
     "id": "devfolio_cf5fb5645ec44de88ee455be936825da",
@@ -179,7 +235,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://chiangmai.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:57.487444+00:00"
+    "fetched_at": "2026-11-09T23:31:54.802719+00:00"
   },
   {
     "id": "devfolio_c3799771d6044d5dab5b1166ed242bc7",
@@ -193,7 +249,35 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://coderave-2.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:57.487448+00:00"
+    "fetched_at": "2026-11-09T23:31:54.802723+00:00"
+  },
+  {
+    "id": "devfolio_dbea472849f54f6dba58d9495e94e8be",
+    "name": "DevNexus Vidisha",
+    "platform": "Devfolio",
+    "tagline": "Connecting developers and innovation",
+    "description": "# DEVNEXUS\n**Connecting developers and innovation**\n\nDEVNEXUS is a 6-hour hackathon organized by SATI Coding Club, primarily aimed at university students who are passionate about technology, creativity, and innovation.\n\nThe event is designed to empower students by providing them with a platform to enhance their technical skills, develop problem-solving abilities, explore emerging technologies, and transform innovative ideas into practical solutions.\n\nThrough teamwork, collaboration, and hands-on development, participants will get an opportunity to think beyond traditional classroom learning, gain practical experience, and connect with like-minded innovators from different academic backgrounds.\n\nDEVNEXUS encourages students to experiment, learn, build, and challenge their creative limits while fostering a culture of innovation, entrepreneurship, and technological advancement.\n\nJoin us for 6 hours of learning, building, networking, and creating something meaningful.\n\n**Connect. Collaborate. Create. Build What's Next.**",
+    "dates": "2027-01-24 to 2027-01-24",
+    "location": "V V NATU COMPUTER CENTER, SATI Campus, Vidisha, Madhya Pradesh, India",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://devnexus-3.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-09T23:31:54.802726+00:00"
+  },
+  {
+    "id": "devfolio_4a726052359d4ba8af95d60e9dc253cf",
+    "name": "Makeathon 9.0",
+    "platform": "Devfolio",
+    "tagline": "One of North-India's largest hackathon",
+    "description": "Now in its 9th edition, MAKEATHON 9.0 is our flagship event and one of the region’s most awaited 24-hour hackathons. With a strong legacy of successful editions and growing national participation, MAKEATHON brings together developers, designers, and problem solvers from across the country. Through workshops, mentorship, and a focused hackathon experience, MAKEATHON 9 aims to spark creativity, speed up execution, and inspire impactful solutions.",
+    "dates": "2027-01-30 to 2027-01-31",
+    "location": "Thapar Institute of Engineering & Technology, Bhadson Road, Patiala, Punjab, India",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://makeathon-9.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-09T23:31:54.802729+00:00"
   },
   {
     "id": "devfolio_33da0fd4233c4ea1a4549375c145864c",
@@ -207,67 +291,81 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://eclipse.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-08T18:58:57.487451+00:00"
+    "fetched_at": "2026-11-09T23:31:54.802731+00:00"
   },
   {
-    "id": "unstop_1799281",
-    "name": "Adaption Dataset Challenge",
+    "id": "unstop_1803074",
+    "name": "IDEATHON- FutureX: Innovating for Global Challenges",
     "platform": "Unstop",
-    "tagline": "Organized by Hackyard Technologies Pvt limited",
-    "description": "Hackathon hosted by Hackyard Technologies Pvt limited",
-    "dates": "Deadline: 2026-12-06 (27 days left)",
+    "tagline": "Organized by Skill2Career",
+    "description": "Hackathon hosted by Skill2Career",
+    "dates": "Deadline: 2026-12-16 (1 month left)",
     "location": "Online / Campus",
     "is_online": true,
-    "prizes": ", , ",
-    "url": "https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281",
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074",
     "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589033+00:00"
+    "fetched_at": "2026-11-09T23:31:56.150517+00:00"
   },
   {
-    "id": "unstop_1800857",
-    "name": "Agentic AI in BFSI Hackathon",
+    "id": "unstop_1802169",
+    "name": "Housing Fintech Challenge",
     "platform": "Unstop",
     "tagline": "Organized by Indian Institute of Technology (IIT), Bombay",
     "description": "Hackathon hosted by Indian Institute of Technology (IIT), Bombay",
-    "dates": "Deadline: 2026-11-25 (15 days left)",
+    "dates": "Deadline: 2026-11-23 (12 days left)",
     "location": "Online / Campus",
     "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857",
+    "prizes": ", , ",
+    "url": "https://unstop.com/hackathons/hero-housing-fintech-challenge-iit-bombay-1802169",
     "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589052+00:00"
+    "fetched_at": "2026-11-09T23:31:56.150535+00:00"
   },
   {
-    "id": "unstop_1782942",
-    "name": "CodeHive Community Duel Night",
+    "id": "unstop_1790028",
+    "name": "Zenith'26",
     "platform": "Unstop",
-    "tagline": "Organized by Code Hive",
-    "description": "Hackathon hosted by Code Hive",
-    "dates": "Deadline: 2026-11-11 (1 days left)",
+    "tagline": "Organized by MLR Institute Of Technology (MLRIT), Hyderabad",
+    "description": "Hackathon hosted by MLR Institute Of Technology (MLRIT), Hyderabad",
+    "dates": "Deadline: 2026-12-04 (24 days left)",
     "location": "Online / Campus",
     "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/codehive-community-duel-night-code-hive-1782942",
+    "prizes": ", ",
+    "url": "https://unstop.com/hackathons/zenith26-mlr-institute-of-technology-mlrit-hyderabad-1790028",
     "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589058+00:00"
+    "fetched_at": "2026-11-09T23:31:56.150541+00:00"
   },
   {
-    "id": "unstop_1794522",
-    "name": "CodeElitePune - Hack With Pune",
+    "id": "unstop_1802400",
+    "name": "Rewired (Tech Hackathon)",
     "platform": "Unstop",
-    "tagline": "Organized by HackWithPune",
-    "description": "Hackathon hosted by HackWithPune",
-    "dates": "Deadline: 2026-12-03 (24 days left)",
+    "tagline": "Organized by Masters Union School of Business",
+    "description": "Hackathon hosted by Masters Union School of Business",
+    "dates": "Deadline: 2026-11-16 (5 days left)",
     "location": "Online / Campus",
     "is_online": true,
-    "prizes": ", , , ",
-    "url": "https://unstop.com/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522",
+    "prizes": ", ",
+    "url": "https://unstop.com/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400",
     "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589064+00:00"
+    "fetched_at": "2026-11-09T23:31:56.150546+00:00"
   },
   {
-    "id": "unstop_1801200",
-    "name": "Code Red",
+    "id": "unstop_1801814",
+    "name": "Inter-College Coding Competition 2026 | Java & Python | ₹10,000 in Cash Prizes+ Free Lunch ",
+    "platform": "Unstop",
+    "tagline": "Organized by College Of Engineering And Management,Kolaghat",
+    "description": "Hackathon hosted by College Of Engineering And Management,Kolaghat",
+    "dates": "Deadline: 2026-11-15 (5 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": ", , ",
+    "url": "https://unstop.com/hackathons/inter-college-coding-competition-2026-college-of-engineering-and-managementkolaghat-1801814",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-09T23:31:56.150550+00:00"
+  },
+  {
+    "id": "unstop_1802090",
+    "name": "CSS Battle",
     "platform": "Unstop",
     "tagline": "Organized by Army Institute of Technology (AIT), Pune",
     "description": "Hackathon hosted by Army Institute of Technology (AIT), Pune",
@@ -275,107 +373,23 @@
     "location": "Online / Campus",
     "is_online": true,
     "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/code-red-solutions-2k27-army-institute-of-technology-ait-pune-1801200",
+    "url": "https://unstop.com/hackathons/css-battle-solutions-2k27-army-institute-of-technology-ait-pune-1802090",
     "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589068+00:00"
+    "fetched_at": "2026-11-09T23:31:56.150554+00:00"
   },
   {
-    "id": "unstop_1789431",
-    "name": "AI Vibeathon 2026: 24-Hour AI Hackathon",
+    "id": "unstop_1802089",
+    "name": "SHE CODE",
     "platform": "Unstop",
-    "tagline": "Organized by DotRepo",
-    "description": "Hackathon hosted by DotRepo",
-    "dates": "Deadline: 2026-11-11 (1 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , , ",
-    "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589072+00:00"
-  },
-  {
-    "id": "unstop_1800891",
-    "name": "NextGen AI Hackathon",
-    "platform": "Unstop",
-    "tagline": "Organized by Product Space",
-    "description": "Hackathon hosted by Product Space",
-    "dates": "Deadline: 2026-11-14 (5 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , , ",
-    "url": "https://unstop.com/hackathons/nextgen-ai-hackathon-product-space-1800891",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589079+00:00"
-  },
-  {
-    "id": "unstop_1800924",
-    "name": "ELUCode - 8",
-    "platform": "Unstop",
-    "tagline": "Organized by EduLinkUp",
-    "description": "Hackathon hosted by EduLinkUp",
-    "dates": "Deadline: 2026-11-21 (12 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , , , , ",
-    "url": "https://unstop.com/hackathons/elucode-8-edulinkup-1800924",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589089+00:00"
-  },
-  {
-    "id": "unstop_1800147",
-    "name": "HackSphere - Build and learn (Aayam XI)",
-    "platform": "Unstop",
-    "tagline": "Organized by National Institute of Technology (NIT), Agartala",
-    "description": "Hackathon hosted by National Institute of Technology (NIT), Agartala",
-    "dates": "Deadline: 2026-11-10 (1 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", ",
-    "url": "https://unstop.com/hackathons/hacksphere-build-and-learn-aayam-xi-national-institute-of-technology-nit-agartala-1800147",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589094+00:00"
-  },
-  {
-    "id": "unstop_1797015",
-    "name": "TechNovus AAYAM  XI",
-    "platform": "Unstop",
-    "tagline": "Organized by National Institute of Technology (NIT), Agartala",
-    "description": "Hackathon hosted by National Institute of Technology (NIT), Agartala",
-    "dates": "Deadline: 2026-11-11 (2 days left)",
+    "tagline": "Organized by Army Institute of technology, Pune",
+    "description": "Hackathon hosted by Army Institute of technology, Pune",
+    "dates": "Deadline: 2027-03-01 (3 months left)",
     "location": "Online / Campus",
     "is_online": true,
     "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/technovus-aayam-xi-national-institute-of-technology-nit-agartala-1797015",
+    "url": "https://unstop.com/hackathons/she-code-solutions-2k27-army-institute-of-technology-pune-1802089",
     "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589098+00:00"
-  },
-  {
-    "id": "unstop_1800395",
-    "name": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship",
-    "platform": "Unstop",
-    "tagline": "Organized by Galuxium",
-    "description": "Hackathon hosted by Galuxium",
-    "dates": "Deadline: 2027-07-31 (8 months left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , ",
-    "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589102+00:00"
-  },
-  {
-    "id": "unstop_1800358",
-    "name": "HierroCTF 2026 – Capture The Flag (CTF) Competition",
-    "platform": "Unstop",
-    "tagline": "Organized by Hierroshield Pvt Ltd",
-    "description": "Hackathon hosted by Hierroshield Pvt Ltd",
-    "dates": "Deadline: 2026-11-18 (9 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/hierroctf-2026-capture-the-flag-ctf-competition-hierroshield-pvt-ltd-1800358",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589105+00:00"
+    "fetched_at": "2026-11-09T23:31:56.150558+00:00"
   },
   {
     "id": "unstop_1794479",
@@ -389,7 +403,7 @@
     "prizes": ", , ",
     "url": "https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479",
     "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589109+00:00"
+    "fetched_at": "2026-11-09T23:31:56.150569+00:00"
   },
   {
     "id": "unstop_1798677",
@@ -403,7 +417,7 @@
     "prizes": ", , , ",
     "url": "https://unstop.com/hackathons/overclock-agnel-charities-fr-c-rodrigues-institute-of-technology-vashi-navi-mumbai-1798677",
     "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589112+00:00"
+    "fetched_at": "2026-11-09T23:31:56.150574+00:00"
   },
   {
     "id": "unstop_1798470",
@@ -411,13 +425,83 @@
     "platform": "Unstop",
     "tagline": "Organized by Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh",
     "description": "Hackathon hosted by Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh",
-    "dates": "Deadline: 2026-11-17 (8 days left)",
+    "dates": "Deadline: 2026-11-17 (7 days left)",
     "location": "Online / Campus",
     "is_online": true,
     "prizes": "Prizes Available",
     "url": "https://unstop.com/hackathons/goblet-of-codes-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1798470",
     "source": "Unstop API",
-    "fetched_at": "2026-11-08T18:58:58.589116+00:00"
+    "fetched_at": "2026-11-09T23:31:56.150578+00:00"
+  },
+  {
+    "id": "unstop_1799782",
+    "name": "Expanding Horizons 8.0  CIVIL",
+    "platform": "Unstop",
+    "tagline": "Organized by Motilal Nehru National Institute of Technology",
+    "description": "Hackathon hosted by Motilal Nehru National Institute of Technology",
+    "dates": "Deadline: 2026-11-21 (10 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-09T23:31:56.150581+00:00"
+  },
+  {
+    "id": "unstop_1799780",
+    "name": "Expanding Horizons 8.0  EE",
+    "platform": "Unstop",
+    "tagline": "Organized by Motilal Nehru National Institute of Technology",
+    "description": "Hackathon hosted by Motilal Nehru National Institute of Technology",
+    "dates": "Deadline: 2026-11-21 (10 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-09T23:31:56.150584+00:00"
+  },
+  {
+    "id": "unstop_1799778",
+    "name": "Expanding Horizons 8.0  ECE",
+    "platform": "Unstop",
+    "tagline": "Organized by Motilal Nehru National Institute of Technology",
+    "description": "Hackathon hosted by Motilal Nehru National Institute of Technology",
+    "dates": "Deadline: 2026-11-21 (10 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-ece-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799778",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-09T23:31:56.150587+00:00"
+  },
+  {
+    "id": "unstop_1799776",
+    "name": "Expanding Horizons 8.0 Consultancy",
+    "platform": "Unstop",
+    "tagline": "Organized by Motilal Nehru National Institute of Technology",
+    "description": "Hackathon hosted by Motilal Nehru National Institute of Technology",
+    "dates": "Deadline: 2026-11-21 (10 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-consultancy-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799776",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-09T23:31:56.150590+00:00"
+  },
+  {
+    "id": "unstop_1794529",
+    "name": "DecodeX '26 - Enter the Mission. Decode the Unknown",
+    "platform": "Unstop",
+    "tagline": "Organized by BMS Institute of Technology and Management (BMSITM), Bangalore",
+    "description": "Hackathon hosted by BMS Institute of Technology and Management (BMSITM), Bangalore",
+    "dates": "Deadline: 2026-11-20 (10 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": ", , ",
+    "url": "https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-09T23:31:56.150599+00:00"
   },
   {
     "id": "devpost_31302",
@@ -431,7 +515,7 @@
     "prizes": "$67,500",
     "url": "https://paypalaihackathon.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-08T18:58:58.773100+00:00"
+    "fetched_at": "2026-11-09T23:31:56.320721+00:00"
   },
   {
     "id": "devpost_31667",
@@ -445,7 +529,7 @@
     "prizes": "$100,000",
     "url": "https://kiroween.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-08T18:58:58.773119+00:00"
+    "fetched_at": "2026-11-09T23:31:56.320740+00:00"
   },
   {
     "id": "devpost_31024",
@@ -459,21 +543,7 @@
     "prizes": "$1,000,000",
     "url": "https://start-developer-competition-26.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-08T18:58:58.773125+00:00"
-  },
-  {
-    "id": "devpost_31572",
-    "name": "Codegeist 2026: Build with context. Ship with confidence.",
-    "platform": "Devpost",
-    "tagline": "Machine Learning/AI, Enterprise, Productivity",
-    "description": "Themes: Machine Learning/AI, Enterprise, Productivity",
-    "dates": "Oct 27 - Dec 22, 2026",
-    "location": "Online / Global",
-    "is_online": true,
-    "prizes": "$120,000",
-    "url": "https://codegeist2026.devpost.com/",
-    "source": "Devpost API",
-    "fetched_at": "2026-11-08T18:58:58.773131+00:00"
+    "fetched_at": "2026-11-09T23:31:56.320746+00:00"
   },
   {
     "id": "devpost_31552",
@@ -487,7 +557,21 @@
     "prizes": "$46,000",
     "url": "https://ugreenhackathon.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-08T18:58:58.773135+00:00"
+    "fetched_at": "2026-11-09T23:31:56.320751+00:00"
+  },
+  {
+    "id": "devpost_31572",
+    "name": "Codegeist 2026: Build with context. Ship with confidence.",
+    "platform": "Devpost",
+    "tagline": "Machine Learning/AI, Enterprise, Productivity",
+    "description": "Themes: Machine Learning/AI, Enterprise, Productivity",
+    "dates": "Oct 27 - Dec 22, 2026",
+    "location": "Online / Global",
+    "is_online": true,
+    "prizes": "$120,000",
+    "url": "https://codegeist2026.devpost.com/",
+    "source": "Devpost API",
+    "fetched_at": "2026-11-09T23:31:56.320755+00:00"
   },
   {
     "id": "devpost_31083",
@@ -501,21 +585,7 @@
     "prizes": "$50,000",
     "url": "https://qnx.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-08T18:58:58.773140+00:00"
-  },
-  {
-    "id": "devpost_31659",
-    "name": "Learn AR with SPECS",
-    "platform": "Devpost",
-    "tagline": "AR/VR, Machine Learning/AI, Design",
-    "description": "Themes: AR/VR, Machine Learning/AI, Design",
-    "dates": "Oct 15 - Nov 09, 2026",
-    "location": "Online / Global",
-    "is_online": true,
-    "prizes": "$2,500",
-    "url": "https://learn-specs.devpost.com/",
-    "source": "Devpost API",
-    "fetched_at": "2026-11-08T18:58:58.773145+00:00"
+    "fetched_at": "2026-11-09T23:31:56.320760+00:00"
   },
   {
     "id": "devpost_30500",
@@ -529,7 +599,7 @@
     "prizes": "$0",
     "url": "https://dsh-hacks-v2.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-08T18:58:58.773153+00:00"
+    "fetched_at": "2026-11-09T23:31:56.320764+00:00"
   },
   {
     "id": "devpost_30789",
@@ -543,6 +613,20 @@
     "prizes": "$7,800",
     "url": "https://arbiter-hacks-v1.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-08T18:58:58.773159+00:00"
+    "fetched_at": "2026-11-09T23:31:56.320772+00:00"
+  },
+  {
+    "id": "devpost_30740",
+    "name": "Code for Humanity",
+    "platform": "Devpost",
+    "tagline": "Education, Machine Learning/AI, Web",
+    "description": "Themes: Education, Machine Learning/AI, Web",
+    "dates": "Jul 16, 2026 - Jan 15, 2027",
+    "location": "Online / Global",
+    "is_online": true,
+    "prizes": "$0",
+    "url": "https://code-for-humanity.devpost.com/",
+    "source": "Devpost API",
+    "fetched_at": "2026-11-09T23:31:56.320777+00:00"
   }
 ]
