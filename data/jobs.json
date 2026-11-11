@@ -1,5 +1,19 @@
 [
   {
+    "id": "internshala_b16de1643a0a",
+    "title": "Embedded Systems",
+    "company": "Gateway Software Solutions",
+    "location": "Chennai, Coimbatore, Erode, Karur, Madurai, Namakkal, Tiruppur, Kanchipuram, Avadi, Salem, Tiruchirappalli, Dharmapuri, Villupuram, Sivagangai(Hybrid)",
+    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
+    "skills_hint": [
+      "embedded systems"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/embedded-systems-internship-in-multiple-locations-at-gateway-software-solutions1791863578",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:12.568534+00:00"
+  },
+  {
     "id": "internshala_ae9137fac4b4",
     "title": "Electronics Engineering",
     "company": "Carawin Technologies Private Limited",
@@ -11,21 +25,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/electronics-engineering-internship-in-noida-at-carawin-technologies-private-limited1793156469",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.721282+00:00"
-  },
-  {
-    "id": "internshala_b590457b8e78",
-    "title": "Embedded Systems",
-    "company": "LearnElectronics",
-    "location": "Bangalore",
-    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
-    "skills_hint": [
-      "embedded systems"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/embedded-systems-internship-in-bangalore-at-learnelectronics1793546012",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.721436+00:00"
+    "fetched_at": "2026-11-11T21:30:12.568721+00:00"
   },
   {
     "id": "internshala_ac4784044a32",
@@ -39,7 +39,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/work-from-home-part-time-embedded-systems-internship-at-placemein-hr-solutions1792557274",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.721564+00:00"
+    "fetched_at": "2026-11-11T21:30:12.568874+00:00"
   },
   {
     "id": "internshala_8b476aaedc0e",
@@ -53,77 +53,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/embedded-systems-internship-in-multiple-locations-at-utopiatech1793258790",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.721688+00:00"
-  },
-  {
-    "id": "internshala_2228ca6be9f3",
-    "title": "Embedded Systems",
-    "company": "Emoolar Technology Private Limited",
-    "location": "Work from home",
-    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
-    "skills_hint": [
-      "embedded systems"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/work-from-home-embedded-systems-internship-at-emoolar-technology-private-limited1794204454",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.721815+00:00"
-  },
-  {
-    "id": "internshala_123e4c02ba00",
-    "title": "Electronics Engineering",
-    "company": "Nexaora",
-    "location": "Work from home",
-    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
-    "skills_hint": [
-      "embedded systems"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/work-from-home-electronics-engineering-internship-at-nexaora1793864503",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.721948+00:00"
-  },
-  {
-    "id": "internshala_b16de1643a0a",
-    "title": "Embedded Systems",
-    "company": "Gateway Software Solutions",
-    "location": "Chennai, Coimbatore, Erode, Karur, Madurai, Namakkal, Tiruppur, Kanchipuram, Avadi, Salem, Tiruchirappalli, Dharmapuri, Villupuram, Sivagangai(Hybrid)",
-    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
-    "skills_hint": [
-      "embedded systems"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/embedded-systems-internship-in-multiple-locations-at-gateway-software-solutions1791863578",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.722073+00:00"
-  },
-  {
-    "id": "internshala_e3451cd06c05",
-    "title": "AI & Robotics Trainer",
-    "company": "HowNWhy Education Solutions Private Limited",
-    "location": "Kottayam, Thiruvananthapuram, Kasaragod, Kochi, Tiruchirappalli",
-    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
-    "skills_hint": [
-      "embedded systems"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/ai-robotics-trainer-internship-in-multiple-locations-at-hownwhy-education-solutions-private-limited1793857425",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.722209+00:00"
-  },
-  {
-    "id": "internshala_dcaf6918a432",
-    "title": "Electronics Engineering",
-    "company": "Pathology MCQ",
-    "location": "Chennai",
-    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
-    "skills_hint": [
-      "embedded systems"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/electronics-engineering-internship-in-chennai-at-pathology-mcq1794127170",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.722342+00:00"
+    "fetched_at": "2026-11-11T21:30:12.569013+00:00"
   },
   {
     "id": "internshala_e8f74263760d",
@@ -137,7 +67,105 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/embedded-systems-internship-in-delhi-at-xilir-technologies-llp1793625355",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.722467+00:00"
+    "fetched_at": "2026-11-11T21:30:12.569157+00:00"
+  },
+  {
+    "id": "internshala_9834128802a2",
+    "title": "Automation Embedded And Electronics",
+    "company": "EMBONE TECHNOLOGIES",
+    "location": "Pune",
+    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
+    "skills_hint": [
+      "embedded systems"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/automation-embedded-and-electronics-internship-in-pune-at-embone-technologies1792830400",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:12.569303+00:00"
+  },
+  {
+    "id": "internshala_123e4c02ba00",
+    "title": "Electronics Engineering",
+    "company": "Nexaora",
+    "location": "Work from home",
+    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
+    "skills_hint": [
+      "embedded systems"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-electronics-engineering-internship-at-nexaora1793864503",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:12.569462+00:00"
+  },
+  {
+    "id": "internshala_e8d76696df63",
+    "title": "Electrical And Electronics Engineering Research",
+    "company": "Megaminds IT Services",
+    "location": "Work from home",
+    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
+    "skills_hint": [
+      "embedded systems"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-electrical-and-electronics-engineering-research-internship-at-megaminds-it-services1792009007",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:12.569631+00:00"
+  },
+  {
+    "id": "internshala_cd1a80244403",
+    "title": "Embedded Systems",
+    "company": "Zenith",
+    "location": "Jaipur(Hybrid)",
+    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
+    "skills_hint": [
+      "embedded systems"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/embedded-systems-internship-in-jaipur-at-zenith1794382458",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:12.569784+00:00"
+  },
+  {
+    "id": "internshala_2228ca6be9f3",
+    "title": "Embedded Systems",
+    "company": "Emoolar Technology Private Limited",
+    "location": "Work from home",
+    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
+    "skills_hint": [
+      "embedded systems"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-embedded-systems-internship-at-emoolar-technology-private-limited1794204454",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:12.569929+00:00"
+  },
+  {
+    "id": "internshala_dcaf6918a432",
+    "title": "Electronics Engineering",
+    "company": "Pathology MCQ",
+    "location": "Chennai",
+    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
+    "skills_hint": [
+      "embedded systems"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/electronics-engineering-internship-in-chennai-at-pathology-mcq1794127170",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:12.570066+00:00"
+  },
+  {
+    "id": "internshala_e3451cd06c05",
+    "title": "AI & Robotics Trainer",
+    "company": "HowNWhy Education Solutions Private Limited",
+    "location": "Kottayam, Thiruvananthapuram, Kasaragod, Kochi, Tiruchirappalli",
+    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
+    "skills_hint": [
+      "embedded systems"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/ai-robotics-trainer-internship-in-multiple-locations-at-hownwhy-education-solutions-private-limited1793857425",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:12.570203+00:00"
   },
   {
     "id": "internshala_de13432355d1",
@@ -151,7 +179,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/electronics-iot-internship-in-hyderabad-at-natureloop-eco-solutions-private-limited1793788040",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.722586+00:00"
+    "fetched_at": "2026-11-11T21:30:12.570339+00:00"
   },
   {
     "id": "internshala_0516cbbaa0b2",
@@ -165,7 +193,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/robotics-internship-in-noida-at-irc-engineering-services-india-private-limited1793704726",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.722726+00:00"
+    "fetched_at": "2026-11-11T21:30:12.570515+00:00"
   },
   {
     "id": "internshala_3bff5501db24",
@@ -179,35 +207,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/mechanical-engineering-internship-in-multiple-locations-at-iceberg-cooling-and-freezing-systems-private-limited1793078942",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.722843+00:00"
-  },
-  {
-    "id": "internshala_67286d98962c",
-    "title": "Internet Of Things (IoT)",
-    "company": "Olus Infomatics",
-    "location": "Gurgaon",
-    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
-    "skills_hint": [
-      "embedded systems"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/internet-of-things-iot-internship-in-gurgaon-at-olus-infomatics1793028183",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.722971+00:00"
-  },
-  {
-    "id": "internshala_93315d41800f",
-    "title": "IOT Engineer",
-    "company": "Eduosynapse Infotech Private Limited",
-    "location": "Kompally, Hyderbad",
-    "description": "Core ECE opportunity in Embedded Systems listed on Internshala",
-    "skills_hint": [
-      "embedded systems"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/iot-engineer-internship-in-multiple-locations-at-eduosynapse-infotech-private-limited1793009898",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:48.723093+00:00"
+    "fetched_at": "2026-11-11T21:30:12.570655+00:00"
   },
   {
     "id": "internshala_83b3a8da67ac",
@@ -221,91 +221,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/work-from-home-part-time-design-engineer-internship-at-cornixe1792236208",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.502972+00:00"
-  },
-  {
-    "id": "internshala_62d275891918",
-    "title": "Electronics Engineering",
-    "company": "NEERA TECHNOLOGIES PRIVATE LIMITED",
-    "location": "Work from home",
-    "description": "Core ECE opportunity in Vlsi listed on Internshala",
-    "skills_hint": [
-      "vlsi"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/work-from-home-electronics-engineering-internship-at-neera-technologies-private-limited1791124883",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.503120+00:00"
-  },
-  {
-    "id": "internshala_e7511aeebddd",
-    "title": "Electrical Engineering Apprentice - Diploma",
-    "company": "Airports Authority Of India (AAI)",
-    "location": "Agra, Aligarh, Amritsar, Bareilly, Dehradun, Ayodhya, Adampur, Chitrakoot, Farukkhabad, Bhatinda, Prayagraj Sub-District",
-    "description": "Core ECE opportunity in Vlsi listed on Internshala",
-    "skills_hint": [
-      "vlsi"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/electrical-engineering-apprentice-diploma-internship-in-multiple-locations-at-airports-authority-of-india-aai1786969100",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.503244+00:00"
-  },
-  {
-    "id": "internshala_c146f458362a",
-    "title": "Electrical Engineering Apprentice - Graduate",
-    "company": "Airports Authority Of India (AAI)",
-    "location": "Agra, Aligarh, Amritsar, Bareilly, Azamgarh, Ayodhya, Adampur, Bhatinda",
-    "description": "Core ECE opportunity in Vlsi listed on Internshala",
-    "skills_hint": [
-      "vlsi"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/electrical-engineering-apprentice-graduate-internship-in-multiple-locations-at-airports-authority-of-india-aai1786968766",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.503344+00:00"
-  },
-  {
-    "id": "internshala_88a16ca03e0a",
-    "title": "Technician Apprentice Discipline - Instrumentation",
-    "company": "Indian Oil Corporation Limited (IndianOil)",
-    "location": "Haryana",
-    "description": "Core ECE opportunity in Vlsi listed on Internshala",
-    "skills_hint": [
-      "vlsi"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/technician-apprentice-discipline-instrumentation-internship-in-haryana-at-indian-oil-corporation-limited-indianoil1786512518",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.503446+00:00"
-  },
-  {
-    "id": "internshala_c07915928c29",
-    "title": "Embedded Hardware",
-    "company": "Planet Material Labs",
-    "location": "Faridabad, Delhi, Ghaziabad, Gurgaon, Noida",
-    "description": "Core ECE opportunity in Vlsi listed on Internshala",
-    "skills_hint": [
-      "vlsi"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/embedded-hardware-internship-in-multiple-locations-at-planet-material-labs1793936073",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.503569+00:00"
-  },
-  {
-    "id": "internshala_2ffa4d8925d3",
-    "title": "Hardware and Network Engineer",
-    "company": "Hare Krishna Infotech",
-    "location": "Mumbai",
-    "description": "Core ECE opportunity in Vlsi listed on Internshala",
-    "skills_hint": [
-      "vlsi"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/hardware-and-network-engineer-internship-in-mumbai-at-hare-krishna-infotech1791894683",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.503672+00:00"
+    "fetched_at": "2026-11-11T21:30:14.266381+00:00"
   },
   {
     "id": "internshala_359feed5a73b",
@@ -319,35 +235,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/electronics-engineering-internship-in-bhopal-at-toyart-diy-enterprises1791891797",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.503773+00:00"
-  },
-  {
-    "id": "internshala_9461d19d245f",
-    "title": "PCB Designer",
-    "company": "STELX DYNAMICS PRIVATE LIMITED",
-    "location": "Delhi, Gurgaon, Greater Noida, Noida, Bangalore(Hybrid)",
-    "description": "Core ECE opportunity in Vlsi listed on Internshala",
-    "skills_hint": [
-      "vlsi"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/pcb-designer-internship-in-multiple-locations-at-stelx-dynamics-private-limited1792412600",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.503874+00:00"
-  },
-  {
-    "id": "internshala_b042db25cff0",
-    "title": "Embedded Systems",
-    "company": "Webexa Technologies LLP",
-    "location": "Pune",
-    "description": "Core ECE opportunity in Vlsi listed on Internshala",
-    "skills_hint": [
-      "vlsi"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/embedded-systems-internship-in-pune-at-webexa-technologies-llp1792062232",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.503980+00:00"
+    "fetched_at": "2026-11-11T21:30:14.266580+00:00"
   },
   {
     "id": "internshala_79c8736301d3",
@@ -361,21 +249,105 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/apprentice-automation-control-software-engineer-internship-in-mumbai-at-acg-engineering1792073229",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.504081+00:00"
+    "fetched_at": "2026-11-11T21:30:14.266724+00:00"
   },
   {
-    "id": "internshala_6db29db20854",
-    "title": "Trade Apprentice - Secretarial Assistant",
-    "company": "Indian Oil Corporation Limited (IndianOil)",
-    "location": "Haryana",
+    "id": "internshala_9461d19d245f",
+    "title": "PCB Designer",
+    "company": "STELX DYNAMICS PRIVATE LIMITED",
+    "location": "Delhi, Gurgaon, Greater Noida, Noida, Bangalore(Hybrid)",
     "description": "Core ECE opportunity in Vlsi listed on Internshala",
     "skills_hint": [
       "vlsi"
     ],
     "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/trade-apprentice-secretarial-assistant-internship-in-haryana-at-indian-oil-corporation-limited-indianoil1786512791",
+    "url": "https://internshala.com/internship/detail/pcb-designer-internship-in-multiple-locations-at-stelx-dynamics-private-limited1792412600",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.504190+00:00"
+    "fetched_at": "2026-11-11T21:30:14.266861+00:00"
+  },
+  {
+    "id": "internshala_d8c8d66650ce",
+    "title": "Blender Sculptor & 3D Modeling",
+    "company": "SonicRender",
+    "location": "Ramgarh",
+    "description": "Core ECE opportunity in Vlsi listed on Internshala",
+    "skills_hint": [
+      "vlsi"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/blender-sculptor-3d-modeling-internship-in-ramgarh-at-sonicrender1792132075",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:14.267088+00:00"
+  },
+  {
+    "id": "internshala_b251139b67de",
+    "title": "Sales - Digitalization & IoT Solutions",
+    "company": "Datanimics Technologies Private Limited",
+    "location": "Bangalore",
+    "description": "Core ECE opportunity in Vlsi listed on Internshala",
+    "skills_hint": [
+      "vlsi"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/sales-digitalization-iot-solutions-internship-in-bangalore-at-datanimics-technologies-private-limited1792396921",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:14.267231+00:00"
+  },
+  {
+    "id": "internshala_f78cc15e30dd",
+    "title": "Robotics",
+    "company": "Shree Durga Syntex Private Limited",
+    "location": "Surat",
+    "description": "Core ECE opportunity in Vlsi listed on Internshala",
+    "skills_hint": [
+      "vlsi"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/robotics-internship-in-surat-at-shree-durga-syntex-private-limited1793678158",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:14.267368+00:00"
+  },
+  {
+    "id": "internshala_c07915928c29",
+    "title": "Embedded Hardware",
+    "company": "Planet Material Labs",
+    "location": "Faridabad, Delhi, Ghaziabad, Gurgaon, Noida",
+    "description": "Core ECE opportunity in Vlsi listed on Internshala",
+    "skills_hint": [
+      "vlsi"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/embedded-hardware-internship-in-multiple-locations-at-planet-material-labs1793936073",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:14.267540+00:00"
+  },
+  {
+    "id": "internshala_df15751b39d5",
+    "title": "Electronics Engineering",
+    "company": "SLOGFY TECH INNOVATIONS PRIVATE LIMITED",
+    "location": "Delhi",
+    "description": "Core ECE opportunity in Vlsi listed on Internshala",
+    "skills_hint": [
+      "vlsi"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/electronics-engineering-internship-in-delhi-at-slogfy-tech-innovations-private-limited1792570244",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:14.267672+00:00"
+  },
+  {
+    "id": "internshala_4d6292ee8e6b",
+    "title": "Electronics Engineering",
+    "company": "DMM Technovations LLP",
+    "location": "Work from home",
+    "description": "Core ECE opportunity in Vlsi listed on Internshala",
+    "skills_hint": [
+      "vlsi"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-part-time-electronics-engineering-internship-at-dmm-technovations-llp1792066888",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:14.267805+00:00"
   },
   {
     "id": "internshala_17cb2265327b",
@@ -389,21 +361,77 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/work-from-home-part-time-engineering-design-internship-at-liberty-brass-international1793184634",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.504302+00:00"
+    "fetched_at": "2026-11-11T21:30:14.267942+00:00"
   },
   {
-    "id": "internshala_17722f7df233",
-    "title": "Technician Apprentice Discipline - Electrical",
-    "company": "Indian Oil Corporation Limited (IndianOil)",
-    "location": "Haryana",
+    "id": "internshala_fb09d9a7d2d1",
+    "title": "Embedded, IoT, Hardware & Electronics (Final-Year Or Recently Passed-out)",
+    "company": "InfinityX Innovations Private Limited",
+    "location": "Bangalore",
     "description": "Core ECE opportunity in Vlsi listed on Internshala",
     "skills_hint": [
       "vlsi"
     ],
     "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/technician-apprentice-discipline-electrical-internship-in-haryana-at-indian-oil-corporation-limited-indianoil1786446085",
+    "url": "https://internshala.com/internship/detail/embedded-iot-hardware-electronics-final-year-or-recently-passed-out-internship-in-bangalore-at-infinityx-innovations-private-limited1792063416",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:49.504404+00:00"
+    "fetched_at": "2026-11-11T21:30:14.268083+00:00"
+  },
+  {
+    "id": "internshala_61acbc1d9eec",
+    "title": "3D Modelling & Printing Designer",
+    "company": "DRMS Artsy",
+    "location": "Work from home",
+    "description": "Core ECE opportunity in Vlsi listed on Internshala",
+    "skills_hint": [
+      "vlsi"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-part-time-3d-modelling-printing-designer-internship-at-drms-artsy1792997434",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:14.268206+00:00"
+  },
+  {
+    "id": "internshala_e3a11f0cb6ef",
+    "title": "Electronics Engineering",
+    "company": "OneAccord",
+    "location": "Mumbai",
+    "description": "Core ECE opportunity in Vlsi listed on Internshala",
+    "skills_hint": [
+      "vlsi"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/electronics-engineering-internship-in-mumbai-at-oneaccord1793445377",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:14.268337+00:00"
+  },
+  {
+    "id": "internshala_55d0e17328cf",
+    "title": "Electronics Lab Associate (Part Time)",
+    "company": "Labchild Solutions",
+    "location": "Hyderabad",
+    "description": "Core ECE opportunity in Vlsi listed on Internshala",
+    "skills_hint": [
+      "vlsi"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/part-time-electronics-lab-associate-part-time-internship-in-hyderabad-at-labchild-solutions1792133746",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:14.268485+00:00"
+  },
+  {
+    "id": "internshala_ce1f1820713a",
+    "title": "Electronics Engineering",
+    "company": "Savitra Creation",
+    "location": "Vapi",
+    "description": "Core ECE opportunity in Electronics listed on Internshala",
+    "skills_hint": [
+      "electronics"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/electronics-engineering-internship-in-vapi-at-savitra-creation1791738088",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:15.701098+00:00"
   },
   {
     "id": "internshala_1e9f0d9b371c",
@@ -417,7 +445,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/power-electronics-internship-in-jaipur-at-techshlok1791890613",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.270045+00:00"
+    "fetched_at": "2026-11-11T21:30:15.701340+00:00"
   },
   {
     "id": "internshala_bc26c8f22d59",
@@ -431,7 +459,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/3d-printing-internship-in-mumbai-at-imperio-railing-systems1793443666",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.270207+00:00"
+    "fetched_at": "2026-11-11T21:30:15.701588+00:00"
   },
   {
     "id": "internshala_c92f868956d3",
@@ -445,21 +473,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/electronics-internship-in-noida-at-sun-mega-power-system1793675929",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.270348+00:00"
-  },
-  {
-    "id": "internshala_179b89ae666b",
-    "title": "Electrical Engineering",
-    "company": "N K ENTERPRISE",
-    "location": "Kolkata",
-    "description": "Core ECE opportunity in Electronics listed on Internshala",
-    "skills_hint": [
-      "electronics"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/electrical-engineering-internship-in-kolkata-at-n-k-enterprise1793359051",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.270463+00:00"
+    "fetched_at": "2026-11-11T21:30:15.701738+00:00"
   },
   {
     "id": "internshala_938107a6d22e",
@@ -473,7 +487,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/project-engineer-electrical-internship-in-hyderabad-at-natureloop-eco-solutions-private-limited1793865731",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.270584+00:00"
+    "fetched_at": "2026-11-11T21:30:15.701883+00:00"
   },
   {
     "id": "internshala_9e0ec34ec371",
@@ -487,21 +501,35 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/production-test-engineer-internship-in-multiple-locations-at-sqm-technologies1794285615",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.270716+00:00"
+    "fetched_at": "2026-11-11T21:30:15.702038+00:00"
   },
   {
-    "id": "internshala_75557a98554a",
-    "title": "Broadcast Engineering",
-    "company": "Madan Media India Private Limited",
-    "location": "Delhi",
+    "id": "internshala_777b87c07f05",
+    "title": "IoT Field Application Engineer",
+    "company": "UNIO Labs",
+    "location": "Delhi, Gurgaon, Greater Noida, Noida(Hybrid)",
     "description": "Core ECE opportunity in Electronics listed on Internshala",
     "skills_hint": [
       "electronics"
     ],
     "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/broadcast-engineering-internship-in-delhi-at-madan-media-india-private-limited1794287950",
+    "url": "https://internshala.com/internship/detail/iot-field-application-engineer-internship-in-multiple-locations-at-unio-labs1794398659",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.270842+00:00"
+    "fetched_at": "2026-11-11T21:30:15.702216+00:00"
+  },
+  {
+    "id": "internshala_4a84c4cd7561",
+    "title": "Robotics Trainer",
+    "company": "Main Marshals",
+    "location": "Lucknow",
+    "description": "Core ECE opportunity in Electronics listed on Internshala",
+    "skills_hint": [
+      "electronics"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/robotics-trainer-internship-in-lucknow-at-main-marshals1794391668",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:15.702369+00:00"
   },
   {
     "id": "internshala_538df148cacf",
@@ -515,7 +543,21 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/work-from-home-3d-game-artist--assets-props-environments-internship-at-x1-race-llp1794320689",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.271060+00:00"
+    "fetched_at": "2026-11-11T21:30:15.702540+00:00"
+  },
+  {
+    "id": "internshala_179b89ae666b",
+    "title": "Electrical Engineering",
+    "company": "N K ENTERPRISE",
+    "location": "Kolkata",
+    "description": "Core ECE opportunity in Electronics listed on Internshala",
+    "skills_hint": [
+      "electronics"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/electrical-engineering-internship-in-kolkata-at-n-k-enterprise1793359051",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:15.702688+00:00"
   },
   {
     "id": "internshala_2dc1f18c2bfa",
@@ -529,35 +571,21 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/mechanical-design-solidworks-3d-printing-internship-in-multiple-locations-at-neonflake-enterprises-opc-private-limited1792047021",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.271210+00:00"
+    "fetched_at": "2026-11-11T21:30:15.702830+00:00"
   },
   {
-    "id": "internshala_2b03a9e25a05",
-    "title": "Android App Development",
-    "company": "SURYAS MiB ENTERPRISES",
-    "location": "Chennai",
+    "id": "internshala_75557a98554a",
+    "title": "Broadcast Engineering",
+    "company": "Madan Media India Private Limited",
+    "location": "Delhi",
     "description": "Core ECE opportunity in Electronics listed on Internshala",
     "skills_hint": [
       "electronics"
     ],
     "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/android-app-development-internship-in-chennai-at-suryas-mib-enterprises1793945859",
+    "url": "https://internshala.com/internship/detail/broadcast-engineering-internship-in-delhi-at-madan-media-india-private-limited1794287950",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:50.271374+00:00"
-  },
-  {
-    "id": "internshala_71281ed5dc00",
-    "title": "Fundraising",
-    "company": "Jankalyan Multipurpose Education Society",
-    "location": "Work from home",
-    "description": "Core ECE opportunity in Iot listed on Internshala",
-    "skills_hint": [
-      "iot"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-jankalyan-multipurpose-education-society1794288217",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.452397+00:00"
+    "fetched_at": "2026-11-11T21:30:15.703001+00:00"
   },
   {
     "id": "internshala_160806b2ebfe",
@@ -571,77 +599,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/search-engine-optimization-seo-internship-in-lucknow-at-deedok-it-solutions1792756035",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.452531+00:00"
-  },
-  {
-    "id": "internshala_ffbdfe3a29fb",
-    "title": "Field Sales",
-    "company": "Amar Ujala",
-    "location": "Haryana",
-    "description": "Core ECE opportunity in Iot listed on Internshala",
-    "skills_hint": [
-      "iot"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/field-sales-internship-in-haryana-at-amar-ujala1794297250",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.452646+00:00"
-  },
-  {
-    "id": "internshala_5e67c78ec37e",
-    "title": "Human Resources (HR)",
-    "company": "Athena School Of Management",
-    "location": "Mumbai",
-    "description": "Core ECE opportunity in Iot listed on Internshala",
-    "skills_hint": [
-      "iot"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-mumbai-at-athena-school-of-management1794200011",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.452747+00:00"
-  },
-  {
-    "id": "internshala_53c8c77a0edd",
-    "title": "Human Resources (HR)",
-    "company": "TripUntold Private Limited",
-    "location": "Kochi(Hybrid)",
-    "description": "Core ECE opportunity in Iot listed on Internshala",
-    "skills_hint": [
-      "iot"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/work-from-home-human-resources-hr-internship-at-tripuntold-private-limited1793594681",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.452857+00:00"
-  },
-  {
-    "id": "internshala_459dd2968cb5",
-    "title": "Fundraising",
-    "company": "Tare Zameen Foundation",
-    "location": "Work from home",
-    "description": "Core ECE opportunity in Iot listed on Internshala",
-    "skills_hint": [
-      "iot"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-tare-zameen-foundation1794288155",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.452958+00:00"
-  },
-  {
-    "id": "internshala_e86fbc914fb7",
-    "title": "Data Analytics",
-    "company": "She Can Foundation",
-    "location": "Work from home",
-    "description": "Core ECE opportunity in Iot listed on Internshala",
-    "skills_hint": [
-      "iot"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-she-can-foundation1794300265",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.453082+00:00"
+    "fetched_at": "2026-11-11T21:30:17.593299+00:00"
   },
   {
     "id": "internshala_fc70273bf42a",
@@ -655,21 +613,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/account-based-marketing-market-research-internship-in-bangalore-at-leadstrategus1793477276",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.453202+00:00"
-  },
-  {
-    "id": "internshala_4f680f10803e",
-    "title": "Fundraising",
-    "company": "She Can Foundation",
-    "location": "Work from home",
-    "description": "Core ECE opportunity in Iot listed on Internshala",
-    "skills_hint": [
-      "iot"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1794308195",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.453314+00:00"
+    "fetched_at": "2026-11-11T21:30:17.593482+00:00"
   },
   {
     "id": "internshala_cd8b16245b89",
@@ -683,7 +627,133 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/marketing-sales-internship-in-multiple-locations-at-reliance-nippon-life-insurance1789563888",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.453424+00:00"
+    "fetched_at": "2026-11-11T21:30:17.593626+00:00"
+  },
+  {
+    "id": "internshala_71281ed5dc00",
+    "title": "Fundraising",
+    "company": "Jankalyan Multipurpose Education Society",
+    "location": "Work from home",
+    "description": "Core ECE opportunity in Iot listed on Internshala",
+    "skills_hint": [
+      "iot"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-jankalyan-multipurpose-education-society1794288217",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:17.593761+00:00"
+  },
+  {
+    "id": "internshala_459dd2968cb5",
+    "title": "Fundraising",
+    "company": "Tare Zameen Foundation",
+    "location": "Work from home",
+    "description": "Core ECE opportunity in Iot listed on Internshala",
+    "skills_hint": [
+      "iot"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-tare-zameen-foundation1794288155",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:17.593899+00:00"
+  },
+  {
+    "id": "internshala_ffbdfe3a29fb",
+    "title": "Field Sales",
+    "company": "Amar Ujala",
+    "location": "Haryana",
+    "description": "Core ECE opportunity in Iot listed on Internshala",
+    "skills_hint": [
+      "iot"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/field-sales-internship-in-haryana-at-amar-ujala1794297250",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:17.594037+00:00"
+  },
+  {
+    "id": "internshala_5e67c78ec37e",
+    "title": "Human Resources (HR)",
+    "company": "Athena School Of Management",
+    "location": "Mumbai",
+    "description": "Core ECE opportunity in Iot listed on Internshala",
+    "skills_hint": [
+      "iot"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-mumbai-at-athena-school-of-management1794200011",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:17.594164+00:00"
+  },
+  {
+    "id": "internshala_c2d81bf6c1eb",
+    "title": "Fundraising",
+    "company": "She Can Foundation",
+    "location": "Work from home",
+    "description": "Core ECE opportunity in Iot listed on Internshala",
+    "skills_hint": [
+      "iot"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1794392123",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:17.594306+00:00"
+  },
+  {
+    "id": "internshala_0eb0eb7f66e7",
+    "title": "Talent Acquisition",
+    "company": "Capgemini",
+    "location": "Chennai, Mumbai",
+    "description": "Core ECE opportunity in Iot listed on Internshala",
+    "skills_hint": [
+      "iot"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/talent-acquisition-internship-in-multiple-locations-at-capgemini1794396540",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:17.594452+00:00"
+  },
+  {
+    "id": "internshala_53c8c77a0edd",
+    "title": "Human Resources (HR)",
+    "company": "TripUntold Private Limited",
+    "location": "Kochi(Hybrid)",
+    "description": "Core ECE opportunity in Iot listed on Internshala",
+    "skills_hint": [
+      "iot"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-human-resources-hr-internship-at-tripuntold-private-limited1793594681",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:17.594600+00:00"
+  },
+  {
+    "id": "internshala_1c1b84ce14a3",
+    "title": "Business Development (Sales)",
+    "company": "GM GROUP",
+    "location": "Bangalore",
+    "description": "Core ECE opportunity in Iot listed on Internshala",
+    "skills_hint": [
+      "iot"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-bangalore-at-gm-group1794389516",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:17.594773+00:00"
+  },
+  {
+    "id": "internshala_d246b6a2847a",
+    "title": "Sales",
+    "company": "Decathlon Sports India Private Limited",
+    "location": "Bangalore",
+    "description": "Core ECE opportunity in Iot listed on Internshala",
+    "skills_hint": [
+      "iot"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/sales-internship-in-bangalore-at-decathlon-sports-india-private-limited1794400118",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:17.594932+00:00"
   },
   {
     "id": "internshala_88ade6d112ce",
@@ -697,7 +767,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-multiple-locations-at-indus-towers-limited1793956028",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.453537+00:00"
+    "fetched_at": "2026-11-11T21:30:17.595078+00:00"
   },
   {
     "id": "internshala_4689d5939420",
@@ -711,7 +781,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-delhi-at-upgrad-learnings-private-limited1793885123",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.453659+00:00"
+    "fetched_at": "2026-11-11T21:30:17.595243+00:00"
   },
   {
     "id": "internshala_8368979e7871",
@@ -725,105 +795,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-hyderabad-at-bharat-financial-inclusion-limited1793875179",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.453767+00:00"
-  },
-  {
-    "id": "internshala_954419b1251b",
-    "title": "Accounts",
-    "company": "CELLCURE CANCER CENTRE PRIVATE LIMITED",
-    "location": "Mumbai",
-    "description": "Core ECE opportunity in Iot listed on Internshala",
-    "skills_hint": [
-      "iot"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/accounts-internship-in-mumbai-at-cellcure-cancer-centre-private-limited1793852790",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.453871+00:00"
-  },
-  {
-    "id": "internshala_a95fccd350b8",
-    "title": "TReDS Business",
-    "company": "Mintifi Finserve Private Limited",
-    "location": "Mumbai",
-    "description": "Core ECE opportunity in Iot listed on Internshala",
-    "skills_hint": [
-      "iot"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/treds-business-internship-in-mumbai-at-mintifi-finserve-private-limited1793777436",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:51.453991+00:00"
-  },
-  {
-    "id": "internshala_fe5c7beec813",
-    "title": "CAD Design",
-    "company": "OMNIDYA TECH LLP",
-    "location": "Ahmedabad",
-    "description": "Core ECE opportunity in Robotics listed on Internshala",
-    "skills_hint": [
-      "robotics"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/cad-design-internship-in-ahmedabad-at-omnidya-tech-llp1792124535",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.661942+00:00"
-  },
-  {
-    "id": "internshala_f1f2afd327a6",
-    "title": "Robotics",
-    "company": "Robotics and Artificial Intelligence Foundation",
-    "location": "Chennai",
-    "description": "Core ECE opportunity in Robotics listed on Internshala",
-    "skills_hint": [
-      "robotics"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/robotics-internship-in-chennai-at-robotics-and-artificial-intelligence-foundation1793714732",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.662077+00:00"
-  },
-  {
-    "id": "internshala_c461f7ac3fa2",
-    "title": "Corporate Sales",
-    "company": "Solarian Astra Private Limited",
-    "location": "Mumbai, Noida, Gujarat(Hybrid)",
-    "description": "Core ECE opportunity in Robotics listed on Internshala",
-    "skills_hint": [
-      "robotics"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/corporate-sales-internship-in-multiple-locations-at-solarian-astra-private-limited1793349044",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.662216+00:00"
-  },
-  {
-    "id": "internshala_26994d6ec4c6",
-    "title": "Robotics Trainer",
-    "company": "ENpower",
-    "location": "Mumbai",
-    "description": "Core ECE opportunity in Robotics listed on Internshala",
-    "skills_hint": [
-      "robotics"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/robotics-trainer-internship-in-mumbai-at-enpower1793348578",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.662372+00:00"
-  },
-  {
-    "id": "internshala_bdf5d3907d0e",
-    "title": "Robotics",
-    "company": "Conscript HR Advisors Private Limited",
-    "location": "Pune(Hybrid)",
-    "description": "Core ECE opportunity in Robotics listed on Internshala",
-    "skills_hint": [
-      "robotics"
-    ],
-    "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/robotics-internship-in-pune-at-conscript-hr-advisors-private-limited1791952023",
-    "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.662495+00:00"
+    "fetched_at": "2026-11-11T21:30:17.595397+00:00"
   },
   {
     "id": "internshala_316a7050b5e4",
@@ -837,21 +809,49 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/ai-and-robotics-trainer-haryana-internship-in-multiple-locations-at-stempedia1792125546",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.662631+00:00"
+    "fetched_at": "2026-11-11T21:30:18.895236+00:00"
   },
   {
-    "id": "internshala_e8d76696df63",
-    "title": "Electrical And Electronics Engineering Research",
-    "company": "Megaminds IT Services",
-    "location": "Work from home",
+    "id": "internshala_c461f7ac3fa2",
+    "title": "Corporate Sales",
+    "company": "Solarian Astra Private Limited",
+    "location": "Mumbai, Noida, Gujarat(Hybrid)",
     "description": "Core ECE opportunity in Robotics listed on Internshala",
     "skills_hint": [
       "robotics"
     ],
     "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/work-from-home-electrical-and-electronics-engineering-research-internship-at-megaminds-it-services1792009007",
+    "url": "https://internshala.com/internship/detail/corporate-sales-internship-in-multiple-locations-at-solarian-astra-private-limited1793349044",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.662754+00:00"
+    "fetched_at": "2026-11-11T21:30:18.895441+00:00"
+  },
+  {
+    "id": "internshala_fe5c7beec813",
+    "title": "CAD Design",
+    "company": "OMNIDYA TECH LLP",
+    "location": "Ahmedabad",
+    "description": "Core ECE opportunity in Robotics listed on Internshala",
+    "skills_hint": [
+      "robotics"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/cad-design-internship-in-ahmedabad-at-omnidya-tech-llp1792124535",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:18.895607+00:00"
+  },
+  {
+    "id": "internshala_bdf5d3907d0e",
+    "title": "Robotics",
+    "company": "Conscript HR Advisors Private Limited",
+    "location": "Pune(Hybrid)",
+    "description": "Core ECE opportunity in Robotics listed on Internshala",
+    "skills_hint": [
+      "robotics"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/robotics-internship-in-pune-at-conscript-hr-advisors-private-limited1791952023",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:18.895774+00:00"
   },
   {
     "id": "internshala_e296e25c6a99",
@@ -865,7 +865,35 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/work-from-home-robotics-internship-at-bright-element-capital-corporation1789968398",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.662889+00:00"
+    "fetched_at": "2026-11-11T21:30:18.895954+00:00"
+  },
+  {
+    "id": "internshala_f1f2afd327a6",
+    "title": "Robotics",
+    "company": "Robotics and Artificial Intelligence Foundation",
+    "location": "Chennai",
+    "description": "Core ECE opportunity in Robotics listed on Internshala",
+    "skills_hint": [
+      "robotics"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/robotics-internship-in-chennai-at-robotics-and-artificial-intelligence-foundation1793714732",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:18.896181+00:00"
+  },
+  {
+    "id": "internshala_26994d6ec4c6",
+    "title": "Robotics Trainer",
+    "company": "ENpower",
+    "location": "Mumbai",
+    "description": "Core ECE opportunity in Robotics listed on Internshala",
+    "skills_hint": [
+      "robotics"
+    ],
+    "deadline": "Active / Apply on Internshala",
+    "url": "https://internshala.com/internship/detail/robotics-trainer-internship-in-mumbai-at-enpower1793348578",
+    "source": "Internshala ECE",
+    "fetched_at": "2026-11-11T21:30:18.896362+00:00"
   },
   {
     "id": "internshala_67c28e6c1807",
@@ -879,7 +907,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/drone-r-d-internship-in-kolkata-at-quillair-aerospace-and-engineering-private-limited1793101390",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.662992+00:00"
+    "fetched_at": "2026-11-11T21:30:18.896557+00:00"
   },
   {
     "id": "internshala_8923c190e4ef",
@@ -893,7 +921,7 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/drone-engineering-internship-in-kolkata-at-quillair-aerospace-and-engineering-private-limited1792557380",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.663121+00:00"
+    "fetched_at": "2026-11-11T21:30:18.896696+00:00"
   },
   {
     "id": "internshala_8a43a061fd23",
@@ -907,21 +935,21 @@
     "deadline": "Active / Apply on Internshala",
     "url": "https://internshala.com/internship/detail/drone-r-d-uav-engineering-internship-in-kolkata-at-quillair-aerospace-and-engineering-private-limited1792046787",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.663238+00:00"
+    "fetched_at": "2026-11-11T21:30:18.896839+00:00"
   },
   {
-    "id": "internshala_01df4edd4a4e",
-    "title": "CAD Design",
-    "company": "Tech Analogy",
-    "location": "Ahmedabad",
+    "id": "internshala_a3bc0e7cb771",
+    "title": "Event Management",
+    "company": "TorqWars",
+    "location": "Mumbai",
     "description": "Core ECE opportunity in Robotics listed on Internshala",
     "skills_hint": [
       "robotics"
     ],
     "deadline": "Active / Apply on Internshala",
-    "url": "https://internshala.com/internship/detail/cad-design-internship-in-ahmedabad-at-tech-analogy1791804537",
+    "url": "https://internshala.com/internship/detail/part-time-event-management-internship-in-mumbai-at-torqwars1791802057",
     "source": "Internshala ECE",
-    "fetched_at": "2026-11-10T20:57:52.663375+00:00"
+    "fetched_at": "2026-11-11T21:30:18.896980+00:00"
   },
   {
     "id": "unstop_1787210",
@@ -932,24 +960,10 @@
     "skills_hint": [
       "robotics"
     ],
-    "deadline": "2026-11-14 (3 days left)",
+    "deadline": "2026-11-14 (2 days left)",
     "url": "https://unstop.com/internships/ai-robotics-trainer-internship-kartexa-1787210",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:57:59.845949+00:00"
-  },
-  {
-    "id": "unstop_1798139",
-    "title": "Website Developer",
-    "company": "Ficsar",
-    "location": "India (City)",
-    "description": "Internship at Ficsar",
-    "skills_hint": [
-      "developer"
-    ],
-    "deadline": "2026-11-20 (8 days left)",
-    "url": "https://unstop.com/internships/website-developer-ficsar-1798139",
-    "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281632+00:00"
+    "fetched_at": "2026-11-11T21:30:26.440083+00:00"
   },
   {
     "id": "unstop_1796345",
@@ -960,24 +974,10 @@
     "skills_hint": [
       "developer"
     ],
-    "deadline": "2026-11-20 (9 days left)",
+    "deadline": "2026-11-20 (8 days left)",
     "url": "https://unstop.com/internships/software-developer-internship-vsph-technologies-1796345",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281653+00:00"
-  },
-  {
-    "id": "unstop_1803735",
-    "title": "Frontend Developer Internship",
-    "company": "Frontend Arena",
-    "location": "India (City)",
-    "description": "Internship at Frontend Arena",
-    "skills_hint": [
-      "developer"
-    ],
-    "deadline": "2026-11-23 (12 days left)",
-    "url": "https://unstop.com/internships/frontend-developer-internship-frontend-arena-1803735",
-    "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281657+00:00"
+    "fetched_at": "2026-11-11T21:30:27.091146+00:00"
   },
   {
     "id": "unstop_1791739",
@@ -988,10 +988,10 @@
     "skills_hint": [
       "developer"
     ],
-    "deadline": "2026-11-16 (5 days left)",
+    "deadline": "2026-11-16 (4 days left)",
     "url": "https://unstop.com/internships/frontend-developer-godstockss-1791739",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281660+00:00"
+    "fetched_at": "2026-11-11T21:30:27.091170+00:00"
   },
   {
     "id": "unstop_1794323",
@@ -1002,10 +1002,10 @@
     "skills_hint": [
       "developer"
     ],
-    "deadline": "2026-11-18 (6 days left)",
+    "deadline": "2026-11-18 (5 days left)",
     "url": "https://unstop.com/internships/front-end-developer-softius-technologies-1794323",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281663+00:00"
+    "fetched_at": "2026-11-11T21:30:27.091175+00:00"
   },
   {
     "id": "unstop_1775204",
@@ -1016,10 +1016,10 @@
     "skills_hint": [
       "developer"
     ],
-    "deadline": "2026-11-23 (12 days left)",
+    "deadline": "2026-11-23 (11 days left)",
     "url": "https://unstop.com/internships/python-developer-internship-vortizo-ai-1775204",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281665+00:00"
+    "fetched_at": "2026-11-11T21:30:27.091179+00:00"
   },
   {
     "id": "unstop_1803830",
@@ -1030,10 +1030,24 @@
     "skills_hint": [
       "developer"
     ],
-    "deadline": "2026-11-24 (12 days left)",
+    "deadline": "2026-11-24 (11 days left)",
     "url": "https://unstop.com/internships/android-developer-internship-btow-pvt-ltd-1803830",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281667+00:00"
+    "fetched_at": "2026-11-11T21:30:27.091183+00:00"
+  },
+  {
+    "id": "unstop_1805366",
+    "title": "AI Developer Internship",
+    "company": "Codeatrix",
+    "location": "India (City)",
+    "description": "Internship at Codeatrix",
+    "skills_hint": [
+      "developer"
+    ],
+    "deadline": "2026-11-25 (12 days left)",
+    "url": "https://unstop.com/internships/ai-developer-internship-codeatrix-1805366",
+    "source": "Unstop Internships",
+    "fetched_at": "2026-11-11T21:30:27.091186+00:00"
   },
   {
     "id": "unstop_1804069",
@@ -1044,10 +1058,10 @@
     "skills_hint": [
       "developer"
     ],
-    "deadline": "2026-12-10 (29 days left)",
+    "deadline": "2026-12-10 (28 days left)",
     "url": "https://unstop.com/internships/java-developer-internship-codeatrix-1804069",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281670+00:00"
+    "fetched_at": "2026-11-11T21:30:27.091189+00:00"
   },
   {
     "id": "unstop_1789292",
@@ -1058,10 +1072,10 @@
     "skills_hint": [
       "developer"
     ],
-    "deadline": "2026-11-15 (4 days left)",
+    "deadline": "2026-11-15 (3 days left)",
     "url": "https://unstop.com/internships/full-stack-developer-internship-btow-pvt-ltd-1789292",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281672+00:00"
+    "fetched_at": "2026-11-11T21:30:27.091191+00:00"
   },
   {
     "id": "unstop_1791399",
@@ -1072,10 +1086,24 @@
     "skills_hint": [
       "developer"
     ],
-    "deadline": "2026-11-16 (4 days left)",
+    "deadline": "2026-11-16 (3 days left)",
     "url": "https://unstop.com/internships/front-end-developer-internship-remote-springer-capital-investments-llc-usa-1791399",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281674+00:00"
+    "fetched_at": "2026-11-11T21:30:27.091194+00:00"
+  },
+  {
+    "id": "unstop_1803520",
+    "title": "UI/UX Developer Internship",
+    "company": "Frontend Arena",
+    "location": "India (City)",
+    "description": "Internship at Frontend Arena",
+    "skills_hint": [
+      "developer"
+    ],
+    "deadline": "2026-11-23 (10 days left)",
+    "url": "https://unstop.com/internships/uiux-developer-internship-frontend-arena-1803520",
+    "source": "Unstop Internships",
+    "fetched_at": "2026-11-11T21:30:27.091197+00:00"
   },
   {
     "id": "unstop_1791388",
@@ -1086,24 +1114,10 @@
     "skills_hint": [
       "developer"
     ],
-    "deadline": "2026-11-16 (4 days left)",
+    "deadline": "2026-11-16 (3 days left)",
     "url": "https://unstop.com/internships/full-stack-developer-internship-tyva-technologies-private-limited-1791388",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281677+00:00"
-  },
-  {
-    "id": "unstop_1792517",
-    "title": "Front-End Developer Internship",
-    "company": "Rablik Private Limited",
-    "location": "India (Pan_india)",
-    "description": "Internship at Rablik Private Limited",
-    "skills_hint": [
-      "developer"
-    ],
-    "deadline": "2026-11-17 (5 days left)",
-    "url": "https://unstop.com/internships/front-end-developer-internship-rablik-private-limited-1792517",
-    "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:01.281680+00:00"
+    "fetched_at": "2026-11-11T21:30:27.091200+00:00"
   },
   {
     "id": "unstop_1784950",
@@ -1114,10 +1128,10 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-13 (2 days left)",
+    "deadline": "2026-11-13 (1 days left)",
     "url": "https://unstop.com/internships/online-sales-marketing-internship-b2b-engineers-cradle-1784950",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474634+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964207+00:00"
   },
   {
     "id": "unstop_1788178",
@@ -1128,10 +1142,10 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-15 (3 days left)",
+    "deadline": "2026-11-15 (2 days left)",
     "url": "https://unstop.com/internships/cloud-engineer-internship-flatuiux-1788178",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474655+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964231+00:00"
   },
   {
     "id": "unstop_1793407",
@@ -1142,10 +1156,10 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-17 (5 days left)",
+    "deadline": "2026-11-17 (4 days left)",
     "url": "https://unstop.com/internships/industrial-engineer-internship-thrive-consulting-1793407",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474659+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964236+00:00"
   },
   {
     "id": "unstop_1803128",
@@ -1156,10 +1170,10 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-18 (7 days left)",
+    "deadline": "2026-11-18 (6 days left)",
     "url": "https://unstop.com/internships/software-engineer-internship-cairnloop-technologies-1803128",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474662+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964239+00:00"
   },
   {
     "id": "unstop_1793059",
@@ -1170,10 +1184,10 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-17 (6 days left)",
+    "deadline": "2026-11-17 (5 days left)",
     "url": "https://unstop.com/internships/software-engineer-internship-softius-internet-services-1793059",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474664+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964243+00:00"
   },
   {
     "id": "unstop_1782330",
@@ -1184,10 +1198,24 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-27 (15 days left)",
+    "deadline": "2026-11-27 (14 days left)",
     "url": "https://unstop.com/internships/ai-engineer-internship-the-ai-signal-1782330",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474669+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964247+00:00"
+  },
+  {
+    "id": "unstop_1805800",
+    "title": "Software Development Engineer Internship",
+    "company": "Hoogway.ai",
+    "location": "India (City)",
+    "description": "Internship at Hoogway.ai",
+    "skills_hint": [
+      "engineer"
+    ],
+    "deadline": "2026-11-15 (3 days left)",
+    "url": "https://unstop.com/internships/software-development-engineer-internship-hoogwayai-1805800",
+    "source": "Unstop Internships",
+    "fetched_at": "2026-11-11T21:30:27.964252+00:00"
   },
   {
     "id": "unstop_1787828",
@@ -1198,10 +1226,10 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-14 (3 days left)",
+    "deadline": "2026-11-14 (2 days left)",
     "url": "https://unstop.com/internships/aiml-engineer-internship-b2world-1787828",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474671+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964255+00:00"
   },
   {
     "id": "unstop_1770570",
@@ -1212,24 +1240,10 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-14 (3 days left)",
+    "deadline": "2026-11-14 (2 days left)",
     "url": "https://unstop.com/internships/software-development-engineer-internship-confluent-solutions-1770570",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474674+00:00"
-  },
-  {
-    "id": "unstop_1791212",
-    "title": "Graduate Engineer Trainee (GET)",
-    "company": "CapGrid",
-    "location": "India (City)",
-    "description": "Internship at CapGrid",
-    "skills_hint": [
-      "engineer"
-    ],
-    "deadline": "2026-11-16 (4 days left)",
-    "url": "https://unstop.com/internships/graduate-engineer-trainee-get-capgrid-1791212",
-    "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474676+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964258+00:00"
   },
   {
     "id": "unstop_1795913",
@@ -1240,10 +1254,24 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-18 (7 days left)",
+    "deadline": "2026-11-18 (6 days left)",
     "url": "https://unstop.com/internships/mcp-ai-engineer-internship-devtechaiorg-1795913",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474678+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964260+00:00"
+  },
+  {
+    "id": "unstop_1791212",
+    "title": "Graduate Engineer Trainee (GET)",
+    "company": "CapGrid",
+    "location": "India (City)",
+    "description": "Internship at CapGrid",
+    "skills_hint": [
+      "engineer"
+    ],
+    "deadline": "2026-11-16 (3 days left)",
+    "url": "https://unstop.com/internships/graduate-engineer-trainee-get-capgrid-1791212",
+    "source": "Unstop Internships",
+    "fetched_at": "2026-11-11T21:30:27.964263+00:00"
   },
   {
     "id": "unstop_1790094",
@@ -1254,10 +1282,10 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-15 (3 days left)",
+    "deadline": "2026-11-15 (2 days left)",
     "url": "https://unstop.com/internships/machine-learning-engineer-internship-fortune-analytics-1790094",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474681+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964266+00:00"
   },
   {
     "id": "unstop_1791403",
@@ -1268,10 +1296,24 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-30 (18 days left)",
+    "deadline": "2026-11-30 (17 days left)",
     "url": "https://unstop.com/internships/machine-learning-engineer-vortizo-ai-1791403",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474683+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964268+00:00"
+  },
+  {
+    "id": "unstop_1805055",
+    "title": "Software Development Engineer Internship",
+    "company": "Nexicat",
+    "location": "India (City)",
+    "description": "Internship at Nexicat",
+    "skills_hint": [
+      "engineer"
+    ],
+    "deadline": "2026-11-25 (12 days left)",
+    "url": "https://unstop.com/internships/software-development-engineer-nexicat-1805055",
+    "source": "Unstop Internships",
+    "fetched_at": "2026-11-11T21:30:27.964271+00:00"
   },
   {
     "id": "unstop_1791314",
@@ -1282,10 +1324,10 @@
     "skills_hint": [
       "engineer"
     ],
-    "deadline": "2026-11-17 (5 days left)",
+    "deadline": "2026-11-17 (4 days left)",
     "url": "https://unstop.com/internships/graduate-engineer-trainee-civil-mechanical-electrical-subarashi-join-bricks-pvtltd-1791314",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:02.474685+00:00"
+    "fetched_at": "2026-11-11T21:30:27.964274+00:00"
   },
   {
     "id": "unstop_1791169",
@@ -1296,10 +1338,24 @@
     "skills_hint": [
       "react"
     ],
-    "deadline": "2026-11-16 (4 days left)",
+    "deadline": "2026-11-16 (3 days left)",
     "url": "https://unstop.com/internships/react-native-internship-kiran-foundation-1791169",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:03.760626+00:00"
+    "fetched_at": "2026-11-11T21:30:29.124276+00:00"
+  },
+  {
+    "id": "unstop_1805059",
+    "title": "AI & React Developer Internship",
+    "company": "SmaranAI.in",
+    "location": "India (City)",
+    "description": "Internship at SmaranAI.in",
+    "skills_hint": [
+      "react"
+    ],
+    "deadline": "2026-11-24 (12 days left)",
+    "url": "https://unstop.com/internships/ai-react-developer-internship-smaranaiin-1805059",
+    "source": "Unstop Internships",
+    "fetched_at": "2026-11-11T21:30:29.124299+00:00"
   },
   {
     "id": "unstop_1775200",
@@ -1310,10 +1366,10 @@
     "skills_hint": [
       "python"
     ],
-    "deadline": "2026-11-23 (12 days left)",
+    "deadline": "2026-11-23 (11 days left)",
     "url": "https://unstop.com/internships/python-internship-zenotalent-1775200",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:04.671401+00:00"
+    "fetched_at": "2026-11-11T21:30:30.323282+00:00"
   },
   {
     "id": "unstop_1794409",
@@ -1324,10 +1380,10 @@
     "skills_hint": [
       "python"
     ],
-    "deadline": "2026-11-18 (7 days left)",
+    "deadline": "2026-11-18 (6 days left)",
     "url": "https://unstop.com/internships/python-training-and-internship-skillpilot-solutions-llp-1794409",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:04.671419+00:00"
+    "fetched_at": "2026-11-11T21:30:30.323304+00:00"
   },
   {
     "id": "unstop_1775190",
@@ -1338,10 +1394,10 @@
     "skills_hint": [
       "python"
     ],
-    "deadline": "2026-11-22 (11 days left)",
+    "deadline": "2026-11-22 (10 days left)",
     "url": "https://unstop.com/internships/python-development-internship-intelleqacademy-1775190",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:04.671425+00:00"
+    "fetched_at": "2026-11-11T21:30:30.323309+00:00"
   },
   {
     "id": "unstop_1804646",
@@ -1352,10 +1408,10 @@
     "skills_hint": [
       "frontend"
     ],
-    "deadline": "2026-11-24 (12 days left)",
+    "deadline": "2026-11-24 (11 days left)",
     "url": "https://unstop.com/internships/frontend-and-backend-internship-accesco-living-1804646",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:05.638210+00:00"
+    "fetched_at": "2026-11-11T21:30:31.426424+00:00"
   },
   {
     "id": "unstop_1803889",
@@ -1366,24 +1422,10 @@
     "skills_hint": [
       "frontend"
     ],
-    "deadline": "2026-12-10 (29 days left)",
+    "deadline": "2026-12-10 (28 days left)",
     "url": "https://unstop.com/internships/frontend-development-internship-codeatrix-1803889",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:05.638230+00:00"
-  },
-  {
-    "id": "unstop_1803520",
-    "title": "UI/UX Developer Internship",
-    "company": "Frontend Arena",
-    "location": "India (City)",
-    "description": "Internship at Frontend Arena",
-    "skills_hint": [
-      "frontend"
-    ],
-    "deadline": "2026-11-23 (11 days left)",
-    "url": "https://unstop.com/internships/uiux-developer-internship-frontend-arena-1803520",
-    "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:05.638233+00:00"
+    "fetched_at": "2026-11-11T21:30:31.426448+00:00"
   },
   {
     "id": "unstop_1802394",
@@ -1394,10 +1436,10 @@
     "skills_hint": [
       "web"
     ],
-    "deadline": "2026-11-14 (2 days left)",
+    "deadline": "2026-11-14 (1 days left)",
     "url": "https://unstop.com/internships/web-designer-internship-wavgpt-1802394",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:07.210387+00:00"
+    "fetched_at": "2026-11-11T21:30:32.999215+00:00"
   },
   {
     "id": "unstop_1792954",
@@ -1408,10 +1450,10 @@
     "skills_hint": [
       "web"
     ],
-    "deadline": "2026-11-17 (6 days left)",
+    "deadline": "2026-11-17 (5 days left)",
     "url": "https://unstop.com/internships/web-development-internship-cumidstore-1792954",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:07.210406+00:00"
+    "fetched_at": "2026-11-11T21:30:32.999238+00:00"
   },
   {
     "id": "unstop_1800394",
@@ -1422,10 +1464,10 @@
     "skills_hint": [
       "web"
     ],
-    "deadline": "2026-11-21 (10 days left)",
+    "deadline": "2026-11-21 (9 days left)",
     "url": "https://unstop.com/internships/web-development-internship-cumidstore-1800394",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:07.210410+00:00"
+    "fetched_at": "2026-11-11T21:30:32.999243+00:00"
   },
   {
     "id": "unstop_1773938",
@@ -1436,10 +1478,10 @@
     "skills_hint": [
       "web"
     ],
-    "deadline": "2026-11-21 (10 days left)",
+    "deadline": "2026-11-21 (9 days left)",
     "url": "https://unstop.com/internships/web-development-internship-intelleqacademy-1773938",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:07.210413+00:00"
+    "fetched_at": "2026-11-11T21:30:32.999247+00:00"
   },
   {
     "id": "unstop_1803899",
@@ -1450,10 +1492,10 @@
     "skills_hint": [
       "web"
     ],
-    "deadline": "2026-11-24 (12 days left)",
+    "deadline": "2026-11-24 (11 days left)",
     "url": "https://unstop.com/internships/web-development-internship-codeatrix-1803899",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:07.210416+00:00"
+    "fetched_at": "2026-11-11T21:30:32.999249+00:00"
   },
   {
     "id": "unstop_1804517",
@@ -1464,10 +1506,10 @@
     "skills_hint": [
       "web"
     ],
-    "deadline": "2026-12-10 (28 days left)",
+    "deadline": "2026-12-10 (27 days left)",
     "url": "https://unstop.com/internships/web-development-internship-confluent-solutions-1804517",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:07.210418+00:00"
+    "fetched_at": "2026-11-11T21:30:32.999252+00:00"
   },
   {
     "id": "unstop_1793487",
@@ -1478,10 +1520,41 @@
     "skills_hint": [
       "web"
     ],
-    "deadline": "2026-11-17 (5 days left)",
+    "deadline": "2026-11-17 (4 days left)",
     "url": "https://unstop.com/internships/mobileweb-development-internship-kalachashma-entertainment-1793487",
     "source": "Unstop Internships",
-    "fetched_at": "2026-11-10T20:58:07.210421+00:00"
+    "fetched_at": "2026-11-11T21:30:32.999255+00:00"
+  },
+  {
+    "id": "remoteok_1137714",
+    "title": "Data Engineer",
+    "company": "Addepto",
+    "location": "",
+    "description": "design, saas, salesforce, python, education, consulting, customer support, testing, marketing, dev, finance, cloud, git, stats, sys admin, engineer, apache, digital nomad",
+    "skills_hint": [
+      "design",
+      "saas",
+      "salesforce",
+      "python",
+      "education",
+      "consulting",
+      "customer support",
+      "testing",
+      "marketing",
+      "dev",
+      "finance",
+      "cloud",
+      "git",
+      "stats",
+      "sys admin",
+      "engineer",
+      "apache",
+      "digital nomad"
+    ],
+    "deadline": "Active",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+    "source": "RemoteOK",
+    "fetched_at": "2026-11-11T21:30:33.499724+00:00"
   },
   {
     "id": "remoteok_1137710",
@@ -1512,7 +1585,7 @@
     "deadline": "Active",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
     "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.846897+00:00"
+    "fetched_at": "2026-11-11T21:30:33.499764+00:00"
   },
   {
     "id": "remoteok_1137709",
@@ -1531,7 +1604,7 @@
     "deadline": "Active",
     "url": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
     "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.846920+00:00"
+    "fetched_at": "2026-11-11T21:30:33.499772+00:00"
   },
   {
     "id": "remoteok_1137704",
@@ -1563,7 +1636,7 @@
     "deadline": "Active",
     "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
     "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.846944+00:00"
+    "fetched_at": "2026-11-11T21:30:33.499801+00:00"
   },
   {
     "id": "remoteok_1137701",
@@ -1597,7 +1670,7 @@
     "deadline": "Active",
     "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
     "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.846955+00:00"
+    "fetched_at": "2026-11-11T21:30:33.499814+00:00"
   },
   {
     "id": "remoteok_1137700",
@@ -1618,7 +1691,7 @@
     "deadline": "Active",
     "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
     "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.846960+00:00"
+    "fetched_at": "2026-11-11T21:30:33.499820+00:00"
   },
   {
     "id": "remoteok_1137690",
@@ -1641,7 +1714,7 @@
     "deadline": "Active",
     "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
     "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.846975+00:00"
+    "fetched_at": "2026-11-11T21:30:33.499838+00:00"
   },
   {
     "id": "remoteok_1137688",
@@ -1668,7 +1741,7 @@
     "deadline": "Active",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
     "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.846986+00:00"
+    "fetched_at": "2026-11-11T21:30:33.499849+00:00"
   },
   {
     "id": "remoteok_1137677",
@@ -1687,62 +1760,284 @@
     "deadline": "Active",
     "url": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
     "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.846997+00:00"
+    "fetched_at": "2026-11-11T21:30:33.499863+00:00"
   },
   {
-    "id": "remoteok_1137624",
-    "title": "Senior Property Manager ENG",
-    "company": "StaffRight",
-    "location": "",
-    "description": "exec, hr, technical, customer support, dev, travel, finance, php, microsoft, senior, junior, ops, marketing, medical, full time, digital nomad",
+    "id": "remoteok_1137614",
+    "title": "Software Engineer Infrastructure",
+    "company": "Sodalis, Inc.",
+    "location": "Palo Alto",
+    "description": "dev, design, embedded, sys admin, cloud, ruby, exec, ops, golang, medical, engineer, digital nomad",
     "skills_hint": [
-      "exec",
-      "hr",
-      "technical",
-      "customer support",
       "dev",
-      "travel",
-      "finance",
-      "php",
-      "microsoft",
-      "senior",
-      "junior",
+      "design",
+      "embedded",
+      "sys admin",
+      "cloud",
+      "ruby",
+      "exec",
       "ops",
-      "marketing",
+      "golang",
       "medical",
-      "full time",
+      "engineer",
       "digital nomad"
     ],
     "deadline": "Active",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
     "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.847009+00:00"
+    "fetched_at": "2026-11-11T21:30:33.499878+00:00"
   },
   {
-    "id": "remoteok_1137622",
-    "title": "Tax Manager Private Client",
-    "company": "Aprio",
-    "location": "Scotch Plains, NJ",
-    "description": "exec, education, consulting, technical, customer support, dev, marketing, accounting, finance, junior, sales, full time, digital nomad",
-    "skills_hint": [
-      "exec",
-      "education",
-      "consulting",
-      "technical",
-      "customer support",
-      "dev",
-      "marketing",
-      "accounting",
-      "finance",
-      "junior",
-      "sales",
-      "full time",
-      "digital nomad"
-    ],
-    "deadline": "Active",
-    "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
-    "source": "RemoteOK",
-    "fetched_at": "2026-11-10T20:58:07.847013+00:00"
+    "id": "jobicy_161371",
+    "title": "Senior Frontend Engineer - Remote Europe",
+    "company": "Reedsy",
+    "location": "Europe",
+    "description": "We welcome applicants based anywhere in Europe. About Reedsy We’re here to give authors the tools and resources they need to create beautiful books. Our marketplace gathers the industry's best publishing professionals — the likes of Neil Gaiman's editor, Nora Roberts' book marketer, and GRRM’s cover designer. We’ve grown to a community of 5,000,000 authors,&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161371-senior-frontend-engineer-remote-europe",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335296+00:00"
+  },
+  {
+    "id": "jobicy_161365",
+    "title": "Senior Ruby Engineer - Remote Europe",
+    "company": "Reedsy",
+    "location": "Europe",
+    "description": "We welcome applicants based anywhere in Europe. About Reedsy We’re here to give authors the tools and resources they need to create beautiful books. Our marketplace gathers the industry's best publishing professionals — the likes of Neil Gaiman's editor, Nora Roberts' book marketer, and GRRM’s cover designer. We’ve grown to a community of 5,000,000 authors,&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161365-senior-ruby-engineer-remote-europe",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335322+00:00"
+  },
+  {
+    "id": "jobicy_161360",
+    "title": "Senior Software Engineer, OS Integration",
+    "company": "Mozilla",
+    "location": "France",
+    "description": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161360-senior-software-engineer-os-integration",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335330+00:00"
+  },
+  {
+    "id": "jobicy_161358",
+    "title": "Senior Software Engineer (Node/Vue/TypeScript) - Remote Europe",
+    "company": "Reedsy",
+    "location": "Europe",
+    "description": "We welcome applicants based anywhere in Europe. About Reedsy We’re here to give authors the tools and resources they need to create beautiful books. Our marketplace gathers the industry's best publishing professionals — the likes of Neil Gaiman's editor, Nora Roberts' book marketer, and GRRM’s cover designer. We’ve grown to a community of 5,000,000 authors,&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161358-senior-software-engineer-node-vue-typescript-remote-europe",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335336+00:00"
+  },
+  {
+    "id": "jobicy_161284",
+    "title": "AI Growth Engineer",
+    "company": "Cresta",
+    "location": "USA",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161284-ai-growth-engineer",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335342+00:00"
+  },
+  {
+    "id": "jobicy_161268",
+    "title": "AI Engineer - Remote Europe",
+    "company": "Reedsy",
+    "location": "France,  Netherlands,  Poland,  Portugal,  Spain,  UK",
+    "description": "About Reedsy We’re here to give authors the tools and resources they need to create beautiful books. Our marketplace gathers the industry's best publishing professionals — the likes of Neil Gaiman's editor, Nora Roberts' book marketer, and GRRM’s cover designer. We’ve grown to a community of 5,000,000 authors, and transformed the way people write and&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161268-ai-engineer-remote-europe",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335348+00:00"
+  },
+  {
+    "id": "jobicy_161264",
+    "title": "Senior Backend Engineer | Feeld",
+    "company": "GT",
+    "location": "Europe",
+    "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of Feeld, GT is looking for a Senior Backend Engineer to help them improve their&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161264-senior-backend-engineer-feeld",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335354+00:00"
+  },
+  {
+    "id": "jobicy_161257",
+    "title": "Senior AI Developer, Agentic Systems",
+    "company": "Workleap",
+    "location": "Canada",
+    "description": "Company Description Workleap is a Montreal-based tech company, founded in 2006. We're builders at heart, we make simple products that actually matter to the people who use them. We have two product lines: Workleap Agent, our newest solution built to make every manager more effective, and ShareGate, the world's leading solution for Microsoft 365 migration&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161257-senior-ai-developer-agentic-systems",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335364+00:00"
+  },
+  {
+    "id": "jobicy_161245",
+    "title": "Digital Success Engineer",
+    "company": "Jamf",
+    "location": "USA",
+    "description": "At Jamf, we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right. We take pride in helping tens of thousands of customers around the globe succeed with Apple. The secret to our&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161245-digital-success-engineer",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335371+00:00"
+  },
+  {
+    "id": "jobicy_161204",
+    "title": "Senior Backend Engineer (Mobile Monetization) | Feeld",
+    "company": "GT",
+    "location": "Poland,  Portugal,  Spain",
+    "description": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of Feeld, GT is looking for a Senior Backend Engineer to help them improve their&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161204-senior-backend-engineer-mobile-monetization-feeld",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335377+00:00"
+  },
+  {
+    "id": "jobicy_155050",
+    "title": "Product Engineering",
+    "company": "Polar",
+    "location": "Europe,  USA",
+    "description": "Product Engineering at Polar Product engineering at Polar is about shaping and building the finance layer for the next generation of AI products. We’re rethinking how billing works for a world of usage-based software, programmable pricing and AI agents – from real-time metering and pricing as code, to more flexible customer identities, giving developers greater&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/155050-product-engineering",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335382+00:00"
+  },
+  {
+    "id": "jobicy_155044",
+    "title": "Senior Software Engineer, Data Product",
+    "company": "TRM Labs",
+    "location": "LATAM",
+    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. The&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/155044-senior-software-engineer-data-product",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335388+00:00"
+  },
+  {
+    "id": "jobicy_155033",
+    "title": "Forward Deployed Engineer",
+    "company": "Nash",
+    "location": "Australia",
+    "description": "Forward Deployed Engineer Sydney or Melbourne (Hybrid) About Nash Nash is building the digital logistics infrastructure that powers delivery for some of the world’s largest retailers, tech platforms, and delivery services. Our platform connects merchants, carriers, and customers through unified AI-driven logistics, helping enterprises like Walmart, Woolworths, 7-Eleven, and Coles orchestrate millions of deliveries every&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/155033-forward-deployed-engineer-6",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335392+00:00"
+  },
+  {
+    "id": "jobicy_155019",
+    "title": "AI Lead / Engineering Manager",
+    "company": "saas.group",
+    "location": "Europe",
+    "description": "This role is part of our Usersnap team, one of our growing brands at saas.group. Profile Overview Usersnap is building AI-driven capabilities into the core of the product, from automated setup to intelligent surveys, contextual analysis, and reporting that generates itself based on connectors. We're looking for a hands-on AI Lead / Engineering Manager to&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/155019-ai-lead-engineering-manager",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335398+00:00"
+  },
+  {
+    "id": "jobicy_154994",
+    "title": "Senior Mobile Engineer",
+    "company": "Mattermost",
+    "location": "USA",
+    "description": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/154994-senior-mobile-engineer",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335404+00:00"
+  },
+  {
+    "id": "jobicy_154987",
+    "title": "Senior Full Stack Engineer",
+    "company": "Mattermost",
+    "location": "Canada",
+    "description": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/154987-senior-full-stack-engineer-6",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335423+00:00"
+  },
+  {
+    "id": "jobicy_152903",
+    "title": "Senior Developer",
+    "company": "Instrument",
+    "location": "USA",
+    "description": "Instrument is a design and technology company. We build brands, products, and experiences that move businesses forward—by making the complex simple. For over 20 years, we’ve partnered with companies like Google, ServiceNow, Uber, Eventbrite, and ŌURA, helping them navigate change, launch new ideas, and grow with intention. Our work spans Brand, Marketing, and Product, but&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/152903-senior-developer",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335430+00:00"
+  },
+  {
+    "id": "jobicy_152919",
+    "title": "Staff Software Engineer - Data",
+    "company": "Dune",
+    "location": "Europe,  USA",
+    "description": "About Dune Dune is on a mission to make crypto data accessible. We’re a collaborative multi-chain analytics platform used by thousands of developers, analysts, &amp; investors to understand the on-chain world and the frontiers of finance. We’re a team of ~60 employees, working together across Europe and eastern US timezones ️. We believe in our&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/152919-staff-software-engineer-data",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335436+00:00"
+  },
+  {
+    "id": "jobicy_152912",
+    "title": "Senior Software Engineer (.NET) (f/m/d)",
+    "company": "Apaleo",
+    "location": "Germany",
+    "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/152912-senior-software-engineer-net-f-m-d",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335441+00:00"
+  },
+  {
+    "id": "jobicy_161192",
+    "title": "Software Engineering Manager (Backend SaaS)",
+    "company": "Canonical",
+    "location": "LATAM,  Canada,  USA",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161192-software-engineering-manager-backend-saas",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335447+00:00"
+  },
+  {
+    "id": "jobicy_161191",
+    "title": "Software Developer (Backend SaaS)",
+    "company": "Canonical",
+    "location": "LATAM,  Canada,  USA",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+    "skills_hint": [],
+    "deadline": "Rolling / Active",
+    "url": "https://jobicy.com/jobs/161191-software-developer-backend-saas",
+    "source": "Jobicy Remote",
+    "fetched_at": "2026-11-11T21:30:34.335452+00:00"
   },
   {
     "id": "jobicy_161171",
@@ -1754,7 +2049,7 @@
     "deadline": "Rolling / Active",
     "url": "https://jobicy.com/jobs/161171-qa-engineer-6",
     "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330767+00:00"
+    "fetched_at": "2026-11-11T21:30:34.335456+00:00"
   },
   {
     "id": "jobicy_161168",
@@ -1766,7 +2061,7 @@
     "deadline": "Rolling / Active",
     "url": "https://jobicy.com/jobs/161168-senior-software-engineer-full-stack-2",
     "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330789+00:00"
+    "fetched_at": "2026-11-11T21:30:34.335461+00:00"
   },
   {
     "id": "jobicy_161153",
@@ -1778,484 +2073,207 @@
     "deadline": "Rolling / Active",
     "url": "https://jobicy.com/jobs/161153-forward-deployed-engineer-singapore",
     "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330795+00:00"
+    "fetched_at": "2026-11-11T21:30:34.335465+00:00"
   },
   {
-    "id": "jobicy_161147",
-    "title": "Senior Reliability Engineer",
-    "company": "Halter",
-    "location": "New Zealand",
-    "description": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards their next break? No quad bikes, no dogs, no&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/161147-senior-reliability-engineer",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330799+00:00"
-  },
-  {
-    "id": "jobicy_161089",
-    "title": "Quality Assurance Engineer - Remote Europe",
-    "company": "Reedsy",
-    "location": "Europe",
-    "description": "We welcome applicants based anywhere in Europe. About Reedsy We’re here to give authors the tools and resources they need to create beautiful books. Our marketplace gathers the industry's best publishing professionals — the likes of Neil Gaiman's editor, Nora Roberts' book marketer, and GRRM’s cover designer. We’ve grown to a community of 5,000,000 authors,&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/161089-quality-assurance-engineer-remote-europe",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330805+00:00"
-  },
-  {
-    "id": "jobicy_161067",
-    "title": "Senior GTM Engineer",
-    "company": "PubNub",
-    "location": "Poland",
-    "description": "Location: Poland, Remote Employment Type: Full-time, B2B ContractCompensation: PLN 12,000–22,000 net + VAT per month About PubNub PubNub powers real-time interactive experiences that drive engagement, retention, and monetization. Our market-leading platform for real-time interactive apps enables customers to efficiently and effectively build, manage, and optimize engaging apps that captivate and delight users. Founded in 2012,&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/161067-senior-gtm-engineer",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330814+00:00"
-  },
-  {
-    "id": "jobicy_161065",
-    "title": "Full-Stack Engineer - ElevenAPI",
-    "company": "Elevenlabs",
-    "location": "Europe",
-    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/161065-full-stack-engineer-elevenapi",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330819+00:00"
-  },
-  {
-    "id": "jobicy_161063",
-    "title": "Senior Software Engineer — AI-Native Engineering (XTM Foundation)",
-    "company": "Filigran",
-    "location": "France,  Germany,  Italy,  Spain,  UK",
-    "description": "The Company Founded in 2022, Filigran is a global cybersecurity company on a mission to empower defense teams to be proactive through open-source solutions that uncover threats and drive action. Filigran stands out in the cybersecurity ecosystem through its open-source, AI-powered and threat-informed approach to Continuous Threat Exposure Management (CTEM). Our eXtended Threat Management&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/161063-senior-software-engineer-ai-native-engineering-xtm-foundation",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330830+00:00"
-  },
-  {
-    "id": "jobicy_161057",
-    "title": "Senior Forward Deployed Engineer (FDE), Strategic Accounts",
-    "company": "Deepgram",
-    "location": "USA",
-    "description": "Company Overview Deepgram is bringing the world’s most natural interface, voice, to the technology we use every day. Our speech models and real-time infrastructure power AI systems that keep up with the way people actually speak. More than 5,000 organizations run conversational voice AI on Deepgram in production, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Cresta,&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/161057-senior-forward-deployed-engineer-fde-strategic-accounts",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330835+00:00"
-  },
-  {
-    "id": "jobicy_161047",
-    "title": "Staff Web Engineer, Marketing",
-    "company": "Deepgram",
-    "location": "USA",
-    "description": "Company Overview Deepgram is bringing the world’s most natural interface, voice, to the technology we use every day. Our speech models and real-time infrastructure power AI systems that keep up with the way people actually speak. More than 5,000 organizations run conversational voice AI on Deepgram in production, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Cresta,&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/161047-staff-web-engineer-marketing",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330839+00:00"
-  },
-  {
-    "id": "jobicy_161041",
-    "title": "Senior Forward Deployed Engineer",
-    "company": "Caylent",
-    "location": "Mexico",
-    "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/161041-senior-forward-deployed-engineer-3",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330844+00:00"
-  },
-  {
-    "id": "jobicy_160996",
-    "title": "Machine Learning Engineer, Ops",
-    "company": "Cantina Labs",
-    "location": "Europe,  USA",
-    "description": "About Cantina: Cantina Labs is a social AI company, developing a suite of advanced real-time models that push the boundaries of expression, personality, and realism. We bring characters to life, transforming how people tell stories, connect, and create. We build and power ecosystems. Cantina, our flagship social AI platform, is just the beginning. If you're&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/160996-machine-learning-engineer-ops",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330848+00:00"
-  },
-  {
-    "id": "jobicy_160992",
-    "title": "Developer Advocate, Blocks.ai",
-    "company": "PubNub",
-    "location": "Poland",
-    "description": "Location: Poland – RemoteEmployment Type: Full-time, B2B ContractCompensation: PLN 12,000–22,000 net + VAT per month (B2B) About PubNub PubNub powers real-time interactive experiences that drive engagement, retention, and monetization. Our market-leading platform for real-time interactive apps enables customers to efficiently and effectively build, manage, and optimize engaging apps that captivate and delight users. Founded in&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/160992-developer-advocate-blocks-ai",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330852+00:00"
-  },
-  {
-    "id": "jobicy_160981",
-    "title": "Associate Software Engineer",
-    "company": "Keyfactor, Inc.",
-    "location": "USA",
-    "description": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital interaction. Behind the platform is a global team of people who care&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/160981-associate-software-engineer-2",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330856+00:00"
-  },
-  {
-    "id": "jobicy_160978",
-    "title": "AI Tooling Engineer",
-    "company": "Qventus",
-    "location": "USA",
-    "description": "On this journey for over 12 years, Qventus is leading the transformation of healthcare. We enable hospitals to focus on what matters most: patient care. Our innovative solutions harness the power of machine learning, generative AI, and behavioral science to deliver exceptional outcomes and empower care teams to anticipate and resolve issues before they arise.&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/160978-ai-tooling-engineer",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330860+00:00"
-  },
-  {
-    "id": "jobicy_160802",
-    "title": "Senior Engineer",
-    "company": "Caylent",
-    "location": "Mexico",
-    "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/160802-senior-engineer",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330864+00:00"
-  },
-  {
-    "id": "jobicy_160794",
-    "title": "Software Engineer - Console",
-    "company": "XBOW",
-    "location": "Argentina,  Europe,  USA",
-    "description": "About XBOW Build the future of offensive security with XBOW. Attackers are already using AI to move faster than defenders can react—we’re creating the platform that puts security ahead in the arms race. Our AI-powered system autonomously discovers, validates, and even exploits vulnerabilities, giving organizations proof-backed results in hours instead of weeks. Founded by Oege&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/160794-software-engineer-console",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330869+00:00"
-  },
-  {
-    "id": "jobicy_160792",
-    "title": "Senior Software Engineer",
-    "company": "Cloudbeds",
-    "location": "LATAM,  Canada,  USA",
-    "description": "What Makes Cloudbeds Unique At Cloudbeds, we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/160792-senior-software-engineer-23",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330873+00:00"
-  },
-  {
-    "id": "jobicy_152795",
-    "title": "Sr. Software Engineer, Ruby on Rails",
-    "company": "CentralReach",
-    "location": "USA",
-    "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. Key&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/152795-sr-software-engineer-ruby-on-rails",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330877+00:00"
-  },
-  {
-    "id": "jobicy_154967",
-    "title": "Senior Fullstack Engineer (BR based only)",
-    "company": "Double",
-    "location": "Brazil",
-    "description": "About Double Bookkeepers today are stuck working in excel spreadsheets and homegrown project management solutions to support their clients. Double is on a mission to change that. With our all-in-one tool, bookkeepers can manage their work, communicate with clients, catch hard-to-find errors, and deliver reports to help their small business customers make smarter strategic decisions.&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/154967-senior-fullstack-engineer-br-based-only",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330881+00:00"
-  },
-  {
-    "id": "jobicy_152814",
-    "title": "Business Systems Engineer",
-    "company": "ClickUp",
-    "location": "USA",
-    "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/152814-business-systems-engineer",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330885+00:00"
-  },
-  {
-    "id": "jobicy_152819",
-    "title": "Software Engineer, Data Integration",
-    "company": "Bayesian Health",
-    "location": "USA",
-    "description": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330890+00:00"
-  },
-  {
-    "id": "jobicy_160721",
-    "title": "Senior Software Engineer, Operations Tools & Al Enablement",
-    "company": "Serve Robotics",
-    "location": "USA",
-    "description": "At Serve Robotics, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles,&hellip;",
-    "skills_hint": [],
-    "deadline": "Rolling / Active",
-    "url": "https://jobicy.com/jobs/160721-senior-software-engineer-operations-tools-al-enablement",
-    "source": "Jobicy Remote",
-    "fetched_at": "2026-11-10T20:58:08.330894+00:00"
-  },
-  {
-    "id": "arbeitnow_8fde5f94f966",
-    "title": "Trainee Controlling / Agrarberatung (m/w/d)",
-    "company": "Claudius Wurth Agrarberatung",
-    "location": "Osnabrück",
-    "description": "Controlling",
+    "id": "arbeitnow_9b8e6020ab50",
+    "title": "SEO manager France - Working Student(m|w|d)",
+    "company": "idealo internet GmbH",
+    "location": "Berlin, Berlin, Deutschland",
+    "description": "Career Starters",
     "skills_hint": [
-      "Controlling"
+      "Career Starters"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.com/jobs/companies/claudius-wurth-agrarberatung/trainee-controlling-agrarberatung-osnabruck-220140",
+    "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/seo-manager-france-working-studentmwd-berlin-318929",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.586856+00:00"
+    "fetched_at": "2026-11-11T21:30:34.603183+00:00"
   },
   {
-    "id": "arbeitnow_093e06024865",
-    "title": "(Unpaid internship) Growth marketer & Social Media Intern (m/f/d): Mandatory or Voluntary Internship",
-    "company": "IndieKidz GmbH",
+    "id": "arbeitnow_fb567000f445",
+    "title": "(Junior) Deal Strategy Manager Insurance Software (m/f/d)",
+    "company": "Fioneer",
+    "location": "Munich, Germany",
+    "description": "Information Technology and Services",
+    "skills_hint": [
+      "Information Technology and Services"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.com/jobs/companies/fioneer/junior-deal-strategy-manager-insurance-software-munich-274743",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.603242+00:00"
+  },
+  {
+    "id": "arbeitnow_0e874ae95bfe",
+    "title": "International Junior Consultant Healthcare LATAM & North America at CPC",
+    "company": "Mammut Pharma",
     "location": "Berlin",
-    "description": "Remote, Social Media Manager",
+    "description": "Business Consulting",
     "skills_hint": [
-      "Remote",
-      "Social Media Manager"
+      "Business Consulting"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-internship-growth-marketer-social-media-intern-mandatory-or-voluntary-internship-berlin-499542",
+    "url": "https://www.arbeitnow.com/jobs/companies/mammut-pharma/international-junior-consultant-healthcare-latam-north-america-at-cpc-berlin-88266",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.586968+00:00"
+    "fetched_at": "2026-11-11T21:30:34.603259+00:00"
   },
   {
-    "id": "arbeitnow_9f08788cc2e4",
-    "title": "Junior Project Manager (all genders) - Retail Kampagnen",
-    "company": "LIGANOVA GmbH",
+    "id": "arbeitnow_08b1f0628243",
+    "title": "Junior Sales Operations Manager (w/m/d)",
+    "company": "Enpal",
     "location": "Berlin",
-    "description": "Project Management",
+    "description": "Sales",
     "skills_hint": [
-      "Project Management"
+      "Sales"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.com/jobs/companies/liganova-gmbh/junior-project-manager-all-genders-retail-kampagnen-berlin-89553",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/junior-sales-operations-manager-berlin-494266",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.586985+00:00"
+    "fetched_at": "2026-11-11T21:30:34.603373+00:00"
   },
   {
-    "id": "arbeitnow_331e5f7b931d",
-    "title": "Junior Consultant für Datenschutz und Informationssicherheit (m/w/d)",
-    "company": "actago GmbH",
-    "location": "Landau an der Isar",
-    "description": "Remote, Compliance, Security",
+    "id": "arbeitnow_781eb1e1cc96",
+    "title": "Business Operations Internship (w/m/d)",
+    "company": "Enpal",
+    "location": "Berlin",
+    "description": "Headquarter Growth",
     "skills_hint": [
-      "Remote",
-      "Compliance",
-      "Security"
+      "Headquarter Growth"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/junior-consultant-fur-datenschutz-und-informationssicherheit-landau-an-der-isar-175772",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/business-operations-internship-berlin-225720",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587016+00:00"
+    "fetched_at": "2026-11-11T21:30:34.603431+00:00"
   },
   {
-    "id": "arbeitnow_67cdb7599858",
-    "title": "Junior Account Manager (m/w/x) Engineering",
-    "company": "K-tronik GmbH",
+    "id": "arbeitnow_534e7676dc67",
+    "title": "Strategic Projects Internship (w/m/d)",
+    "company": "Enpal",
+    "location": "Berlin",
+    "description": "Headquarter Growth",
+    "skills_hint": [
+      "Headquarter Growth"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/strategic-projects-internship-berlin-469847",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.603452+00:00"
+  },
+  {
+    "id": "arbeitnow_398a217e393d",
+    "title": "Inhouse Consulting Internship (w/m/d)",
+    "company": "Enpal",
+    "location": "Berlin",
+    "description": "Headquarter Growth",
+    "skills_hint": [
+      "Headquarter Growth"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/inhouse-consulting-internship-berlin-226798",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.603460+00:00"
+  },
+  {
+    "id": "arbeitnow_007ea9f0bf93",
+    "title": "Working Student B2G: Public Sector & Research Funding (f/m/d)",
+    "company": "RIZM",
+    "location": "Münster",
+    "description": "Marketing and Communication",
+    "skills_hint": [
+      "Marketing and Communication"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.com/jobs/companies/rizm/working-student-b2g-public-sector-research-funding-munster-499167",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.603511+00:00"
+  },
+  {
+    "id": "arbeitnow_24738e29cf9f",
+    "title": "Working Student B2G: Public Sector & Research Funding (f/m/d)",
+    "company": "RIZM",
     "location": "Munich",
-    "description": "Recruitment and Selection",
+    "description": "Marketing and Communication",
     "skills_hint": [
-      "Recruitment and Selection"
+      "Marketing and Communication"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/junior-account-manager-engineering-munich-271256",
+    "url": "https://www.arbeitnow.com/jobs/companies/rizm/working-student-b2g-public-sector-research-funding-munich-379379",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587083+00:00"
+    "fetched_at": "2026-11-11T21:30:34.603519+00:00"
   },
   {
-    "id": "arbeitnow_161c099bfb19",
-    "title": "Junior SAP EWM Berater & Testkoordinator (Freelance)",
-    "company": "Sidekick Network GmbH & Co. KG",
-    "location": "Berlin",
-    "description": "Remote, SAP/ERP Consulting, Development",
+    "id": "arbeitnow_3d791746908b",
+    "title": "Working Student Communications (f/m/d)",
+    "company": "RIZM",
+    "location": "Münster",
+    "description": "Public Relations, Corporate Communication",
     "skills_hint": [
-      "Remote",
-      "SAP/ERP Consulting",
-      "Development"
+      "Public Relations",
+      "Corporate Communication"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/junior-sap-ewm-berater-testkoordinator-freelance-berlin-136075",
+    "url": "https://www.arbeitnow.com/jobs/companies/rizm/working-student-communications-munster-193734",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587122+00:00"
+    "fetched_at": "2026-11-11T21:30:34.603639+00:00"
   },
   {
-    "id": "arbeitnow_b21c5c542fea",
-    "title": "Werkstudent Embedded Systems / Linux (m/w/d)",
-    "company": "SALZ Automation GmbH",
-    "location": "Bad Salzuflen",
-    "description": "Embedded Systems, Firmware Development",
+    "id": "arbeitnow_db91886e506c",
+    "title": "Quality Engineer firmware IoT",
+    "company": "Decathlontechnology",
+    "location": "Lille - Btwin Village, Nord",
+    "description": "Engineering",
     "skills_hint": [
-      "Embedded Systems",
-      "Firmware Development"
+      "Engineering"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.com/jobs/companies/salz-automation-gmbh/werkstudent-embedded-systems-linux-bad-salzuflen-152814",
+    "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/quality-engineer-firmware-iot-lille-btwin-village-nord-425179",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587213+00:00"
+    "fetched_at": "2026-11-11T21:30:34.603876+00:00"
   },
   {
-    "id": "arbeitnow_b8e078f2fb70",
-    "title": "Embedded Software Entwickler / Linux (m/w/d)",
-    "company": "SALZ Automation GmbH",
-    "location": "Bad Salzuflen",
-    "description": "Embedded Systems, Firmware Development",
+    "id": "arbeitnow_ad7ac7b0f618",
+    "title": "International Expansion - France",
+    "company": "Axle Careers",
+    "location": "France",
+    "description": "Commercial",
     "skills_hint": [
-      "Embedded Systems",
-      "Firmware Development"
+      "Commercial"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.com/jobs/companies/salz-automation-gmbh/embedded-software-entwickler-bad-salzuflen-463051",
+    "url": "https://www.arbeitnow.fr/jobs/companies/axle-careers/international-expansion-france-paris-363281",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587241+00:00"
+    "fetched_at": "2026-11-11T21:30:34.603908+00:00"
   },
   {
-    "id": "arbeitnow_9058ee523be2",
-    "title": "(Junior-) IT-Systemadministrator (m/w/d)",
-    "company": "MintCode Solutions GmbH",
-    "location": "Haselünne",
-    "description": "System and Network Administration",
+    "id": "arbeitnow_5a253727fe83",
+    "title": "Marketing & CRM Intern, Experiences",
+    "company": "airbnb",
+    "location": "Paris",
+    "description": "Intern",
     "skills_hint": [
-      "System and Network Administration"
+      "Intern"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/junior-it-systemadministrator-haselunne-223328",
+    "url": "https://www.arbeitnow.fr/jobs/companies/airbnb/marketing-crm-intern-experiences-paris-396246",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587294+00:00"
+    "fetched_at": "2026-11-11T21:30:34.603979+00:00"
   },
   {
-    "id": "arbeitnow_2690b03503b7",
-    "title": "Senior Manager, Corporate & International Tax",
-    "company": "Volta",
-    "location": "London, UK",
-    "description": "Finance",
+    "id": "arbeitnow_a4e4cd098cbf",
+    "title": "Paid Working Student: Life Sciences and Clinical Applications",
+    "company": "Piomic Medical",
+    "location": "Zürich",
+    "description": "Engineering",
     "skills_hint": [
-      "Finance"
+      "Engineering"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/senior-manager-corporate-international-tax-london-8983",
+    "url": "https://www.arbeitnow.ch/jobs/companies/piomic-medical/paid-working-student-life-sciences-and-clinical-applications-zurich-329507",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587358+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604188+00:00"
   },
   {
-    "id": "arbeitnow_1cc4fbefed35",
-    "title": "Talent Acquisition Intern (6 months)",
-    "company": "Qonto",
-    "location": "Paris, France",
-    "description": "Finance, Legal, Risk & Compliance, People & Strat",
-    "skills_hint": [
-      "Finance",
-      "Legal",
-      "Risk & Compliance",
-      "People & Strat"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.fr/jobs/companies/qonto/talent-acquisition-intern-6-months-paris-358978",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587483+00:00"
-  },
-  {
-    "id": "arbeitnow_a821983c8b14",
-    "title": "CFD Workflow Automation Intern",
-    "company": "Pangea Propulsion",
-    "location": "Toulouse",
-    "description": "Software Development",
-    "skills_hint": [
-      "Software Development"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.fr/jobs/companies/pangea-propulsion/cfd-workflow-automation-intern-toulouse-482340",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587512+00:00"
-  },
-  {
-    "id": "arbeitnow_460b44e12d3c",
-    "title": "DevOps Engineering Intern",
-    "company": "Sonio",
-    "location": "Paris office",
-    "description": "Tech",
-    "skills_hint": [
-      "Tech"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.fr/jobs/companies/sonio/devops-engineering-intern-paris-100094",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587584+00:00"
-  },
-  {
-    "id": "arbeitnow_6ebe25484f4c",
-    "title": "Data Science Internship",
-    "company": "Sonio",
-    "location": "Paris office",
-    "description": "R&D",
-    "skills_hint": [
-      "R&D"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.fr/jobs/companies/sonio/data-science-internship-paris-486882",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587590+00:00"
-  },
-  {
-    "id": "arbeitnow_b676265da058",
-    "title": "Product Intern",
-    "company": "Inbolt.com",
-    "location": "Paris, FR",
-    "description": "Product",
-    "skills_hint": [
-      "Product"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.fr/jobs/companies/inboltcom/product-intern-paris-54167",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587595+00:00"
-  },
-  {
-    "id": "arbeitnow_ad0504ef6f1b",
-    "title": "Junior Customer Success Manager mit Eigeninitiative & Teamspirit",
-    "company": "InnoTix AG",
-    "location": "Zug",
-    "description": "Customer Service",
-    "skills_hint": [
-      "Customer Service"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.ch/jobs/companies/innotix-ag/junior-customer-success-manager-mit-eigeninitiative-teamspirit-zug-400883",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587711+00:00"
-  },
-  {
-    "id": "arbeitnow_8fd90147741b",
+    "id": "arbeitnow_885383ee3716",
     "title": "Data Science Internship - Wearables & Sensor Data (m/w/d) 80-100%",
     "company": "greenteg AG",
     "location": "Rümlang",
@@ -2264,205 +2282,317 @@
       "Data Scientist"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.ch/jobs/companies/greenteg-ag/data-science-internship-wearables-sensor-data-80-100-rumlang-208843",
+    "url": "https://www.arbeitnow.ch/jobs/companies/greenteg-ag/data-science-internship-wearables-sensor-data-80-100-rumlang-50567",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587745+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604234+00:00"
   },
   {
-    "id": "arbeitnow_253204253fa9",
-    "title": "📈 (Senior) New Business Manager (h/f/d) | Suisse Romande ⚡ SaaS & IoT",
-    "company": "ANGEHEUERT GmbH",
-    "location": "Homeoffice",
-    "description": "Remote",
+    "id": "arbeitnow_ddfce8e0a629",
+    "title": "Junior Performance Marketing Manager:in (100 %)",
+    "company": "Maison Mollerus",
+    "location": "Erlenbach",
+    "description": "Online Marketing",
     "skills_hint": [
-      "Remote"
+      "Online Marketing"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-new-business-manager-suisse-romande-saas-iot-lausanne-54987",
+    "url": "https://www.arbeitnow.ch/jobs/companies/maison-mollerus/junior-performance-marketing-managerin-100-erlenbach-35442",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587794+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604246+00:00"
   },
   {
-    "id": "arbeitnow_9555e1437fe5",
-    "title": "📈 (Senior) New Business Manager (h/f/d) | Suisse Romande ⚡ SaaS & IoT",
-    "company": "ANGEHEUERT GmbH",
-    "location": "Homeoffice",
-    "description": "Remote",
+    "id": "arbeitnow_447d008f61c4",
+    "title": "Medical Affairs Project Associate Specialist, Post Graduate Trainee",
+    "company": "Alnylampharmaceuticals",
+    "location": "Zug",
+    "description": "Medical Affairs - International TTR",
     "skills_hint": [
-      "Remote"
+      "Medical Affairs - International TTR"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-new-business-manager-suisse-romande-saas-iot-genf-292037",
+    "url": "https://www.arbeitnow.ch/jobs/companies/alnylampharmaceuticals/medical-affairs-project-associate-specialist-post-graduate-trainee-zug-29989",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587802+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604260+00:00"
   },
   {
-    "id": "arbeitnow_feea3798420b",
-    "title": "📈 (Senior) New Business Manager (h/f/d) | Suisse Romande ⚡ SaaS & IoT",
-    "company": "ANGEHEUERT GmbH",
-    "location": "Homeoffice",
-    "description": "Remote",
-    "skills_hint": [
-      "Remote"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-new-business-manager-suisse-romande-saas-iot-neuchatel-45711",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587810+00:00"
-  },
-  {
-    "id": "arbeitnow_01ea8c8a2830",
-    "title": "Paid Working Student: Medical Device Design and Engineering",
-    "company": "Piomic Medical",
-    "location": "Zürich",
-    "description": "Product Design, Industrial Design",
-    "skills_hint": [
-      "Product Design",
-      "Industrial Design"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.ch/jobs/companies/piomic-medical/paid-working-student-medical-device-design-and-engineering-zurich-497673",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587821+00:00"
-  },
-  {
-    "id": "arbeitnow_5f6285dc02d3",
-    "title": "Junior Quantum Design Engineer",
-    "company": "Quantware",
-    "location": "Delft",
-    "description": "Research & Development",
-    "skills_hint": [
-      "Research & Development"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/quantware/junior-quantum-design-engineer-delft-146275",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587882+00:00"
-  },
-  {
-    "id": "arbeitnow_2dfd2b349d7d",
-    "title": "People Operations Intern",
-    "company": "Datasnipper",
-    "location": "Amsterdam",
-    "description": "People",
-    "skills_hint": [
-      "People"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/people-operations-intern-amsterdam-283150",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587893+00:00"
-  },
-  {
-    "id": "arbeitnow_cc7599f222ce",
-    "title": "Marketing Intern",
-    "company": "Contentoo",
-    "location": "Amsterdam",
-    "description": "Marketing",
-    "skills_hint": [
-      "Marketing"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/contentoo/marketing-intern-amsterdam-405852",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587916+00:00"
-  },
-  {
-    "id": "arbeitnow_acad4abf5b91",
-    "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam",
-    "company": "Doctolib",
-    "location": "Amsterdam",
+    "id": "arbeitnow_53bb504fffc3",
+    "title": "Senior Embedded Linux Software Engineer",
+    "company": "Auterion",
+    "location": "Zurich",
     "description": "Engineering",
     "skills_hint": [
       "Engineering"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/doctolib/software-engineer-intern-fullstack-amsterdam-377938",
+    "url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-embedded-linux-software-engineer-zurich-2268",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587926+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604275+00:00"
   },
   {
-    "id": "arbeitnow_185cfb7d7792",
-    "title": "Hardware Electronics Engineer (UAV)",
-    "company": "Rnrs.solutions",
-    "location": "Leerdam, NL",
-    "description": "External",
-    "skills_hint": [
-      "External"
-    ],
-    "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/rnrssolutions/hardware-electronics-engineer-uav-leerdam-193959",
-    "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587934+00:00"
-  },
-  {
-    "id": "arbeitnow_d8c1dbabcbc7",
-    "title": "Senior Director, Head of Quality & Responsible Person, International ",
-    "company": "Bridgebio",
+    "id": "arbeitnow_b519f84447d0",
+    "title": "Global Trainee Program - Outperformer Software Business Track (HILTI)",
+    "company": "4Psnl",
     "location": "",
-    "description": "GMP QA",
+    "description": "4PS - Staff",
     "skills_hint": [
-      "GMP QA"
+      "4PS - Staff"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/bridgebio/senior-director-head-of-quality-responsible-person-international-265713",
+    "url": "https://www.arbeitnow.nl/jobs/companies/4psnl/global-trainee-program-outperformer-software-business-track-hilti-319697",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587961+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604342+00:00"
   },
   {
-    "id": "arbeitnow_305f0c7a6e95",
-    "title": "Junior systeembeheerder",
-    "company": "Verzuimdata B.V.",
-    "location": "Ridderkerk",
-    "description": "System and Network Administration",
+    "id": "arbeitnow_34e4ee56f551",
+    "title": "Junior Business Data Analyst",
+    "company": "Cefetra Group BV",
+    "location": "Alkmaar, Noord-Holland, Netherlands",
+    "description": "Royal Ingredients Group B.V.",
     "skills_hint": [
-      "System and Network Administration"
+      "Royal Ingredients Group B.V."
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/verzuimdata-bv/junior-systeembeheerder-ridderkerk-418551",
+    "url": "https://www.arbeitnow.nl/jobs/companies/cefetra-group-bv/junior-business-data-analyst-alkmaar-367366",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587977+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604361+00:00"
   },
   {
-    "id": "arbeitnow_fc43f8a13938",
-    "title": "AI Automation Intern, Communications",
-    "company": "Prosus",
-    "location": "Amsterdam",
-    "description": "Communications",
+    "id": "arbeitnow_dfc0f3a4517a",
+    "title": "Traineeship Finance & Control Publieke Sector",
+    "company": "The Trainee Company",
+    "location": "Bunnik, Utrecht, Nederland",
+    "description": "Finance",
     "skills_hint": [
-      "Communications"
+      "Finance"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-communications-amsterdam-283753",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/traineeship-finance-control-publieke-sector-bunnik-453413",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.587995+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604385+00:00"
   },
   {
-    "id": "arbeitnow_c7885bec7192",
-    "title": "Working Student Content Creator",
-    "company": "Teampicnic",
-    "location": "Amsterdam",
-    "description": "Students",
+    "id": "arbeitnow_73945d20a2ce",
+    "title": "Traineeship Data & Analytics",
+    "company": "The Trainee Company",
+    "location": "Bunnik, Utrecht, Nederland",
+    "description": "Data",
     "skills_hint": [
-      "Students"
+      "Data"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/working-student-content-creator-amsterdam-325859",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/traineeship-data-analytics-bunnik-27658",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.588018+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604393+00:00"
   },
   {
-    "id": "arbeitnow_a7db436ed74d",
-    "title": "Internship - UAV Robotics/Mechatronics (Drone Prototyping, Integration & Field Testing)",
-    "company": "Fiducial",
-    "location": "Delft",
-    "description": "Internships",
+    "id": "arbeitnow_7b3a67db73d7",
+    "title": "Junior Financieel Adviseur - Publieke Sector",
+    "company": "The Trainee Company",
+    "location": "Oldenzaal, Overijssel, Nederland",
+    "description": "Finance",
     "skills_hint": [
-      "Internships"
+      "Finance"
     ],
     "deadline": "Rolling / Open",
-    "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-uav-robotics-mechatronics-drone-prototyping-integration-field-testing-delft-234540",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-financieel-adviseur-publieke-sector-oldenzaal-247789",
     "source": "Arbeitnow",
-    "fetched_at": "2026-11-10T20:58:08.588024+00:00"
+    "fetched_at": "2026-11-11T21:30:34.604400+00:00"
+  },
+  {
+    "id": "arbeitnow_d4673ca91637",
+    "title": "Junior Data Engineer",
+    "company": "The Trainee Company",
+    "location": "Drachten, Friesland, Nederland",
+    "description": "Data",
+    "skills_hint": [
+      "Data"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-data-engineer-drachten-370033",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604407+00:00"
+  },
+  {
+    "id": "arbeitnow_87791eacfadc",
+    "title": "Data & Analytics traineeship Noord-Brabant",
+    "company": "The Trainee Company",
+    "location": "Breda, Noord-Brabant, Nederland",
+    "description": "Data",
+    "skills_hint": [
+      "Data"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/data-analytics-traineeship-noord-brabant-breda-470525",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604433+00:00"
+  },
+  {
+    "id": "arbeitnow_9eece2dea839",
+    "title": "Junior Solution Architect",
+    "company": "The Trainee Company",
+    "location": "Assen, Drenthe, Nederland",
+    "description": "Business & ICT",
+    "skills_hint": [
+      "Business & ICT"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-solution-architect-assen-285337",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604441+00:00"
+  },
+  {
+    "id": "arbeitnow_5382f238536b",
+    "title": "Junior System Engineer",
+    "company": "The Trainee Company",
+    "location": "Werken op afstand",
+    "description": "Business & ICT, Remote",
+    "skills_hint": [
+      "Business & ICT",
+      "Remote"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/remote-junior-system-engineer-apeldoorn-481393",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604457+00:00"
+  },
+  {
+    "id": "arbeitnow_f33afb768ef6",
+    "title": "Junior Beheerder DevOps",
+    "company": "The Trainee Company",
+    "location": "Assen, Drenthe, Nederland",
+    "description": "Business & ICT",
+    "skills_hint": [
+      "Business & ICT"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-beheerder-devops-assen-356039",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604465+00:00"
+  },
+  {
+    "id": "arbeitnow_e31867261d60",
+    "title": "Junior Platform Engineer",
+    "company": "The Trainee Company",
+    "location": "Den Haag, Zuid-Holland, Nederland",
+    "description": "Business & ICT",
+    "skills_hint": [
+      "Business & ICT"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-platform-engineer-den-haag-25826",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604472+00:00"
+  },
+  {
+    "id": "arbeitnow_ea44b5ee2ba0",
+    "title": "Junior Gis/GEO Tester",
+    "company": "The Trainee Company",
+    "location": "Assen, Drenthe, Nederland",
+    "description": "Business & ICT",
+    "skills_hint": [
+      "Business & ICT"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-gis-geo-tester-assen-189416",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604479+00:00"
+  },
+  {
+    "id": "arbeitnow_69eaf13a1d4f",
+    "title": "Junior Pentester IB",
+    "company": "The Trainee Company",
+    "location": "Assen, Drenthe, Nederland",
+    "description": "Business & ICT",
+    "skills_hint": [
+      "Business & ICT"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-pentester-ib-assen-173400",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604486+00:00"
+  },
+  {
+    "id": "arbeitnow_34bbdae65717",
+    "title": "Junior GIS/GEO Ontwikkelaar",
+    "company": "The Trainee Company",
+    "location": "Assen, Drenthe, Nederland",
+    "description": "Business & ICT",
+    "skills_hint": [
+      "Business & ICT"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-gis-geo-ontwikkelaar-assen-271573",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604494+00:00"
+  },
+  {
+    "id": "arbeitnow_d3ad7601faeb",
+    "title": "Junior Solution Architect",
+    "company": "The Trainee Company",
+    "location": "Den Haag, Zuid-Holland, Nederland",
+    "description": "Business & ICT",
+    "skills_hint": [
+      "Business & ICT"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-solution-architect-den-haag-333215",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604501+00:00"
+  },
+  {
+    "id": "arbeitnow_28c24d20c653",
+    "title": "Junior Specialist Informatiebeveiliging",
+    "company": "The Trainee Company",
+    "location": "Assen, Drenthe, Nederland",
+    "description": "Business & ICT",
+    "skills_hint": [
+      "Business & ICT"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-specialist-informatiebeveiliging-assen-444340",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604510+00:00"
+  },
+  {
+    "id": "arbeitnow_8f843a7a92e6",
+    "title": "Data Trainee Gegevensmanagment",
+    "company": "The Trainee Company",
+    "location": "Maastricht, Limburg, Nederland",
+    "description": "Data",
+    "skills_hint": [
+      "Data"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/data-trainee-gegevensmanagment-maastricht-335694",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604525+00:00"
+  },
+  {
+    "id": "arbeitnow_e9b53fbd3e3b",
+    "title": "Senior communicatieadviseur interne en corporate communicatie",
+    "company": "HeinenoordZicht Groep",
+    "location": "Den Bosch, Noord-Brabant, Nederland",
+    "description": "Marketing & Communicatie",
+    "skills_hint": [
+      "Marketing & Communicatie"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/heinenoordzicht-groep/senior-communicatieadviseur-interne-en-corporate-communicatie-den-bosch-183455",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604540+00:00"
+  },
+  {
+    "id": "arbeitnow_15372facf2ec",
+    "title": "Talent Acquisition Intern",
+    "company": "Interrail B.V.",
+    "location": "Utrecht , Utrecht, Netherlands",
+    "description": "People & Culture",
+    "skills_hint": [
+      "People & Culture"
+    ],
+    "deadline": "Rolling / Open",
+    "url": "https://www.arbeitnow.nl/jobs/companies/interrail-bv/talent-acquisition-intern-utrecht-133690",
+    "source": "Arbeitnow",
+    "fetched_at": "2026-11-11T21:30:34.604593+00:00"
   }
 ]
