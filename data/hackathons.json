@@ -1,19 +1,5 @@
 [
   {
-    "id": "devfolio_40f5203a0b9842038b51dd3f73236690",
-    "name": "GeNarrative Clash",
-    "platform": "Devfolio",
-    "tagline": "Where Generative AI Meets Human Creativity: Kolkata's Ultimate Prompt Engineering Challenge",
-    "description": "# GeNarrative Clash 2026\n*Where Generative AI Meets Human Creativity*\n\nAre you ready to redefine how stories are told, music is composed, and digital art is created? **GeNarrative Clash** is Kolkata's premier Prompt Engineering & AI Building Challenge, organized by the GeeksforGeeks Student Chapter at Techno India University.\n\n---\n\n### 🚀 Hands-On AI & API Masterclass (Included!)\nDon't worry if you are new to AI development! Before the live challenge kicks off, every participant gets access to an exclusive **1-Hour Hands-On Masterclass on AI Development & API Integration**. Learn how to harness cutting-edge LLMs, query GenAI APIs, and leverage rapid prototyping tools so you can build a solid, production-ready product with confidence.\n\n---\n\n### 🎁 Perks, Bounties & Swag\n* **Cash Bounties & Prize Pool:** Generous rewards or prizes for top-performing teams and winners.\n* **Exclusive Swags:** Official sponsor goodies for top 12 finalists.\n* **Certificates for All:** Official certificates of participation and achievement for all attending hackers.\n\n---\n\n### 🎨 The Challenge: Empowering the Creative Artist (Open Track)\nGenerative AI shouldn't replace human creators, it should supercharge them! **GeNarrative Clash** features an Open Track focused on building real-world solutions that assist, elevate, and support creative artists in their work. \n\nYou are free to solve any real-world problem in the artistic or creative domain.\n\n**Inspiration & Potential Project Directions:**\n* **Storytelling & Narrative Assistants:** GenAI co-writers that help authors outline complex multiverses, generate dynamic dialogue, or build interactive narratives.\n* **AI Music & Sound Studios:** Production-ready suites that assist musicians with harmonies, stem generation, or intelligent sound design.\n* **Autonomous Creator Agents:** GenAI agents and social media co-pilots that help digital creators manage, format, and schedule content tailored to their target audience.\n* **Digital Art & Visual Co-Pilots:** Tools that aid animators, illustrators, and designers in concept generation and workflow automation.\n\n---\n\n### ⚙️ Hackathon Rules & Technical Freedom\n* **No Tech Stack Restrictions:** You are completely free to use any programming language, framework, API, or LLM (OpenAI, Gemini, Anthropic, or open-source models).\n* **The 50/50 Pre-Building Rule:** To ensure high-quality, production-ready submissions, teams are permitted to pre-build up to **50% of their project before event day** (wireframes, boilerplate code, trained prompts, or baseline UI). The remaining **50% of the project must be built live** during the 6-hour hacking sprint.\n\n---\n\n### 📍 Venue & Event Date\n* **Date:** November 21, 2026  \n* **Venue:** Techno India University, EM Block, Sector V, Salt Lake, Kolkata, West Bengal 700091",
-    "dates": "2026-11-21 to 2026-11-21",
-    "location": "Techno India University, EM Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091, India",
-    "is_online": false,
-    "prizes": "Prize pool & perks listed on site",
-    "url": "https://genarrative-clash.devfolio.co",
-    "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168168+00:00"
-  },
-  {
     "id": "devfolio_d957bc2099f945e99edfae0c2972bed9",
     "name": "DevNexus 2.0",
     "platform": "Devfolio",
@@ -25,7 +11,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://devnexus2.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168191+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765678+00:00"
   },
   {
     "id": "devfolio_8b69c2039a8d4b4085c3869b9b25d9c9",
@@ -39,7 +25,21 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://lean-in-hacks-8.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168196+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765702+00:00"
+  },
+  {
+    "id": "devfolio_4a39b7a9b8d747e5a85b2ff58ff570e4",
+    "name": "CODEFESTTHON 2026",
+    "platform": "Devfolio",
+    "tagline": "India’s premier online stage for student innovators and builders.",
+    "description": "### About CODEFESTTHON 2026\n\nHosted by **SuVa Developers**, **CODEFESTTHON 2026** is a 100% online, high-octane hackathon bringing together students, developers, and tech enthusiasts to solve pressing real-world challenges. \n\nWhether you are passionate about Artificial Intelligence, Hardware, FinTech, HealthTech, or Blockchain, CODEFESTTHON 2026 provides the platform, mentorship, and community support to turn your vision into a production-ready prototype.\n\n#### 💡 Highlights & Tracks\n- **Prize Pool:** ₹25,000 INR across Grand Winner, Runner-Up, and Special Innovation categories.\n- **Tracks:** Open Innovation, AI/ML, Hardware & Embedded Systems, Web3/Blockchain, HealthTech.\n- **Format:** 100% Online — join from anywhere!\n- **Community:** Live mentorship, interactive sessions, and networking with peer developers.\n\nBring your ideas, form your team, and build the future with us!",
+    "dates": "2026-11-21 to 2026-11-24",
+    "location": "Online",
+    "is_online": true,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://codefestthon.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-15T19:55:08.765705+00:00"
   },
   {
     "id": "devfolio_c5731def845a4782ac461b66ceddced0",
@@ -53,7 +53,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://codenmod.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168199+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765707+00:00"
   },
   {
     "id": "devfolio_cdf2af90c090403a9db2f0162a99b687",
@@ -67,21 +67,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://founders-house-kolkata.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168203+00:00"
-  },
-  {
-    "id": "devfolio_e800e7f7535945b59b3516a08424db39",
-    "name": "Health Hackathon 3.0",
-    "platform": "Devfolio",
-    "tagline": "Global Health Access Innovation Challenge",
-    "description": "VIT Bhopal University to Host Health Hackathon 3.0 in January 2027\n\nEvent invites new ideas to make healthcare better and cost less\n\nVIT Bhopal University will host Health Hackathon 3.0 on 28 and 29 January 2027. A pre-event workshop will take place on 27 January 2027.\n\nVIT Bhopal is collaborating with the Whiting School of Engineering at Johns Hopkins University for this event. Its full title is “Health Hackathon 3.0: Global Health Access Innovation Challenge – Next Generation.”\n\nNew Ideas for Better Healthcare\nThe event has a clear aim: it seeks innovative ideas that can improve healthcare accessibility for more people, reduce costs, and enhance overall efficiency. Participants are invited to propose actionable solutions to real-world healthcare challenges.\n\nKey focus areas for submissions include:\n•\tLow-cost tools and technologies for healthcare delivery.\n•\tNew ways and platforms to support mental health.\n•\tApplication of Artificial Intelligence (AI) in healthcare solutions.\n•\tTools leveraging health data analytics to identify and predict health risks.\n\nA Chance to Share and Build Ideas\nHealth Hackathon 3.0 invites innovators, students, and researchers to present their concepts and refine them further. The emphasis is on practical, high-impact solutions designed to reach underserved communities and individuals facing healthcare access barriers.\n\nEvent Overview & Key Dates\n• Pre-Event Workshop: 27 January 2027\n• Main Hackathon: 28 & 29 January 2027\n• Venue: VIT Bhopal University, Bhopal, Madhya Pradesh\n• Total Prize Pool: ₹2 Lakh\n\n\nRegistration & Submission\nRegistration is now open. Interested teams and individuals must submit their project proposals. To learn more, view participation guidelines, and complete registration, please visit the official Health Hackathon 3.0 event website: [https://vitbhopal.ac.in/health-hackathon-2026-d/ ](url)",
-    "dates": "2027-01-28 to 2027-01-29",
-    "location": "VIT Bhopal University, Indore - Bhopal Road, Kothri Kalan, Sehore, Madhya Pradesh, India",
-    "is_online": false,
-    "prizes": "Prize pool & perks listed on site",
-    "url": "https://health-hackathon.devfolio.co",
-    "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168209+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765709+00:00"
   },
   {
     "id": "devfolio_2689d878c21e4cf1a61a50f5104587f0",
@@ -95,7 +81,21 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://clash-of-commits.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168212+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765712+00:00"
+  },
+  {
+    "id": "devfolio_e800e7f7535945b59b3516a08424db39",
+    "name": "Health Hackathon 3.0",
+    "platform": "Devfolio",
+    "tagline": "Global Health Access Innovation Challenge",
+    "description": "VIT Bhopal University to Host Health Hackathon 3.0 in January 2027\n\nEvent invites new ideas to make healthcare better and cost less\n\nVIT Bhopal University will host Health Hackathon 3.0 on 28 and 29 January 2027. A pre-event workshop will take place on 27 January 2027.\n\nVIT Bhopal is collaborating with the Whiting School of Engineering at Johns Hopkins University for this event. Its full title is “Health Hackathon 3.0: Global Health Access Innovation Challenge – Next Generation.”\n\nNew Ideas for Better Healthcare\nThe event has a clear aim: it seeks innovative ideas that can improve healthcare accessibility for more people, reduce costs, and enhance overall efficiency. Participants are invited to propose actionable solutions to real-world healthcare challenges.\n\nKey focus areas for submissions include:\n•\tLow-cost tools and technologies for healthcare delivery.\n•\tNew ways and platforms to support mental health.\n•\tApplication of Artificial Intelligence (AI) in healthcare solutions.\n•\tTools leveraging health data analytics to identify and predict health risks.\n\nA Chance to Share and Build Ideas\nHealth Hackathon 3.0 invites innovators, students, and researchers to present their concepts and refine them further. The emphasis is on practical, high-impact solutions designed to reach underserved communities and individuals facing healthcare access barriers.\n\nEvent Overview & Key Dates\n• Pre-Event Workshop: 27 January 2027\n• Main Hackathon: 28 & 29 January 2027\n• Venue: VIT Bhopal University, Bhopal, Madhya Pradesh\n• Total Prize Pool: ₹2 Lakh\n\n\nRegistration & Submission\nRegistration is now open. Interested teams and individuals must submit their project proposals. To learn more, view participation guidelines, and complete registration, please visit the official Health Hackathon 3.0 event website: [https://vitbhopal.ac.in/health-hackathon-2026-d/ ](url)",
+    "dates": "2027-01-28 to 2027-01-29",
+    "location": "VIT Bhopal University, Indore - Bhopal Road, Kothri Kalan, Sehore, Madhya Pradesh, India",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://health-hackathon.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-15T19:55:08.765715+00:00"
   },
   {
     "id": "devfolio_0c74c99ebe4d4bc8b1b9972451f350ca",
@@ -109,7 +109,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hft2026.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168219+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765720+00:00"
   },
   {
     "id": "devfolio_cf5fb5645ec44de88ee455be936825da",
@@ -123,21 +123,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://chiangmai.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168223+00:00"
-  },
-  {
-    "id": "devfolio_c84b90d65eff4ae083366fc1cc549e81",
-    "name": "hackodisha-6.0",
-    "platform": "Devfolio",
-    "tagline": "Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela.",
-    "description": "Welcome to HackOdisha 6.0\nA 36-hour online hackathon organized by Webwiz, the official tech club of NIT Rourkela\n\nAfter five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges.\n\nWhether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena.\n\nYou can participate solo or form a team but remember: every member must register individually to be eligible.\n\nJoin us on this journey of creativity, code, and community at HackOdisha 6.0!",
-    "dates": "2026-12-11 to 2026-12-13",
-    "location": "Online",
-    "is_online": true,
-    "prizes": "Prize pool & perks listed on site",
-    "url": "https://hackodisha-6a.devfolio.co",
-    "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168227+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765723+00:00"
   },
   {
     "id": "devfolio_50e23a48e3964f43878279a3bf81339d",
@@ -151,7 +137,21 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://haxfinity.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168230+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765725+00:00"
+  },
+  {
+    "id": "devfolio_c84b90d65eff4ae083366fc1cc549e81",
+    "name": "hackodisha-6.0",
+    "platform": "Devfolio",
+    "tagline": "Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela.",
+    "description": "Welcome to HackOdisha 6.0\nA 36-hour online hackathon organized by Webwiz, the official tech club of NIT Rourkela\n\nAfter five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges.\n\nWhether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena.\n\nYou can participate solo or form a team but remember: every member must register individually to be eligible.\n\nJoin us on this journey of creativity, code, and community at HackOdisha 6.0!",
+    "dates": "2026-12-11 to 2026-12-13",
+    "location": "Online",
+    "is_online": true,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://hackodisha-6a.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-15T19:55:08.765727+00:00"
   },
   {
     "id": "devfolio_409173af22ac40d5aecb47ea06886ab3",
@@ -165,7 +165,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hack-nexus.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168233+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765728+00:00"
   },
   {
     "id": "devfolio_6ab81312cb504b4195e46290f44e7191",
@@ -179,7 +179,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hacksprint-3.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168236+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765730+00:00"
   },
   {
     "id": "devfolio_feaf6d51a5ba4774acf1ccaaa1d4b789",
@@ -193,7 +193,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://innerve-11.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168239+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765732+00:00"
   },
   {
     "id": "devfolio_16159aa9a84d4cddb42554fe5e48fa5a",
@@ -207,7 +207,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://techacks05.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:30.168242+00:00"
+    "fetched_at": "2026-11-15T19:55:08.765734+00:00"
   },
   {
     "id": "devfolio_fd0e448aac74401697c00e7e41745383",
@@ -221,7 +221,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://woc6.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:31.000982+00:00"
+    "fetched_at": "2026-11-15T19:55:09.893863+00:00"
   },
   {
     "id": "devfolio_6a9a810d11934e278fe5a13409791cde",
@@ -235,7 +235,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://touch-some-grass.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:31.001001+00:00"
+    "fetched_at": "2026-11-15T19:55:09.893882+00:00"
   },
   {
     "id": "devfolio_4a726052359d4ba8af95d60e9dc253cf",
@@ -249,7 +249,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://makeathon-9.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:31.001005+00:00"
+    "fetched_at": "2026-11-15T19:55:09.893885+00:00"
   },
   {
     "id": "devfolio_c3799771d6044d5dab5b1166ed242bc7",
@@ -263,7 +263,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://coderave-2.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:31.001008+00:00"
+    "fetched_at": "2026-11-15T19:55:09.893887+00:00"
   },
   {
     "id": "devfolio_dbea472849f54f6dba58d9495e94e8be",
@@ -277,7 +277,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://devnexus-3.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:31.001010+00:00"
+    "fetched_at": "2026-11-15T19:55:09.893889+00:00"
   },
   {
     "id": "devfolio_33da0fd4233c4ea1a4549375c145864c",
@@ -291,35 +291,35 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://eclipse.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-14T19:24:31.001013+00:00"
+    "fetched_at": "2026-11-15T19:55:09.893891+00:00"
   },
   {
-    "id": "unstop_1811016",
-    "name": "Codathon:  #1 Global Coding Contest",
+    "id": "unstop_1811493",
+    "name": "ELU Build",
+    "platform": "Unstop",
+    "tagline": "Organized by EduLinkUp",
+    "description": "Hackathon hosted by EduLinkUp",
+    "dates": "Deadline: 2026-12-25 (1 month left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/elubuild-edulinkup-1811493",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-15T19:55:11.172123+00:00"
+  },
+  {
+    "id": "unstop_1811240",
+    "name": "The Algo Trading Innovation Challenge",
     "platform": "Unstop",
     "tagline": "Organized by Indian Institute of Technology (IIT), Bombay",
     "description": "Hackathon hosted by Indian Institute of Technology (IIT), Bombay",
-    "dates": "Deadline: 2026-12-19 (1 month left)",
+    "dates": "Deadline: 2026-11-29 (12 days left)",
     "location": "Online / Campus",
     "is_online": true,
-    "prizes": ", , , ",
-    "url": "https://unstop.com/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016",
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240",
     "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352728+00:00"
-  },
-  {
-    "id": "unstop_1810268",
-    "name": "CODERED'26",
-    "platform": "Unstop",
-    "tagline": "Organized by BMS Insitute of Technology and Management",
-    "description": "Hackathon hosted by BMS Insitute of Technology and Management",
-    "dates": "Deadline: 2026-11-27 (12 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , , , , , , , , , ",
-    "url": "https://unstop.com/hackathons/codered26-bms-insitute-of-technology-and-management-1810268",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352749+00:00"
+    "fetched_at": "2026-11-15T19:55:11.172143+00:00"
   },
   {
     "id": "unstop_1810554",
@@ -333,7 +333,7 @@
     "prizes": ", , ",
     "url": "https://unstop.com/hackathons/mantrastra-techsrijan-27-madan-mohan-malaviya-university-of-technology-1810554",
     "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352754+00:00"
+    "fetched_at": "2026-11-15T19:55:11.172147+00:00"
   },
   {
     "id": "unstop_1801378",
@@ -341,41 +341,13 @@
     "platform": "Unstop",
     "tagline": "Organized by Jain College of Engineering & Technology, Hubballi",
     "description": "Hackathon hosted by Jain College of Engineering & Technology, Hubballi",
-    "dates": "Deadline: 2026-11-30 (15 days left)",
+    "dates": "Deadline: 2026-11-30 (14 days left)",
     "location": "Online / Campus",
     "is_online": true,
     "prizes": "Prizes Available",
     "url": "https://unstop.com/hackathons/hackignite-10-24-hours-national-level-hackathon-jain-college-of-engineering-technology-hubballi-1801378",
     "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352758+00:00"
-  },
-  {
-    "id": "unstop_1798287",
-    "name": "Seed Hackathon 2026",
-    "platform": "Unstop",
-    "tagline": "Organized by SEED Global Education Services Private Limited",
-    "description": "Hackathon hosted by SEED Global Education Services Private Limited",
-    "dates": "Deadline: 2026-11-22 (7 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , ",
-    "url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352762+00:00"
-  },
-  {
-    "id": "unstop_1791410",
-    "name": "Code Rush – 24 Hours Hackathon",
-    "platform": "Unstop",
-    "tagline": "Organized by GM University Davanagere",
-    "description": "Hackathon hosted by GM University Davanagere",
-    "dates": "Deadline: 2026-11-30 (15 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/code-rush-24-hours-hackathon-ignitron-2k26-gm-university-davanagere-1791410",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352766+00:00"
+    "fetched_at": "2026-11-15T19:55:11.172152+00:00"
   },
   {
     "id": "unstop_1791574",
@@ -383,41 +355,69 @@
     "platform": "Unstop",
     "tagline": "Organized by GM University Davanagere",
     "description": "Hackathon hosted by GM University Davanagere",
-    "dates": "Deadline: 2026-11-30 (15 days left)",
+    "dates": "Deadline: 2026-11-30 (14 days left)",
     "location": "Online / Campus",
     "is_online": true,
     "prizes": "Prizes Available",
     "url": "https://unstop.com/hackathons/capture-the-flag-ctf-ignitron-2k26-gm-university-davanagere-1791574",
     "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352770+00:00"
+    "fetched_at": "2026-11-15T19:55:11.172155+00:00"
   },
   {
-    "id": "unstop_1806984",
-    "name": "QuikCPQ AI Innovation Challenge 2027",
+    "id": "unstop_1811085",
+    "name": "Configure 2026: A Mobility Hackathon",
     "platform": "Unstop",
-    "tagline": "Organized by Quik CPQ Solutions LLP",
-    "description": "Hackathon hosted by Quik CPQ Solutions LLP",
-    "dates": "Deadline: 2026-11-26 (10 days left)",
+    "tagline": "Organized by Zeliot Pvt Ltd",
+    "description": "Hackathon hosted by Zeliot Pvt Ltd",
+    "dates": "Deadline: 2026-11-26 (9 days left)",
     "location": "Online / Campus",
     "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
+    "prizes": ", , , ",
+    "url": "https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085",
     "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352778+00:00"
+    "fetched_at": "2026-11-15T19:55:11.172159+00:00"
   },
   {
-    "id": "unstop_1761846",
-    "name": "Rabinjathon: Prime 1",
+    "id": "unstop_1811016",
+    "name": "Codathon | #1 Global Coding Contest",
     "platform": "Unstop",
-    "tagline": "Organized by Rabinja Squad",
-    "description": "Hackathon hosted by Rabinja Squad",
-    "dates": "Deadline: 2026-12-31 (1 month left)",
+    "tagline": "Organized by Indian Institute of Technology (IIT), Bombay",
+    "description": "Hackathon hosted by Indian Institute of Technology (IIT), Bombay",
+    "dates": "Deadline: 2026-12-19 (1 month left)",
     "location": "Online / Campus",
     "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846",
+    "prizes": ", , , ",
+    "url": "https://unstop.com/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016",
     "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352783+00:00"
+    "fetched_at": "2026-11-15T19:55:11.172162+00:00"
+  },
+  {
+    "id": "unstop_1810268",
+    "name": "CODERED'26",
+    "platform": "Unstop",
+    "tagline": "Organized by BMS Insitute of Technology and Management",
+    "description": "Hackathon hosted by BMS Insitute of Technology and Management",
+    "dates": "Deadline: 2026-11-27 (11 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": ", , , , , , , , , , ",
+    "url": "https://unstop.com/hackathons/codered26-bms-insitute-of-technology-and-management-1810268",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-15T19:55:11.172171+00:00"
+  },
+  {
+    "id": "unstop_1798287",
+    "name": "Seed Hackathon 2026",
+    "platform": "Unstop",
+    "tagline": "Organized by SEED Global Education Services Private Limited",
+    "description": "Hackathon hosted by SEED Global Education Services Private Limited",
+    "dates": "Deadline: 2026-11-22 (6 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": ", , ",
+    "url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-15T19:55:11.172174+00:00"
   },
   {
     "id": "unstop_1809486",
@@ -431,7 +431,7 @@
     "prizes": ", , , ",
     "url": "https://unstop.com/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
     "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352789+00:00"
+    "fetched_at": "2026-11-15T19:55:11.172178+00:00"
   },
   {
     "id": "unstop_1776729",
@@ -439,13 +439,55 @@
     "platform": "Unstop",
     "tagline": "Organized by College of Engineering (CEG), Guindy,  Anna University",
     "description": "Hackathon hosted by College of Engineering (CEG), Guindy,  Anna University",
-    "dates": "Deadline: 2026-12-05 (20 days left)",
+    "dates": "Deadline: 2026-12-05 (19 days left)",
     "location": "Online / Campus",
     "is_online": true,
     "prizes": ", , , , ",
     "url": "https://unstop.com/hackathons/hackz26-computer-science-and-engineering-association-csea-ceg-anna-university-1776729",
     "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352793+00:00"
+    "fetched_at": "2026-11-15T19:55:11.172181+00:00"
+  },
+  {
+    "id": "unstop_1791410",
+    "name": "Code Rush – 24 Hours Hackathon",
+    "platform": "Unstop",
+    "tagline": "Organized by GM University Davanagere",
+    "description": "Hackathon hosted by GM University Davanagere",
+    "dates": "Deadline: 2026-11-30 (14 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/code-rush-24-hours-hackathon-ignitron-2k26-gm-university-davanagere-1791410",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-15T19:55:11.172183+00:00"
+  },
+  {
+    "id": "unstop_1761846",
+    "name": "Rabinjathon: Prime 1",
+    "platform": "Unstop",
+    "tagline": "Organized by Rabinja Squad",
+    "description": "Hackathon hosted by Rabinja Squad",
+    "dates": "Deadline: 2026-12-31 (1 month left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-15T19:55:11.172185+00:00"
+  },
+  {
+    "id": "unstop_1801814",
+    "name": "Inter-College Coding Competition 2026 | Java & Python",
+    "platform": "Unstop",
+    "tagline": "Organized by College Of Engineering And Management,Kolaghat",
+    "description": "Hackathon hosted by College Of Engineering And Management,Kolaghat",
+    "dates": "Deadline: 2026-11-15 (Ended)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": ", , ",
+    "url": "https://unstop.com/hackathons/inter-college-coding-competition-2026-college-of-engineering-and-managementkolaghat-1801814",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-15T19:55:11.172189+00:00"
   },
   {
     "id": "unstop_1805107",
@@ -453,55 +495,13 @@
     "platform": "Unstop",
     "tagline": "Organized by Hoollow",
     "description": "Hackathon hosted by Hoollow",
-    "dates": "Deadline: 2026-11-25 (9 days left)",
+    "dates": "Deadline: 2026-11-25 (8 days left)",
     "location": "Online / Campus",
     "is_online": true,
     "prizes": ", , , ",
     "url": "https://unstop.com/hackathons/bad-ideas-only-hoollow-1805107",
     "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352797+00:00"
-  },
-  {
-    "id": "unstop_1807596",
-    "name": "PromptWars X AITH Kanpur ",
-    "platform": "Unstop",
-    "tagline": "Organized by Dr. Ambedkar Institute of Technology for Divyangjan",
-    "description": "Hackathon hosted by Dr. Ambedkar Institute of Technology for Divyangjan",
-    "dates": "Deadline: 2026-11-20 (4 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/promptwars-x-aith-dr-ambedkar-institute-of-technology-for-divyangjan-1807596",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352803+00:00"
-  },
-  {
-    "id": "unstop_1807297",
-    "name": "HackKro CodeByte 2026",
-    "platform": "Unstop",
-    "tagline": "Organized by HackKro",
-    "description": "Hackathon hosted by HackKro",
-    "dates": "Deadline: 2026-11-30 (15 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/hackkro-codebyte-2026-hackkro-1807297",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352806+00:00"
-  },
-  {
-    "id": "unstop_1807080",
-    "name": "Data Sprint 2.0",
-    "platform": "Unstop",
-    "tagline": "Organized by The National Institute of Engineering, Karnataka",
-    "description": "Hackathon hosted by The National Institute of Engineering, Karnataka",
-    "dates": "Deadline: 2026-11-22 (6 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-14T19:24:32.352809+00:00"
+    "fetched_at": "2026-11-15T19:55:11.172194+00:00"
   },
   {
     "id": "devpost_31667",
@@ -515,7 +515,7 @@
     "prizes": "$100,000",
     "url": "https://kiroween.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-14T19:24:32.524584+00:00"
+    "fetched_at": "2026-11-15T19:55:11.346902+00:00"
   },
   {
     "id": "devpost_31024",
@@ -529,7 +529,7 @@
     "prizes": "$1,000,000",
     "url": "https://start-developer-competition-26.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-14T19:24:32.524598+00:00"
+    "fetched_at": "2026-11-15T19:55:11.346921+00:00"
   },
   {
     "id": "devpost_31572",
@@ -543,7 +543,7 @@
     "prizes": "$120,000",
     "url": "https://codegeist2026.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-14T19:24:32.524604+00:00"
+    "fetched_at": "2026-11-15T19:55:11.346925+00:00"
   },
   {
     "id": "devpost_31552",
@@ -557,7 +557,7 @@
     "prizes": "$46,000",
     "url": "https://ugreenhackathon.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-14T19:24:32.524610+00:00"
+    "fetched_at": "2026-11-15T19:55:11.346928+00:00"
   },
   {
     "id": "devpost_31808",
@@ -571,7 +571,7 @@
     "prizes": "$30,000",
     "url": "https://firebasehybridaihackathon.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-14T19:24:32.524615+00:00"
+    "fetched_at": "2026-11-15T19:55:11.346931+00:00"
   },
   {
     "id": "devpost_31083",
@@ -585,7 +585,7 @@
     "prizes": "$50,000",
     "url": "https://qnx.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-14T19:24:32.524620+00:00"
+    "fetched_at": "2026-11-15T19:55:11.346934+00:00"
   },
   {
     "id": "devpost_31644",
@@ -599,21 +599,21 @@
     "prizes": "$35,000",
     "url": "https://redditgameofday2026.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-14T19:24:32.524625+00:00"
+    "fetched_at": "2026-11-15T19:55:11.346938+00:00"
   },
   {
-    "id": "devpost_30500",
-    "name": "DSH Hacks V2 ($100k+ in prizes!)",
+    "id": "devpost_32026",
+    "name": "Open Agentic Web Challenge",
     "platform": "Devpost",
-    "tagline": "Beginner Friendly, Low/No Code, Open Ended",
-    "description": "Themes: Beginner Friendly, Low/No Code, Open Ended",
-    "dates": "Jun 24 - Nov 15, 2026",
+    "tagline": "Machine Learning/AI, Web, Social Good",
+    "description": "Themes: Machine Learning/AI, Web, Social Good",
+    "dates": "Nov 11, 2026 - Jan 11, 2027",
     "location": "Online / Global",
     "is_online": true,
-    "prizes": "$0",
-    "url": "https://dsh-hacks-v2.devpost.com/",
+    "prizes": "$10,000",
+    "url": "https://cognizant-agenticweb.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-14T19:24:32.524633+00:00"
+    "fetched_at": "2026-11-15T19:55:11.346943+00:00"
   },
   {
     "id": "devpost_30789",
@@ -627,6 +627,6 @@
     "prizes": "$7,800",
     "url": "https://arbiter-hacks-v1.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-14T19:24:32.524639+00:00"
+    "fetched_at": "2026-11-15T19:55:11.346947+00:00"
   }
 ]
