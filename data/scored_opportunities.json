@@ -13,7 +13,7 @@
       "deadline": "2026-11-24 (2 days left)",
       "url": "https://unstop.com/internships/ai-react-developer-internship-smaranaiin-1805059",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:58.296385+00:00",
+      "fetched_at": "2026-11-21T20:38:45.590651+00:00",
       "match_score": 85,
       "matching_skills": [
         "FRONTEND",
@@ -29,10 +29,10 @@
       "skills_hint": [
         "electronics"
       ],
-      "deadline": "2026-11-26 (4 days left)",
+      "deadline": "2026-11-26 (3 days left)",
       "url": "https://unstop.com/internships/electronics-communication-engineering-internship-johnnette-technologies-pvt-ltd-1807072",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:54.182379+00:00",
+      "fetched_at": "2026-11-21T20:38:41.398741+00:00",
       "match_score": 70,
       "matching_skills": [
         "HARDWARE"
@@ -47,10 +47,10 @@
       "skills_hint": [
         "electronics"
       ],
-      "deadline": "2026-11-28 (6 days left)",
+      "deadline": "2026-11-28 (5 days left)",
       "url": "https://unstop.com/internships/electronics-internship-emg-signal-acquisition-sensing-firmware-swethareddy-innovations-pvt-ltd-1810718",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:54.182396+00:00",
+      "fetched_at": "2026-11-21T20:38:41.398765+00:00",
       "match_score": 70,
       "matching_skills": [
         "HARDWARE"
@@ -65,10 +65,10 @@
       "skills_hint": [
         "hardware"
       ],
-      "deadline": "2026-11-27 (5 days left)",
+      "deadline": "2026-11-27 (4 days left)",
       "url": "https://unstop.com/internships/hardware-internship-thales-group-1807657",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:55.104507+00:00",
+      "fetched_at": "2026-11-21T20:38:42.816632+00:00",
       "match_score": 70,
       "matching_skills": [
         "HARDWARE"
@@ -83,10 +83,10 @@
       "skills_hint": [
         "robotics"
       ],
-      "deadline": "2026-11-28 (6 days left)",
+      "deadline": "2026-11-28 (5 days left)",
       "url": "https://unstop.com/internships/cad-design-internship-soft-robotics-mold-design-fusion-360-swethareddy-innovations-pvt-ltd-1810229",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:57.572461+00:00",
+      "fetched_at": "2026-11-21T20:38:45.104192+00:00",
       "match_score": 70,
       "matching_skills": [
         "IOT"
@@ -101,10 +101,10 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-11-27 (5 days left)",
+      "deadline": "2026-11-27 (4 days left)",
       "url": "https://unstop.com/internships/frontend-developer-internship-rentalos-1807884",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:58.296327+00:00",
+      "fetched_at": "2026-11-21T20:38:45.590600+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -119,10 +119,10 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-12-04 (13 days left)",
+      "deadline": "2026-12-04 (12 days left)",
       "url": "https://unstop.com/internships/frontend-developer-internship-internship-mela-1819994",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:58.296360+00:00",
+      "fetched_at": "2026-11-21T20:38:45.590633+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -137,28 +137,10 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-12-03 (12 days left)",
+      "deadline": "2026-12-03 (11 days left)",
       "url": "https://unstop.com/internships/frontend-developer-internship-clarity2cloud-technology-private-limited-1819464",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:58.296363+00:00",
-      "match_score": 70,
-      "matching_skills": [
-        "FRONTEND"
-      ]
-    },
-    {
-      "id": "unstop_1806812",
-      "title": "Full Stack Developer Internship",
-      "company": "Mystical Views Private Limited",
-      "location": "India (City)",
-      "description": "Internship at Mystical Views Private Limited",
-      "skills_hint": [
-        "developer"
-      ],
-      "deadline": "2026-11-26 (4 days left)",
-      "url": "https://unstop.com/internships/full-stack-developer-internship-mystical-views-private-limited-1806812",
-      "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:58.296371+00:00",
+      "fetched_at": "2026-11-21T20:38:45.590636+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -173,10 +155,28 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-11-28 (6 days left)",
+      "deadline": "2026-11-28 (5 days left)",
       "url": "https://unstop.com/internships/full-stack-developer-internship-confluent-solutions-1783722",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:58.296374+00:00",
+      "fetched_at": "2026-11-21T20:38:45.590641+00:00",
+      "match_score": 70,
+      "matching_skills": [
+        "FRONTEND"
+      ]
+    },
+    {
+      "id": "unstop_1806812",
+      "title": "Full Stack Developer Internship",
+      "company": "Mystical Views Private Limited",
+      "location": "India (City)",
+      "description": "Internship at Mystical Views Private Limited",
+      "skills_hint": [
+        "developer"
+      ],
+      "deadline": "2026-11-26 (3 days left)",
+      "url": "https://unstop.com/internships/full-stack-developer-internship-mystical-views-private-limited-1806812",
+      "source": "Unstop Internships",
+      "fetched_at": "2026-11-21T20:38:45.590643+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -191,10 +191,10 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-11-28 (6 days left)",
+      "deadline": "2026-11-28 (5 days left)",
       "url": "https://unstop.com/internships/full-stack-developer-internship-cognirex-solutions-1810078",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:58.296377+00:00",
+      "fetched_at": "2026-11-21T20:38:45.590645+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -209,10 +209,10 @@
       "skills_hint": [
         "developer"
       ],
-      "deadline": "2026-11-23 (2 days left)",
+      "deadline": "2026-11-23 (1 days left)",
       "url": "https://unstop.com/internships/full-stack-developer-internship-evolveo-1802356",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:55:58.296381+00:00",
+      "fetched_at": "2026-11-21T20:38:45.590647+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -227,10 +227,10 @@
       "skills_hint": [
         "frontend"
       ],
-      "deadline": "2026-11-24 (2 days left)",
+      "deadline": "2026-11-24 (1 days left)",
       "url": "https://unstop.com/internships/frontend-and-backend-internship-accesco-living-1804646",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:56:03.109587+00:00",
+      "fetched_at": "2026-11-21T20:38:49.744140+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
@@ -245,33 +245,31 @@
       "skills_hint": [
         "frontend"
       ],
-      "deadline": "2026-12-10 (19 days left)",
+      "deadline": "2026-12-10 (18 days left)",
       "url": "https://unstop.com/internships/frontend-development-internship-codeatrix-1803889",
       "source": "Unstop Internships",
-      "fetched_at": "2026-11-20T21:56:03.109607+00:00",
+      "fetched_at": "2026-11-21T20:38:49.744163+00:00",
       "match_score": 70,
       "matching_skills": [
         "FRONTEND"
       ]
     },
     {
-      "id": "arbeitnow_de095e945f96",
-      "title": "Alternance - Talent Acquisition Intern",
-      "company": "Exotec",
-      "location": "Lille, France",
-      "description": "Human Resources, Industrial Automation, People",
+      "id": "arbeitnow_70fef30c12c9",
+      "title": "Full-Stack Developer Intern (m/f/d) Robotics Data Collection",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
+      "description": "AI Solutions",
       "skills_hint": [
-        "Human Resources",
-        "Industrial Automation",
-        "People"
+        "AI Solutions"
       ],
       "deadline": "Rolling / Open",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/alternance-talent-acquisition-intern-lille-90220",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/full-stack-developer-intern-robotics-data-collection-munich-bavaria-36847",
       "source": "Arbeitnow",
-      "fetched_at": "2026-11-20T21:56:05.728982+00:00",
+      "fetched_at": "2026-11-21T20:38:52.010189+00:00",
       "match_score": 70,
       "matching_skills": [
-        "FRONTEND"
+        "IOT"
       ]
     }
   ],
@@ -288,7 +286,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://makerspark.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532775+00:00",
+      "fetched_at": "2026-11-21T20:38:31.782953+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -303,14 +301,14 @@
       "name": "Clash of Commits",
       "platform": "Devfolio",
       "tagline": "Every commit is a battle!",
-      "description": "# CLASH OF COMMITS\n### Build Your Clan. Prepare for War. Claim the Crown.\n\nThe kingdom is calling. The battlefield is open. Is your clan ready?\n\n**Clash of Commits** is not your usual hackathon. It's a clan-based coding battlefield where ideas become weapons, code becomes your arsenal, and only the strongest clans make it to the crown.\n\nGather your squad of **4-5 members**, bring your boldest ideas, and prepare to battle through three rounds of innovation. Build your base, survive the raid, and fight your way into the Arena Finals!\n\n\n**One battlefield. 120 clans. One crown.**\n\n---\n\n## ⚠️ BEFORE YOU ENTER THE BATTLEFIELD\n\n**This registration is ONLY for Round 1 – Build Your Base (Online).**\n\nRegistering here does not guarantee participation in the offline rounds.\n\n- Shortlisted clans must complete a separate registration through the institute portal to secure their participation in the offline rounds.\n- Clans that fail to complete the institute portal registration will not be eligible to compete offline, even if shortlisted.\n- **Joining the official [WhatsApp group](https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp) is MANDATORY.** All announcements, shortlists, deadlines, problem statements, and schedule updates will be shared there first.\n- Missing important announcements will not qualify clans for rescheduling or special exceptions.\n\n**Battlefield Communication Channels**\n- WhatsApp Group: [https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp](https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp)\n\n---\n\n## THE ROAD TO THE CROWN\n\nThree rounds. Two Clan Wars. One ultimate champion.\n\n### ROUND 1: BUILD YOUR BASE\n*Online | Idea Submission*\n\nEvery legendary kingdom starts with a strong foundation. This is where your clan makes its first move.\n\nSubmit a **10-slide idea deck** showcasing:\n- The problem you're setting out to solve.\n- Who you're building for.\n- Your proposed solution.\n- Your technology stack.\n- Your execution and build plan.\n\nEvery submission will be evaluated, and the **top 120 clans** will earn their place in the offline battlefield.\n\nBuild wisely. Your journey starts here.\n\n### ROUND 2: THE RAID\n*Offline | 24-Hour Hackathon*\n\n\nThe shortlisted clans enter campus for an intense **24-hour building showdown**. Turn your ideas into working solutions, tackle problem statements, collaborate with mentors, and make every second count.\n\nBut the battlefield has its own economy: **ELIXIR**.\n\nOnce the code freeze hits, it's time for **CLAN WAR I**.\n\nJudges evaluate every submission based on innovation, technical depth, impact, and execution. Only the **top 8 clans** survive the raid and advance to the Arena Finals.\n\n### ROUND 3: ARENA FINALS\n*Offline | The Ultimate Pitch Battle*\n\nEight clans enter. Only one walks away with the crown.\n\nWelcome to **CLAN WAR II**.\n\nThe top 8 clans face off in a knockout pitching bracket. Present your solution, demonstrate what you've built, and convince the judges why your clan deserves the throne.\n\nWith a live audience, high-stakes presentations, and an audience vote, every pitch matters.\n\nThe final showdown is the **CROWN MATCH** — where the last two contenders battle it out to determine the ultimate champion.\n\n---\n## CHOOSE YOUR BATTLEFIELD\n\nEight tracks. Countless possibilities. Your clan decides what to build.\n\n**AI & MACHINE LEARNING**\nBuild intelligent agents, develop generative AI applications, explore computer vision, or push the boundaries of predictive models and edge AI.\n\n**ROBOTICS & IoT**\nBring hardware to life with autonomous systems, drones, smart sensors, microcontrollers, embedded intelligence, and connected technologies.\n\n**WEB & APPLICATIONS**\nCreate powerful full-stack platforms, mobile applications, SaaS products, developer tools, and scalable digital experiences.\n\n**BLOCKCHAIN & WEB3**\nExplore decentralised applications, smart contracts, DeFi, DAOs, digital assets, and next-generation decentralised infrastructure.\n\n**AR, VR & EXTENDED REALITY**\nBuild immersive experiences through augmented reality, virtual reality, mixed reality, spatial computing, and interactive virtual environments.\n\n**CYBERSECURITY**\nChallenge vulnerabilities, strengthen digital security, develop threat detection systems, and explore ethical hacking, privacy, and digital forensics.\n\n**FINTECH & BUSINESS INNOVATION**\nReimagine financial services through digital payments, financial intelligence, automation, algorithmic trading, and innovative business solutions.\n\n**OPEN INNOVATION**\nNo boundaries. No restrictions. Explore HealthTech, ClimateTech, EdTech, Data Science, Smart Cities, or anything beyond the ordinary. Turn your boldest ideas into impactful real-world solutions.\n\n## READY TO CLAIM THE CROWN?\n\nYour clan has been formed. Your strategy is ready. Now it's time to enter the battlefield.\n\n**YOUR NEXT MOVES:**\n\n1. **Register Your Clan: Devfolio Registration\n2. **Join the WhatsApp Group:** [https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp](https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp)\n3. **Build Your Base:** Submit your 10-slide idea deck before deadline.\n4. **Prepare for the Raid:** If shortlisted, complete your institute portal registration to secure your offline participation.\n\n**BUILD YOUR BASE. SURVIVE THE RAID. CONQUER THE ARENA.**\n\n*The battlefield awaits. The crown belongs to the strongest.*",
+      "description": "# CLASH OF COMMITS\n### Build Your Clan. Prepare for War. Claim the Crown.\n\nThe kingdom is calling. The battlefield is open. Is your clan ready?\n\n**Clash of Commits** is not your usual hackathon. It's a clan-based coding battlefield where ideas become weapons, code becomes your arsenal, and only the strongest clans make it to the crown.\n\nGather your squad of **4-5 members**, bring your boldest ideas, and prepare to battle through three rounds of innovation. Build your base, survive the raid, and fight your way into the Arena Finals!\n\n\n**One battlefield. 120 clans. One crown.**\n\n---\n\n## ⚠️ BEFORE YOU ENTER THE BATTLEFIELD\n\n**This registration is ONLY for Round 1 – Build Your Base (Online).**\n\nRegistering here does not guarantee participation in the offline rounds.\n\n- Shortlisted clans must complete a separate registration through the institute portal to secure their participation in the offline rounds.\n- Clans that fail to complete the institute portal registration will not be eligible to compete offline, even if shortlisted.\n- **Joining the official [WhatsApp group](https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp) is MANDATORY.** All announcements, shortlists, deadlines, problem statements, and schedule updates will be shared there first.\n- Missing important announcements will not qualify clans for rescheduling or special exceptions.\n\n**Battlefield Communication Channels**\n- WhatsApp Group: [https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp](https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp)\n\n---\n\n## THE ROAD TO THE CROWN\n\nThree rounds. Two Clan Wars. One ultimate champion.\n\n### ROUND 1: BUILD YOUR BASE\n*Online | Idea Submission*\n\nEvery legendary kingdom starts with a strong foundation. This is where your clan makes its first move.\n\nSubmit a **10-slide idea deck** showcasing:\n- The problem you're setting out to solve.\n- Who you're building for.\n- Your proposed solution.\n- Your technology stack.\n- Your execution and build plan.\n\nEvery submission will be evaluated, and the **top 120 clans** will earn their place in the offline battlefield.\n\nBuild wisely. Your journey starts here.\n\n### ROUND 2: THE RAID\n*Offline | 24-Hour Hackathon*\n\n\nThe shortlisted clans enter campus for an intense **24-hour building showdown**. Turn your ideas into working solutions, tackle problem statements, collaborate with mentors, and make every second count.\n\nBut the battlefield has its own economy: **ELIXIR**.\n\nOnce the code freeze hits, it's time for **CLAN WAR I**.\n\nJudges evaluate every submission based on innovation, technical depth, impact, and execution. Only the **top 8 clans** survive the raid and advance to the Arena Finals.\n\n### ROUND 3: ARENA FINALS\n*Offline | The Ultimate Pitch Battle*\n\nEight clans enter. Only one walks away with the crown.\n\nWelcome to **CLAN WAR II**.\n\nThe top 8 clans face off in a knockout pitching bracket. Present your solution, demonstrate what you've built, and convince the judges why your clan deserves the throne.\n\nWith a live audience, high-stakes presentations, and an audience vote, every pitch matters.\n\nThe final showdown is the **CROWN MATCH** — where the last two contenders battle it out to determine the ultimate champion.\n\n---\n## CHOOSE YOUR BATTLEFIELD\n\nEight tracks. Countless possibilities. Your clan decides what to build.\n\n**AI & MACHINE LEARNING**\nBuild intelligent agents, develop generative AI applications, explore computer vision, or push the boundaries of predictive models and edge AI.\n\n**ROBOTICS & IoT**\nBring hardware to life with autonomous systems, drones, smart sensors, microcontrollers, embedded intelligence, and connected technologies.\n\n**WEB & APPLICATIONS**\nCreate powerful full-stack platforms, mobile applications, SaaS products, developer tools, and scalable digital experiences.\n\n**BLOCKCHAIN & WEB3**\nExplore decentralised applications, smart contracts, DeFi, DAOs, digital assets, and next-generation decentralised infrastructure.\n\n**CYBERSECURITY**\nChallenge vulnerabilities, strengthen digital security, develop threat detection systems, and explore ethical hacking, privacy, and digital forensics.\n\n**FINTECH & BUSINESS INNOVATION**\nReimagine financial services through digital payments, financial intelligence, automation, algorithmic trading, and innovative business solutions.\n\n## READY TO CLAIM THE CROWN?\n\nYour clan has been formed. Your strategy is ready. Now it's time to enter the battlefield.\n\n**YOUR NEXT MOVES:**\n\n1. **Register Your Clan: Devfolio Registration\n2. **Join the WhatsApp Group:** [https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp](https://chat.whatsapp.com/GIVDrZr0hm8AenbuZxNJfp)\n3. **Build Your Base:** Submit your 10-slide idea deck before deadline.\n4. **Prepare for the Raid:** If shortlisted, complete your institute portal registration to secure your offline participation.\n\n**BUILD YOUR BASE. SURVIVE THE RAID. CONQUER THE ARENA.**\n\n*The battlefield awaits. The crown belongs to the strongest.*",
       "dates": "2026-12-04 to 2026-12-05",
       "location": "VIT Chennai, Kelambakkam - Vandalur Road, Chennai, Tamil Nadu, India",
       "is_online": false,
       "prizes": "Prize pool & perks listed on site",
       "url": "https://clash-of-commits.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532778+00:00",
+      "fetched_at": "2026-11-21T20:38:31.782997+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -332,7 +330,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://haxfinity.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532802+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783023+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -354,7 +352,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://innerve-11.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532811+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783034+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -376,7 +374,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://techacks05.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532817+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783042+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -398,7 +396,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://touch-some-grass.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:44.766362+00:00",
+      "fetched_at": "2026-11-21T20:38:32.146102+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -420,7 +418,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://coderave-2.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:44.766368+00:00",
+      "fetched_at": "2026-11-21T20:38:32.146105+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -442,7 +440,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://eclipse.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:44.766375+00:00",
+      "fetched_at": "2026-11-21T20:38:32.146110+00:00",
       "match_score": 99,
       "matching_skills": [
         "AI",
@@ -453,24 +451,23 @@
       ]
     },
     {
-      "id": "devfolio_d957bc2099f945e99edfae0c2972bed9",
-      "name": "DevNexus 2.0",
-      "platform": "Devfolio",
-      "tagline": "Code Through the Night. Build Beyond the Fear.",
-      "description": "**DEV NEXUS 2.0** is a **36-hour hackathon** where developers, innovators, and problem-solvers come together to build, create, collaborate, and turn ideas into impactful solutions.\n\n📅 **28th–29th November 2026**  \n📍 **Government College of Engineering and Leather Technology (GCELT), Salt Lake, Kolkata**  \n🎃 **Organized by the Event Management Group of GCELT**\n\nWith a Halloween-inspired theme, get ready for **36 hours of coding, creativity, collaboration, and innovation.**\n\n🚀 **How to Participate?**\n- Register your team through **Devfolio**.\n- Complete the **PPT submission round** after registration.\n- Selected teams will be invited to participate in the **offline hackathon round** at GCELT.\n\n💡 **No prototype or working model is required for the PPT submission round!** Just explain your idea thoroughly through a well-structured PPT, highlighting the problem, proposed solution, innovation, and potential impact.\n\n📤 **Submit your PPT here:**  \nhttps://forms.rynne.live/devnexus2-ppt-submission/c9qjah\n\nThe night falls. The code awakens. 👻💻\n\n**DEV NEXUS 2.0 — Where ideas become builds.**\n\n#DevNexus2 #Hackathon #GCELT #Kolkata #Devfolio #BuildBeyondTheFear",
-      "dates": "2026-11-27 to 2026-11-28",
-      "location": "Government College of Engineering and Leather Technology, Eastern Metropolitan Bypass, LB Block, Sector 3, Bidhannagar, Kolkata, West Bengal, India",
-      "is_online": false,
-      "prizes": "Prize pool & perks listed on site",
-      "url": "https://devnexus2.devfolio.co",
-      "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532744+00:00",
-      "match_score": 95,
+      "id": "unstop_1819682",
+      "name": "BIOFORGE 2026 – Interdisciplinary Healthcare Innovation Hackathon",
+      "platform": "Unstop",
+      "tagline": "Organized by Dayananda Sagar College of Engineering (DSCE), Bengaluru",
+      "description": "Hackathon hosted by Dayananda Sagar College of Engineering (DSCE), Bengaluru",
+      "dates": "Deadline: 2026-11-23 (1 days left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": "Prizes Available",
+      "url": "https://unstop.com/hackathons/bioforge-2026-interdisciplinary-healthcare-innovation-hackathon-dayananda-sagar-college-of-engineering-dsce-b-1819682",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-21T20:38:33.487872+00:00",
+      "match_score": 99,
       "matching_skills": [
-        "AI",
         "HACK",
-        "CODE",
-        "INNOVAT"
+        "INNOVAT",
+        "Acharya Campus / Bengaluru"
       ]
     },
     {
@@ -485,7 +482,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://codenmod.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532767+00:00",
+      "fetched_at": "2026-11-21T20:38:31.782921+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -506,7 +503,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://health-hackathon.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532781+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783001+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -527,7 +524,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hft2026.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532788+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783008+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -548,7 +545,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hackodisha-6a.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532799+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783026+00:00",
       "match_score": 95,
       "matching_skills": [
         "WEB",
@@ -569,7 +566,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hacksprint-3.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532807+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783032+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -590,7 +587,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://texus27.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:44.766355+00:00",
+      "fetched_at": "2026-11-21T20:38:32.146097+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -611,7 +608,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://makeathon-9.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:44.766358+00:00",
+      "fetched_at": "2026-11-21T20:38:32.146100+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -625,14 +622,14 @@
       "name": "HACK2027",
       "platform": "Devfolio",
       "tagline": "Innovate. Build. Disrupt. 24 Hours at SIMATS.",
-      "description": "## 🚀 About HACK.2027\n\n**HACK.2027** is a flagship **National-Level 24-Hour Hybrid Hackathon** organized by the **Department of Smart Materials, SIMATS Engineering (Saveetha School of Engineering, SIMATS), Chennai**.\n\nBuilt to unite India’s sharpest student developers, hardware tinkerers, and problem-solvers, HACK.2027 challenges teams to take bold ideas from concept to functional prototype. Following an initial online idea screening round, shortlisted teams from across the country will converge at **SIMATS Engineering, Chennai** for 24 non-stop hours of building,and live pitching to industry judges.\n\n---\n\n### 🔗 Official Links & Group\n\n* **Official WhatsApp Group: https://chat.whatsapp.com/HksH18INKchLw15Aknb3UL?s=cl&p=a&iam=2 ** [Join for Instant Updates & Shortlist Alerts](#) *(Mandatory for all registered participants)*\n\n*Dates, problem statements, and detailed schedules will be announced soon. Register your team now, join the community, and get ready to build!*",
-      "dates": "2027-02-20 to 2027-02-21",
+      "description": "**HACK.2027** is the flagship **National-Level 24-Hour Hybrid Hackathon** hosted by **SIMATS Engineering (Saveetha School of Engineering), Chennai**. Designed to bring together 1,000+ student innovators, developers, and problem-solvers from across India, HACK.2027 challenges builders to turn bold ideas into working, real-world prototypes.\n\nWhether you are passionate about software engineering, artificial intelligence, hardware & smart systems, or interdisciplinary engineering, HACK.2027 offers a high-energy environment to collaborate, build under pressure, and showcase your technical creativity in front of industry leaders and academic experts.\n\n### Event Dates & Venue\n* **Finale Dates:** February 18–19, 2027 (24-Hour Offline Hackathon)\n* **Venue:** SIMATS Engineering (Saveetha School of Engineering), Chennai, Tamil Nadu\n\n### Hackathon Format\n\n* **Round 1: Online Idea & PPT Screening (Late January 2027)**\n  Teams register on Devfolio and submit their project proposal / presentation (PPT) outlining the problem statement, proposed architecture, innovation, and feasibility. Submissions are evaluated on originality, technical depth, and real-world impact to shortlist the top **75 teams** nationwide.\n\n* **Round 2: 24-Hour Offline Finale on Campus (February 18–19, 2027)**\n  Shortlisted finalist teams travel to the SIMATS Engineering campus in Chennai for an intense, non-stop **24-hour live build**. Teams will prototype from scratch, receive guidance during mentor checkpoints, and pitch their working solutions to an expert jury panel for top honors and prizes.\n\n### Why Participate?\n* Compete alongside top student builders from across the country\n* Receive hands-on mentorship and feedback from industry practitioners and researchers\n* Build a functional prototype in 24 hours and showcase it live to an expert jury\n* Win exciting cash prizes, awards, and recognition",
+      "dates": "2027-02-18 to 2027-02-19",
       "location": "Saveetha University, Kanchipuram - Chennai Road, Chennai, Tamil Nadu, India",
       "is_online": false,
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hack2027.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:44.766365+00:00",
+      "fetched_at": "2026-11-21T20:38:32.146104+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -653,7 +650,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hacktu-8.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:44.766370+00:00",
+      "fetched_at": "2026-11-21T20:38:32.146107+00:00",
       "match_score": 95,
       "matching_skills": [
         "AI",
@@ -663,18 +660,18 @@
       ]
     },
     {
-      "id": "unstop_1811526",
-      "name": "CircuitX",
+      "id": "unstop_1818820",
+      "name": "Operation Blackout",
       "platform": "Unstop",
-      "tagline": "Organized by BMS Institute of Technology and Management (BMSITM), Bangalore",
-      "description": "Hackathon hosted by BMS Institute of Technology and Management (BMSITM), Bangalore",
-      "dates": "Deadline: 2026-11-30 (9 days left)",
+      "tagline": "Organized by R.V. College of Engineering (RVCE), Bangalore",
+      "description": "Hackathon hosted by R.V. College of Engineering (RVCE), Bangalore",
+      "dates": "Deadline: 2026-12-01 (9 days left)",
       "location": "Online / Campus",
       "is_online": true,
-      "prizes": "Prizes Available",
-      "url": "https://unstop.com/hackathons/circuitx-bms-institute-of-technology-and-management-bmsitm-bangalore-1811526",
+      "prizes": ", , ",
+      "url": "https://unstop.com/hackathons/operation-blackout-react-2026-rv-college-of-engineering-rvce-bangalore-1818820",
       "source": "Unstop API",
-      "fetched_at": "2026-11-20T21:55:46.150060+00:00",
+      "fetched_at": "2026-11-21T20:38:33.487863+00:00",
       "match_score": 95,
       "matching_skills": [
         "HACK",
@@ -693,7 +690,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://chiangmai.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532795+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783012+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
@@ -713,7 +710,27 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hack-with-gdg-s4.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532814+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783038+00:00",
+      "match_score": 85,
+      "matching_skills": [
+        "AI",
+        "HACK",
+        "INNOVAT"
+      ]
+    },
+    {
+      "id": "devfolio_1c7af64a076f43d5a088b7b65ae793a3",
+      "name": "GOA BUILDATHON 27",
+      "platform": "Devfolio",
+      "tagline": "36 hours. Goa, India.",
+      "description": "# All That You Need to Know About GOA BUILDATHON ’27\n\nWelcome to **GOA BUILDATHON ’27!**\n\n> Where ambition meets execution.\n\nEvery great innovation starts with an idea. What makes it great is the courage to build it, the curiosity to experiment, and the determination to bring it to life.\n\n**GOA BUILDATHON ’27** is a **36-hour, student-run hackathon** where aspiring technologists, creative thinkers, and problem-solvers come together to turn bold ideas into tangible products.\n\nIt’s a space to push boundaries, collaborate with like-minded innovators, experiment with emerging technologies, and build something that goes beyond the ordinary.\n\nSet against the backdrop of **Goa, India**, expect an immersive build sprint filled with late-night coding, spontaneous collaborations, fresh ideas, and connections that last long after the final commit. And, of course, a little coastal magic along the way. 🌴\n\n## What Awaits You?\n\n- **₹10,00,000+ Prize Pool** — Compete, innovate, and get rewarded for what you build.\n- **Exciting Challenges** — Tackle real-world problems and explore new possibilities.\n- **36 Hours of Building** — Turn your ideas into working prototypes.\n- **A Community of Innovators** — Connect with developers, designers, and ambitious builders.\n- **A Platform to Showcase** — Put your creativity, technical skills, and ideas in the spotlight.\n\n> **Don't just imagine what’s possible. Build it.**\n\nWhether you're a first-time hacker or an experienced developer, GOA BUILDATHON ’27 is your opportunity to experiment, collaborate, and create something meaningful.\n\n**36 HOURS. ONE GOAL. BUILD SOMETHING THAT MATTERS.**\n\n*More details coming soon. Stay tuned!*",
+      "dates": "2027-01-16 to 2027-01-17",
+      "location": "Goa, India",
+      "is_online": false,
+      "prizes": "Prize pool & perks listed on site",
+      "url": "https://goa-buildathon.devfolio.co",
+      "source": "Devfolio API",
+      "fetched_at": "2026-11-21T20:38:31.783040+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
@@ -733,7 +750,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://devnexus-3.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:44.766373+00:00",
+      "fetched_at": "2026-11-21T20:38:32.146109+00:00",
       "match_score": 85,
       "matching_skills": [
         "AI",
@@ -753,7 +770,7 @@
       "prizes": "Prize pool & perks listed on site",
       "url": "https://hack-nexus.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:43.532804+00:00",
+      "fetched_at": "2026-11-21T20:38:31.783029+00:00",
       "match_score": 75,
       "matching_skills": [
         "HACK",
@@ -765,14 +782,14 @@
       "name": "Winter of Code 6.0",
       "platform": "Devfolio",
       "tagline": "Make every commit, every contribution count this winter!",
-      "description": "**Winter of Code 6.0** is a three-month-long open-source initiative organised by **Google Developer Groups on Campus IIIT Kalyani**, bringing together developers, designers, and tech enthusiasts.\n\nBuilding on the success of its previous edition, which witnessed **5,000+ participants**, WOC 6.0 offers an opportunity to explore open source through real-world projects, mentorship, and collaboration. Inspired by the contribution-driven model of **Google Summer of Code (GSoC)**, participants get to engage with open-source organisations, connect with experienced mentors, and contribute to projects that make a difference.\n\nWhether you're a first-time contributor or an experienced developer, this is your chance to go beyond tutorials, collaborate with the open-source community, and build something that matters. **Find your project, make your first contribution, and turn this winter into a milestone in your developer journey. The world of open source is waiting. Are you ready to contribute?**",
-      "dates": "2027-01-09 to 2027-01-24",
+      "description": "**Winter of Code 6.0** is a three-month-long open-source initiative organised by **Google Developer Groups on Campus IIIT Kalyani**, bringing together developers, designers, and tech enthusiasts.\n\nBuilding on the success of its previous edition, which witnessed **5,000+ participants**, WOC 6.0 offers an opportunity to explore open source through real-world projects, mentorship, and collaboration. Inspired by the contribution-driven model of **Google Summer of Code (GSoC)**, participants get to engage with open-source organisations, connect with experienced mentors, and contribute to projects that make a difference.\n\nWhether you're a first-time contributor or an experienced developer, this is your chance to go beyond tutorials, collaborate with the open-source community, and build something that matters. **Find your project, make your first contribution, and turn this winter into a milestone in your developer journey. The world of open source is waiting. Are you ready to contribute?**\n\nVisit  : [winter-of-code-6.tech](https://www.winter-of-code-6.tech/)",
+      "dates": "2027-01-09 to 2027-01-19",
       "location": "In-Person",
       "is_online": false,
       "prizes": "Prize pool & perks listed on site",
       "url": "https://woc6.devfolio.co",
       "source": "Devfolio API",
-      "fetched_at": "2026-11-20T21:55:44.766339+00:00",
+      "fetched_at": "2026-11-21T20:38:32.146077+00:00",
       "match_score": 75,
       "matching_skills": [
         "AI",
@@ -780,18 +797,113 @@
       ]
     },
     {
-      "id": "unstop_1820028",
-      "name": "Merry Shipmas Bengaluru: Christmas AI Hackathon ",
+      "id": "unstop_1821954",
+      "name": "AI-Powered Career Development Hackathon",
       "platform": "Unstop",
-      "tagline": "Organized by NERDCONF",
-      "description": "Hackathon hosted by NERDCONF",
-      "dates": "Deadline: 2026-12-12 (20 days left)",
+      "tagline": "Organized by UnsaidTalks Education",
+      "description": "Hackathon hosted by UnsaidTalks Education",
+      "dates": "Deadline: 2026-11-28 (6 days left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": ", , , ",
+      "url": "https://unstop.com/hackathons/ai-powered-career-development-hackathon-unsaidtalks-education-1821954",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-21T20:38:33.487822+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "AI",
+        "HACK"
+      ]
+    },
+    {
+      "id": "unstop_1821984",
+      "name": "PromptWars x Quad Patna",
+      "platform": "Unstop",
+      "tagline": "Organized by Quad AI School of Technology & Management",
+      "description": "Hackathon hosted by Quad AI School of Technology & Management",
+      "dates": "Deadline: 2026-12-04 (12 days left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": ", , ",
+      "url": "https://unstop.com/hackathons/promptwars-x-quad-patna-quad-ai-school-of-technology-management-1821984",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-21T20:38:33.487845+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "AI",
+        "HACK"
+      ]
+    },
+    {
+      "id": "unstop_1822588",
+      "name": "Mogoj Dholai",
+      "platform": "Unstop",
+      "tagline": "Organized by Department of Information Technology, Jadavpur University",
+      "description": "Hackathon hosted by Department of Information Technology, Jadavpur University",
+      "dates": "Deadline: 2026-12-05 (12 days left)",
       "location": "Online / Campus",
       "is_online": true,
       "prizes": "Prizes Available",
-      "url": "https://unstop.com/hackathons/merry-shipmas-bengaluru-christmas-ai-hackathon-nerdconf-1820028",
+      "url": "https://unstop.com/hackathons/mogoj-dholai-kernel-10-department-of-information-technology-jadavpur-university-1822588",
       "source": "Unstop API",
-      "fetched_at": "2026-11-20T21:55:46.150049+00:00",
+      "fetched_at": "2026-11-21T20:38:33.487849+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "AI",
+        "HACK"
+      ]
+    },
+    {
+      "id": "unstop_1820882",
+      "name": "EinoHacks",
+      "platform": "Unstop",
+      "tagline": "Organized by AltairX Tech",
+      "description": "Hackathon hosted by AltairX Tech",
+      "dates": "Deadline: 2026-11-22 (15 hours left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": "Prizes Available",
+      "url": "https://unstop.com/hackathons/einohacks-altairx-tech-1820882",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-21T20:38:33.487865+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "AI",
+        "HACK"
+      ]
+    },
+    {
+      "id": "unstop_1815227",
+      "name": "Buildathon: AI Hackathon",
+      "platform": "Unstop",
+      "tagline": "Organized by Dr MGR Institute of Education and Research Institute",
+      "description": "Hackathon hosted by Dr MGR Institute of Education and Research Institute",
+      "dates": "Deadline: 2026-11-23 (21 hours left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": ", , ",
+      "url": "https://unstop.com/hackathons/buildathon-ai-hackathon-dr-mgr-institute-of-education-and-research-institute-1815227",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-21T20:38:33.487876+00:00",
+      "match_score": 75,
+      "matching_skills": [
+        "AI",
+        "HACK"
+      ]
+    },
+    {
+      "id": "unstop_1814983",
+      "name": "Protothon 2K26",
+      "platform": "Unstop",
+      "tagline": "Organized by Hindustan Institute of Technology and Science (HITS), Chennai",
+      "description": "Hackathon hosted by Hindustan Institute of Technology and Science (HITS), Chennai",
+      "dates": "Deadline: 2026-12-01 (8 days left)",
+      "location": "Online / Campus",
+      "is_online": true,
+      "prizes": "Prizes Available",
+      "url": "https://unstop.com/hackathons/protothon-2k26-hindustan-institute-of-technology-and-science-hits-chennai-1814983",
+      "source": "Unstop API",
+      "fetched_at": "2026-11-21T20:38:33.487878+00:00",
       "match_score": 75,
       "matching_skills": [
         "AI",
@@ -804,77 +916,20 @@
       "platform": "Unstop",
       "tagline": "Organized by Pranveer Singh Institute of Technology (PSIT), Kanpur",
       "description": "Hackathon hosted by Pranveer Singh Institute of Technology (PSIT), Kanpur",
-      "dates": "Deadline: 2026-12-16 (24 days left)",
+      "dates": "Deadline: 2026-12-16 (23 days left)",
       "location": "Online / Campus",
       "is_online": true,
       "prizes": ", , ",
       "url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
       "source": "Unstop API",
-      "fetched_at": "2026-11-20T21:55:46.150072+00:00",
+      "fetched_at": "2026-11-21T20:38:33.487891+00:00",
       "match_score": 75,
       "matching_skills": [
         "HACK",
         "INNOVAT"
       ]
-    },
-    {
-      "id": "unstop_1817696",
-      "name": "Wie Code 2K26",
-      "platform": "Unstop",
-      "tagline": "Organized by Siddaganga Institute of Technology (SIT), Tumkur",
-      "description": "Hackathon hosted by Siddaganga Institute of Technology (SIT), Tumkur",
-      "dates": "Deadline: 2026-11-24 (3 days left)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": "Prizes Available",
-      "url": "https://unstop.com/hackathons/wie-code-2k26-siddaganga-institute-of-technology-sit-tumkur-1817696",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-20T21:55:46.150089+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "HACK",
-        "CODE"
-      ]
-    },
-    {
-      "id": "unstop_1817737",
-      "name": "CodeWarriors India 2026 - National Hackathon",
-      "platform": "Unstop",
-      "tagline": "Organized by BuildX",
-      "description": "Hackathon hosted by BuildX",
-      "dates": "Deadline: 2026-12-03 (12 days left)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": ", , , , ",
-      "url": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-20T21:55:46.150112+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "HACK",
-        "CODE"
-      ]
-    },
-    {
-      "id": "unstop_1817736",
-      "name": "Code Fort 2027",
-      "platform": "Unstop",
-      "tagline": "Organized by Chandigarh University (CU), Ajitgarh, Punjab",
-      "description": "Hackathon hosted by Chandigarh University (CU), Ajitgarh, Punjab",
-      "dates": "Deadline: 2026-11-24 (2 days left)",
-      "location": "Online / Campus",
-      "is_online": true,
-      "prizes": "Prizes Available",
-      "url": "https://unstop.com/hackathons/code-fort-2027-chandigarh-university-cu-ajitgarh-punjab-1817736",
-      "source": "Unstop API",
-      "fetched_at": "2026-11-20T21:55:46.150116+00:00",
-      "match_score": 75,
-      "matching_skills": [
-        "HACK",
-        "CODE"
-      ]
     }
   ],
-  "all_scored_jobs_count": 142,
+  "all_scored_jobs_count": 145,
   "all_scored_hackathons_count": 48
 }
