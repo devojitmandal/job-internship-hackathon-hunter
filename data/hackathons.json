@@ -1,19 +1,5 @@
 [
   {
-    "id": "devfolio_931ca9149c46417bb0526ce1eb44b920",
-    "name": "MakerSpark",
-    "platform": "Devfolio",
-    "tagline": "",
-    "description": "**MakerSpark** is an 8-hour hardware-only hackathon organized by the **IEEE Sensors Council Kerala Chapter**, in collaboration with **Arduino, Maker Village, and Semicon Keralam**. Hosted at the **Indian Institute of Information Technology and Management–Kerala (IIITM-K), Technopark, Thiruvananthapuram**, the event brings together aspiring innovators, engineers, and technology enthusiasts to transform creative ideas into impactful hardware solutions.\n\nShortlisted participants will be provided with **Arduino UNO Q** boards and will be required to develop Physical AI-based projects **using the board as a mandatory component** during the hackathon.\n\n\n***TRACKS***\n**1. Industry 2.0 – The Future of Automation**\nCentred on the future of industries, exploring intelligent automation, industrial transformation, robotics, and the evolution of manufacturing and production systems.\n\n**2. HealthTech – Beyond Boundaries**\nExploring the role of technology in revolutionising healthcare, focusing on medical innovation, healthcare accessibility, patient well-being, and advancements in health technologies.\n\n**3. Utopia – Envisioning a Better World**\nDedicated to technological innovation for a better future, encompassing sustainability, environmental protection, smart living, and solutions to societal challenges.\n\n**4. Odyssey – A Journey to Limitless Possibilities**\nIdeas that transcend conventional domains, embracing interdisciplinary innovation, emerging technologies, creative problem-solving, and unexplored possibilities.\n\n**Join our community :**\nhttps://chat.whatsapp.com/LPajlPT39biATzNpKs3tLW",
-    "dates": "2026-12-09 to 2026-12-09",
-    "location": "IIITMK Building, Technopark Road, Technopark Campus, Karyavattom, Kazhakkoottam, Thiruvananthapuram, Keralam, India",
-    "is_online": false,
-    "prizes": "Prize pool & perks listed on site",
-    "url": "https://makerspark.devfolio.co",
-    "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187157+00:00"
-  },
-  {
     "id": "devfolio_cdf2af90c090403a9db2f0162a99b687",
     "name": "Founders' House Kolkata",
     "platform": "Devfolio",
@@ -25,7 +11,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://founders-house-kolkata.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187190+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421185+00:00"
   },
   {
     "id": "devfolio_92cc2d2e2fb34353962958ed0258c2ab",
@@ -39,7 +25,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://abhyudaya.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187196+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421213+00:00"
   },
   {
     "id": "devfolio_e800e7f7535945b59b3516a08424db39",
@@ -53,7 +39,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://health-hackathon.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187199+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421218+00:00"
   },
   {
     "id": "devfolio_2689d878c21e4cf1a61a50f5104587f0",
@@ -67,7 +53,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://clash-of-commits.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187204+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421221+00:00"
   },
   {
     "id": "devfolio_4d73b335011e473e9b40c05d28d5c8dc",
@@ -81,7 +67,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://udaya-2-o.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187207+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421223+00:00"
   },
   {
     "id": "devfolio_0c74c99ebe4d4bc8b1b9972451f350ca",
@@ -95,7 +81,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hft2026.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187209+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421225+00:00"
   },
   {
     "id": "devfolio_65d42f71b14f4e4b810d3eac1e14ac5a",
@@ -109,7 +95,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://promptwaves.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187215+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421227+00:00"
   },
   {
     "id": "devfolio_cf5fb5645ec44de88ee455be936825da",
@@ -123,21 +109,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://chiangmai.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187221+00:00"
-  },
-  {
-    "id": "devfolio_c84b90d65eff4ae083366fc1cc549e81",
-    "name": "hackodisha-6.0",
-    "platform": "Devfolio",
-    "tagline": "Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela.",
-    "description": "Welcome to HackOdisha 6.0\nA 36-hour online hackathon organized by Webwiz, the official tech club of NIT Rourkela\n\nAfter five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges.\n\nWhether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena.\n\nYou can participate solo or form a team but remember: every member must register individually to be eligible.\n\nJoin us on this journey of creativity, code, and community at HackOdisha 6.0!",
-    "dates": "2026-12-11 to 2026-12-13",
-    "location": "Online",
-    "is_online": true,
-    "prizes": "Prize pool & perks listed on site",
-    "url": "https://hackodisha-6a.devfolio.co",
-    "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187224+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421233+00:00"
   },
   {
     "id": "devfolio_50e23a48e3964f43878279a3bf81339d",
@@ -151,7 +123,21 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://haxfinity.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187227+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421239+00:00"
+  },
+  {
+    "id": "devfolio_c84b90d65eff4ae083366fc1cc549e81",
+    "name": "hackodisha-6.0",
+    "platform": "Devfolio",
+    "tagline": "Eastern India's one of the largest hackathon organized by Webwiz, NIT Rourkela.",
+    "description": "Welcome to HackOdisha 6.0\nA 36-hour online hackathon organized by Webwiz, the official tech club of NIT Rourkela\n\nAfter five successful seasons, HackOdisha returns bigger and better uniting developers and creatives from across the globe to tackle real-world challenges.\n\nWhether you’re a beginner or an expert, if you thrive on problem‑solving and innovation, this is your arena.\n\nYou can participate solo or form a team but remember: every member must register individually to be eligible.\n\nJoin us on this journey of creativity, code, and community at HackOdisha 6.0!",
+    "dates": "2026-12-11 to 2026-12-13",
+    "location": "Online",
+    "is_online": true,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://hackodisha-6a.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-26T23:13:29.421242+00:00"
   },
   {
     "id": "devfolio_409173af22ac40d5aecb47ea06886ab3",
@@ -165,7 +151,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hack-nexus.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187229+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421244+00:00"
   },
   {
     "id": "devfolio_6ab81312cb504b4195e46290f44e7191",
@@ -179,7 +165,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hacksprint-3.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187232+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421246+00:00"
   },
   {
     "id": "devfolio_feaf6d51a5ba4774acf1ccaaa1d4b789",
@@ -193,7 +179,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://innerve-11.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187234+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421248+00:00"
   },
   {
     "id": "devfolio_fd0e448aac74401697c00e7e41745383",
@@ -207,7 +193,21 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://woc6.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.187237+00:00"
+    "fetched_at": "2026-11-26T23:13:29.421250+00:00"
+  },
+  {
+    "id": "devfolio_1c7af64a076f43d5a088b7b65ae793a3",
+    "name": "GOA BUILDATHON 27",
+    "platform": "Devfolio",
+    "tagline": "36 hours. Goa, India.",
+    "description": "# All That You Need to Know About GOA BUILDATHON ’27\n\nWelcome to **GOA BUILDATHON ’27!**\n\n> Where ambition meets execution.\n\nEvery great innovation starts with an idea. What makes it great is the courage to build it, the curiosity to experiment, and the determination to bring it to life.\n\n**GOA BUILDATHON ’27** is a **36-hour, student-run hackathon** where aspiring technologists, creative thinkers, and problem-solvers come together to turn bold ideas into tangible products.\n\nIt’s a space to push boundaries, collaborate with like-minded innovators, experiment with emerging technologies, and build something that goes beyond the ordinary.\n\nSet against the backdrop of **Goa, India**, expect an immersive build sprint filled with late-night coding, spontaneous collaborations, fresh ideas, and connections that last long after the final commit. And, of course, a little coastal magic along the way. 🌴\n\n## What Awaits You?\n\n- **₹10,00,000+ Prize Pool** — Compete, innovate, and get rewarded for what you build.\n- **Exciting Challenges** — Tackle real-world problems and explore new possibilities.\n- **36 Hours of Building** — Turn your ideas into working prototypes.\n- **A Community of Innovators** — Connect with developers, designers, and ambitious builders.\n- **A Platform to Showcase** — Put your creativity, technical skills, and ideas in the spotlight.\n\n> **Don't just imagine what’s possible. Build it.**\n\nWhether you're a first-time hacker or an experienced developer, GOA BUILDATHON ’27 is your opportunity to experiment, collaborate, and create something meaningful.\n\n**36 HOURS. ONE GOAL. BUILD SOMETHING THAT MATTERS.**\n\n*More details coming soon. Stay tuned!*",
+    "dates": "2027-01-16 to 2027-01-17",
+    "location": "Goa, India",
+    "is_online": false,
+    "prizes": "Prize pool & perks listed on site",
+    "url": "https://goa-buildathon.devfolio.co",
+    "source": "Devfolio API",
+    "fetched_at": "2026-11-26T23:13:29.421252+00:00"
   },
   {
     "id": "devfolio_6a9a810d11934e278fe5a13409791cde",
@@ -221,13 +221,13 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://touch-some-grass.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.540002+00:00"
+    "fetched_at": "2026-11-26T23:13:30.348955+00:00"
   },
   {
     "id": "devfolio_4a726052359d4ba8af95d60e9dc253cf",
     "name": "Makeathon 9.0",
     "platform": "Devfolio",
-    "tagline": "One of North-India's largest hackathon",
+    "tagline": "An official MLH Member Event",
     "description": "Now in its ninth edition, **MAKEATHON 9.0** is the flagship hackathon of the Microsoft Learn Student Chapter. It brings together developers, designers, and problem solvers from across the country to turn ideas into working solutions. Through workshops, mentorship, and a focused 24-hour building experience, participants will explore real-world challenges and demonstrate what they can create together.\n\n**Who can participate?**\n\nUndergraduate and postgraduate students from all colleges, academic years, and disciplines are welcome. Teams can include students from different colleges and disciplines. A mix of skills in development, design, AI/ML, and databases is encouraged.\n\nEach team must choose one problem statement from the officially released list and build a solution that directly addresses it.\n\n***Presentation template [here](https://drive.google.com/file/d/1ParNnJk0hPwFmsks70bdAxQaPj3hNJcP/view?usp=sharing)***\n\n**Round 1 — Online Screening**\n\nTeams must submit:\n\n- A project proposal explaining the problem, proposed solution, technical approach, and expected impact.\n- An implementation plan outlining how the solution will be developed.\n\nSubmissions will be evaluated on innovation, relevance, feasibility, and clarity. Shortlisted teams will advance to the on-campus hackathon.\n\n**Round 2 — On-Campus Hackathon**\n\nShortlisted teams will develop a functional prototype from scratch during the hackathon. Pre-built solutions or prototypes are not permitted, and physical attendance throughout the hackathon is compulsory.\n\nJudges will conduct periodic progress checkpoints, followed by a final evaluation.\n\n**Final Submission**\n\nEach team must provide:\n\n- A functional prototype with a live demonstration.\n- A GitHub repository containing the source code.\n- A project presentation with at least seven slides.\n- Project documentation.\n\nFinal evaluation will consider innovation, technical implementation, practicality, cost efficiency, and overall impact.\n\n**Participation Guidelines**\n\n- Register through the official platform using accurate participant details.\n- Work on only one official problem statement.\n- Submit original work. Plagiarism will result in disqualification.\n- Demonstrate your own understanding of the project and avoid AI-generated presentation content.\n- Join the official event community and follow the Code of Conduct.\n- Violations of event rules may result in disqualification. Judges’ decisions are final and binding.\n\n## Hackathon Resources\n\n**(A) [Access Langfuse Coding agent here all free!](https://langfuse.com/)**\n**Langfuse coupon code:** LF-NONPROFIT-X5MSL\n\n**(B) Probe0 setup documentation for Mac:**\n1. Open Terminal and run: curl -fsSL https://probe0.xyz/i/h-makeathon | bash\n2. Sign in once when asked, and enter the Mac password once. That trusts a local certificate, which is how probe0 sees the agent traffic.\n3. Open a new terminal and use Claude Code or Codex as usual. The probe0 dashboard shows what every call used.\n4. Nothing leaves the machine, and running probe0 uninstall removes everything.\n\nDemo [Link](https://drive.google.com/file/d/1zrEUf4iqlpyQarQhjkDI-3PLA29mAB2Y/view?usp=sharing) for Probe0 Setup\n\nThere is also a Mac app download [here](https://probe0.xyz/betaInstall)",
     "dates": "2027-01-30 to 2027-01-31",
     "location": "Thapar Institute of Engineering & Technology, Bhadson Road, Patiala, Punjab, India",
@@ -235,7 +235,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://makeathon-9.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.540018+00:00"
+    "fetched_at": "2026-11-26T23:13:30.348971+00:00"
   },
   {
     "id": "devfolio_c3799771d6044d5dab5b1166ed242bc7",
@@ -249,7 +249,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://coderave-2.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.540022+00:00"
+    "fetched_at": "2026-11-26T23:13:30.348975+00:00"
   },
   {
     "id": "devfolio_f7babc21a0554c1883c9aed5f810a5e4",
@@ -263,7 +263,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://hacktu-8.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.540025+00:00"
+    "fetched_at": "2026-11-26T23:13:30.348978+00:00"
   },
   {
     "id": "devfolio_dbea472849f54f6dba58d9495e94e8be",
@@ -277,7 +277,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://devnexus-3.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.540028+00:00"
+    "fetched_at": "2026-11-26T23:13:30.348980+00:00"
   },
   {
     "id": "devfolio_2ffe46ed620f46e88380ade076a25d9e",
@@ -291,7 +291,7 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://convergence2027.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.540030+00:00"
+    "fetched_at": "2026-11-26T23:13:30.348982+00:00"
   },
   {
     "id": "devfolio_33da0fd4233c4ea1a4549375c145864c",
@@ -305,35 +305,161 @@
     "prizes": "Prize pool & perks listed on site",
     "url": "https://eclipse.devfolio.co",
     "source": "Devfolio API",
-    "fetched_at": "2026-11-25T23:14:04.540033+00:00"
+    "fetched_at": "2026-11-26T23:13:30.348984+00:00"
   },
   {
-    "id": "unstop_1826867",
-    "name": "UNIVION: CHRONOS DE NOVO",
+    "id": "unstop_1829321",
+    "name": "Tech Eximius 3.0",
     "platform": "Unstop",
-    "tagline": "Organized by SIEEDS",
-    "description": "Hackathon hosted by SIEEDS",
-    "dates": "Deadline: 2026-12-26 (29 days left)",
+    "tagline": "Organized by Tech Circle",
+    "description": "Hackathon hosted by Tech Circle",
+    "dates": "Deadline: 2027-01-24 (1 month left)",
     "location": "Online / Campus",
     "is_online": true,
     "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/univion-chronos-de-novo-sieeds-1826867",
+    "url": "https://unstop.com/hackathons/tech-eximius-30-tech-circle-1829321",
     "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562083+00:00"
+    "fetched_at": "2026-11-26T23:13:30.877634+00:00"
   },
   {
-    "id": "unstop_1828497",
-    "name": "Snow Code",
+    "id": "unstop_1829921",
+    "name": "Dry Run: DSA Challenge",
     "platform": "Unstop",
-    "tagline": "Organized by STAMPERS",
-    "description": "Hackathon hosted by STAMPERS",
+    "tagline": "Organized by ICFAI Business School (IBS), Hyderabad",
+    "description": "Hackathon hosted by ICFAI Business School (IBS), Hyderabad",
+    "dates": "Deadline: 2026-12-12 (15 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": ", , ",
+    "url": "https://unstop.com/hackathons/dry-run-dsa-challenge-ibs-hyderabad-1829921",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-26T23:13:30.877658+00:00"
+  },
+  {
+    "id": "unstop_1829639",
+    "name": "Novatrix 2026",
+    "platform": "Unstop",
+    "tagline": "Organized by AltairX Tech",
+    "description": "Hackathon hosted by AltairX Tech",
+    "dates": "Deadline: 2026-12-03 (5 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": ", , ",
+    "url": "https://unstop.com/hackathons/novatrix-2026-altairx-tech-1829639",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-26T23:13:30.877664+00:00"
+  },
+  {
+    "id": "unstop_1817824",
+    "name": "PromptWars x NEXORA ",
+    "platform": "Unstop",
+    "tagline": "Organized by NEXORA Navyug",
+    "description": "Hackathon hosted by NEXORA Navyug",
+    "dates": "Deadline: 2026-12-12 (15 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/promptwars-x-nexora-promptwars-x-nexora-nexora-navyug-1817824",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-26T23:13:30.877667+00:00"
+  },
+  {
+    "id": "unstop_1825414",
+    "name": "HackxCraft – A 6 hour coding challenge",
+    "platform": "Unstop",
+    "tagline": "Organized by LNCT Group of Colleges, Bhopal, Madhya Pradesh",
+    "description": "Hackathon hosted by LNCT Group of Colleges, Bhopal, Madhya Pradesh",
+    "dates": "Deadline: 2026-12-08 (10 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/hackxcraft-6-house-house-based-coding-challenge-e-summit26-lnct-group-of-colleges-bhopal-madhya-pradesh-1825414",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-26T23:13:30.877671+00:00"
+  },
+  {
+    "id": "unstop_1826953",
+    "name": "Imagine the Impossible: The Game Design Challenge ",
+    "platform": "Unstop",
+    "tagline": "Organized by Kalindi College (KC), University of Delhi (DU), Delhi",
+    "description": "Hackathon hosted by Kalindi College (KC), University of Delhi (DU), Delhi",
+    "dates": "Deadline: 2026-11-28 (1 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": ", ",
+    "url": "https://unstop.com/hackathons/imagine-the-impossible-the-game-design-challenge-kalindi-college-kc-university-of-delhi-du-delhi-1826953",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-26T23:13:30.877674+00:00"
+  },
+  {
+    "id": "unstop_1828749",
+    "name": "Online Coding Challenge",
+    "platform": "Unstop",
+    "tagline": "Organized by Rastrakavi Ramdhari Singh Dinkar College of Engineering(RRSDCE), Begusarai",
+    "description": "Hackathon hosted by Rastrakavi Ramdhari Singh Dinkar College of Engineering(RRSDCE), Begusarai",
+    "dates": "Deadline: 2026-11-26 (Ended)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/online-coding-challenge-rastrakavi-ramdhari-singh-dinkar-college-of-engineeringrrsdce-begusarai-1828749",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-26T23:13:30.877677+00:00"
+  },
+  {
+    "id": "unstop_1829674",
+    "name": "AI Agent Development & Enhancement Hackathon",
+    "platform": "Unstop",
+    "tagline": "Organized by Proton Solutions",
+    "description": "Hackathon hosted by Proton Solutions",
+    "dates": "Deadline: 2026-12-14 (16 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/ai-agent-development-enhancement-hackathon-proton-solutions-1829674",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-26T23:13:30.877684+00:00"
+  },
+  {
+    "id": "unstop_1798676",
+    "name": "Protocol Zero: Boot | Hack | CTF",
+    "platform": "Unstop",
+    "tagline": "Organized by Centre for Cybersecurity, Trust and Reliability, IIT Madras (CyStar)",
+    "description": "Hackathon hosted by Centre for Cybersecurity, Trust and Reliability, IIT Madras (CyStar)",
+    "dates": "Deadline: 2026-12-02 (5 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": ", , , ",
+    "url": "https://unstop.com/hackathons/protocol-zero-boot-hack-ctf-centre-for-cybersecurity-trust-and-reliability-iit-madras-cystar-1798676",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-26T23:13:30.877689+00:00"
+  },
+  {
+    "id": "unstop_1828678",
+    "name": "Hackday Dec",
+    "platform": "Unstop",
+    "tagline": "Organized by TrishulX",
+    "description": "Hackathon hosted by TrishulX",
     "dates": "Deadline: 2026-12-11 (14 days left)",
     "location": "Online / Campus",
     "is_online": true,
     "prizes": ", , ",
-    "url": "https://unstop.com/hackathons/snow-code-stampers-1828497",
+    "url": "https://unstop.com/hackathons/hackday-dec-trishulx-1828678",
     "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562104+00:00"
+    "fetched_at": "2026-11-26T23:13:30.877692+00:00"
+  },
+  {
+    "id": "unstop_1828890",
+    "name": "Agentic AI Hackathon 2026",
+    "platform": "Unstop",
+    "tagline": "Organized by Proton Solutions",
+    "description": "Hackathon hosted by Proton Solutions",
+    "dates": "Deadline: 2026-12-10 (12 days left)",
+    "location": "Online / Campus",
+    "is_online": true,
+    "prizes": "Prizes Available",
+    "url": "https://unstop.com/hackathons/agentic-ai-hackathon-2026-proton-solutions-1828890",
+    "source": "Unstop API",
+    "fetched_at": "2026-11-26T23:13:30.877695+00:00"
   },
   {
     "id": "unstop_1828382",
@@ -341,83 +467,13 @@
     "platform": "Unstop",
     "tagline": "Organized by ICFAI Business School (IBS), Hyderabad",
     "description": "Hackathon hosted by ICFAI Business School (IBS), Hyderabad",
-    "dates": "Deadline: 2026-12-05 (9 days left)",
+    "dates": "Deadline: 2026-12-05 (8 days left)",
     "location": "Online / Campus",
     "is_online": true,
     "prizes": ", , ",
     "url": "https://unstop.com/hackathons/hack-for-good-open-innovation-hackathon-ibs-hyderabad-1828382",
     "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562110+00:00"
-  },
-  {
-    "id": "unstop_1827808",
-    "name": "Utopia Stock Exchange",
-    "platform": "Unstop",
-    "tagline": "Organized by ICFAI Business School (IBS), Pune",
-    "description": "Hackathon hosted by ICFAI Business School (IBS), Pune",
-    "dates": "Deadline: 2026-12-10 (14 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , ",
-    "url": "https://unstop.com/hackathons/utopia-stock-exchange-icfai-business-school-ibs-pune-1827808",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562115+00:00"
-  },
-  {
-    "id": "unstop_1826269",
-    "name": "Enigma 2.0 – 24-Hour National level Hackathon | Riet Jaipur",
-    "platform": "Unstop",
-    "tagline": "Organized by Rajasthan institute of engineering and technology, Jaipur ",
-    "description": "Hackathon hosted by Rajasthan institute of engineering and technology, Jaipur ",
-    "dates": "Deadline: 2026-12-15 (19 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , ",
-    "url": "https://unstop.com/hackathons/enigma-20-24-hour-inter-college-hackathon-riet-jaipur-rajasthan-institute-of-engineering-and-technology-jaipu-1826269",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562119+00:00"
-  },
-  {
-    "id": "unstop_1827287",
-    "name": "LogiTHON 2026",
-    "platform": "Unstop",
-    "tagline": "Organized by Softlink Global Ltd",
-    "description": "Hackathon hosted by Softlink Global Ltd",
-    "dates": "Deadline: 2026-11-30 (4 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , , ",
-    "url": "https://unstop.com/hackathons/logithon-2026-softlink-global-ltd-1827287",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562123+00:00"
-  },
-  {
-    "id": "unstop_1812323",
-    "name": "Nexora AI – National AI & Innovation Hackathon 2026",
-    "platform": "Unstop",
-    "tagline": "Organized by PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh",
-    "description": "Hackathon hosted by PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh",
-    "dates": "Deadline: 2026-12-03 (7 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , ",
-    "url": "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562127+00:00"
-  },
-  {
-    "id": "unstop_1825938",
-    "name": "CoMemor Contributor Challenge",
-    "platform": "Unstop",
-    "tagline": "Organized by CoMemor",
-    "description": "Hackathon hosted by CoMemor",
-    "dates": "Deadline: 2026-12-08 (11 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", , ",
-    "url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562135+00:00"
+    "fetched_at": "2026-11-26T23:13:30.877700+00:00"
   },
   {
     "id": "unstop_1827472",
@@ -431,91 +487,35 @@
     "prizes": "Prizes Available",
     "url": "https://unstop.com/hackathons/finance-next-hackathon-2026-proton-solutions-1827472",
     "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562139+00:00"
+    "fetched_at": "2026-11-26T23:13:30.877702+00:00"
   },
   {
-    "id": "unstop_1828118",
-    "name": "404 Not Found:Hackathon edition ",
+    "id": "unstop_1827808",
+    "name": "Utopia Stock Exchange",
     "platform": "Unstop",
-    "tagline": "Organized by 404 Afterhours",
-    "description": "Hackathon hosted by 404 Afterhours",
-    "dates": "Deadline: 2026-12-31 (4 days left)",
+    "tagline": "Organized by ICFAI Business School (IBS), Pune",
+    "description": "Hackathon hosted by ICFAI Business School (IBS), Pune",
+    "dates": "Deadline: 2026-12-10 (13 days left)",
     "location": "Online / Campus",
     "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/404-not-foundhackathon-edition-404-afterhours-1828118",
+    "prizes": ", , ",
+    "url": "https://unstop.com/hackathons/utopia-stock-exchange-icfai-business-school-ibs-pune-1827808",
     "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562145+00:00"
+    "fetched_at": "2026-11-26T23:13:30.877705+00:00"
   },
   {
-    "id": "unstop_1827866",
-    "name": "CodePulse 48 - National Hackathon",
+    "id": "unstop_1825938",
+    "name": "CoMemor Contributor Challenge",
     "platform": "Unstop",
-    "tagline": "Organized by WeCodeCoders",
-    "description": "Hackathon hosted by WeCodeCoders",
-    "dates": "Deadline: 2026-12-25 (29 days left)",
+    "tagline": "Organized by CoMemor",
+    "description": "Hackathon hosted by CoMemor",
+    "dates": "Deadline: 2026-12-14 (17 days left)",
     "location": "Online / Campus",
     "is_online": true,
-    "prizes": ", , , ",
-    "url": "https://unstop.com/hackathons/codepulse-48-national-hackathon-wecodecoders-1827866",
+    "prizes": ", , ",
+    "url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
     "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562149+00:00"
-  },
-  {
-    "id": "unstop_1800622",
-    "name": "Codathon",
-    "platform": "Unstop",
-    "tagline": "Organized by Institute of chemical technology, Mumbai",
-    "description": "Hackathon hosted by Institute of chemical technology, Mumbai",
-    "dates": "Deadline: 2026-12-18 (21 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/codathon-vortex-140-institute-of-chemical-technology-mumbai-1800622",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562153+00:00"
-  },
-  {
-    "id": "unstop_1820425",
-    "name": "KITE Winter Innovation Expedition – National-Level Innovation Challenge",
-    "platform": "Unstop",
-    "tagline": "Organized by K.S. Rangasamy College Of Technology (KSRCT), Namakkal",
-    "description": "Hackathon hosted by K.S. Rangasamy College Of Technology (KSRCT), Namakkal",
-    "dates": "Deadline: 2026-12-04 (7 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/kite-winter-innovation-expedition-national-level-innovation-challenge-ks-rangasamy-college-of-technology-ksrc-1820425",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562156+00:00"
-  },
-  {
-    "id": "unstop_1823779",
-    "name": "Fourth Wall'26",
-    "platform": "Unstop",
-    "tagline": "Organized by Vellore Institute of Technology (VIT), Chennai",
-    "description": "Hackathon hosted by Vellore Institute of Technology (VIT), Chennai",
-    "dates": "Deadline: 2026-11-23 (Ended)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": "Prizes Available",
-    "url": "https://unstop.com/hackathons/fourth-wall27-vellore-institute-of-technology-vit-chennai-1823779",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562159+00:00"
-  },
-  {
-    "id": "unstop_1826211",
-    "name": "Zenith'2k26",
-    "platform": "Unstop",
-    "tagline": "Organized by MLR Institute Of Technology (MLRIT), Hyderabad",
-    "description": "Hackathon hosted by MLR Institute Of Technology (MLRIT), Hyderabad",
-    "dates": "Deadline: 2026-12-13 (17 days left)",
-    "location": "Online / Campus",
-    "is_online": true,
-    "prizes": ", ",
-    "url": "https://unstop.com/hackathons/zenith2k26-mlr-institute-of-technology-mlrit-hyderabad-1826211",
-    "source": "Unstop API",
-    "fetched_at": "2026-11-25T23:14:05.562163+00:00"
+    "fetched_at": "2026-11-26T23:13:30.877708+00:00"
   },
   {
     "id": "devpost_31667",
@@ -529,7 +529,7 @@
     "prizes": "$100,000",
     "url": "https://kiroween.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-25T23:14:05.720830+00:00"
+    "fetched_at": "2026-11-26T23:13:31.064841+00:00"
   },
   {
     "id": "devpost_31572",
@@ -543,7 +543,7 @@
     "prizes": "$120,000",
     "url": "https://codegeist2026.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-25T23:14:05.720849+00:00"
+    "fetched_at": "2026-11-26T23:13:31.064860+00:00"
   },
   {
     "id": "devpost_31808",
@@ -557,7 +557,7 @@
     "prizes": "$30,000",
     "url": "https://firebasehybridaihackathon.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-25T23:14:05.720855+00:00"
+    "fetched_at": "2026-11-26T23:13:31.064865+00:00"
   },
   {
     "id": "devpost_31644",
@@ -571,7 +571,7 @@
     "prizes": "$35,000",
     "url": "https://redditgameofday2026.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-25T23:14:05.720861+00:00"
+    "fetched_at": "2026-11-26T23:13:31.064869+00:00"
   },
   {
     "id": "devpost_32026",
@@ -585,7 +585,7 @@
     "prizes": "$10,000",
     "url": "https://cognizant-agenticweb.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-25T23:14:05.720865+00:00"
+    "fetched_at": "2026-11-26T23:13:31.064873+00:00"
   },
   {
     "id": "devpost_31083",
@@ -599,7 +599,7 @@
     "prizes": "$50,000",
     "url": "https://qnx.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-25T23:14:05.720870+00:00"
+    "fetched_at": "2026-11-26T23:13:31.064876+00:00"
   },
   {
     "id": "devpost_31973",
@@ -613,7 +613,7 @@
     "prizes": "$25,000",
     "url": "https://deckthepixels.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-25T23:14:05.720876+00:00"
+    "fetched_at": "2026-11-26T23:13:31.064880+00:00"
   },
   {
     "id": "devpost_31571",
@@ -627,7 +627,7 @@
     "prizes": "$25,000",
     "url": "https://cloud9.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-25T23:14:05.720884+00:00"
+    "fetched_at": "2026-11-26T23:13:31.064887+00:00"
   },
   {
     "id": "devpost_31642",
@@ -641,6 +641,6 @@
     "prizes": "$64,000",
     "url": "https://aws-agentic-msp.devpost.com/",
     "source": "Devpost API",
-    "fetched_at": "2026-11-25T23:14:05.720889+00:00"
+    "fetched_at": "2026-11-26T23:13:31.064892+00:00"
   }
 ]
